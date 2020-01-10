@@ -1,0 +1,14 @@
+# > 旅法师营地
+URL-REGEX,^https?:\/\/www\.iyingdi\.cn\/ad
+DOMAIN-SUFFIX,voiceads.cn
+# > 买单吧
+URL-REGEX,^https?:\/\/creditcardapp\.bankcomm\.com\/mapp\/common\/queryGuidePageAds\.do$
+URL-REGEX,^https?:\/\/creditcardapp\.bankcomm\.com\/mapp\/common\/getPopAds\.do$
+# > 美篇
+URL-REGEX,^https?:\/\/api\.meipian\.me.+advert
+# > 知乎
+USER-AGENT,AVOS*
+URL-REGEX,https?:\/\/www\.zhihu\.com\/api\/v4\/mcn\/
+URL-REGEX,https?:\/\/api\.zhihu\.com/(ab|adx|drama|fringe|zst|commercial|ad-style-service|market\/popover|search\/(top|tab|preset)|.*(guide|recommendations|extended|featured-comment-ad))
+# > 威锋
+URL-REGEX,^https?:\/\/api\.feng\.com\/v1\/advertisement\/advList
