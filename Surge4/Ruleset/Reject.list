@@ -156,6 +156,7 @@ DOMAIN,track.58.com
 DOMAIN,tracklog.58.com
 # (A)
 # > Apple
+DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,ads.internal.unity3d.com
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
