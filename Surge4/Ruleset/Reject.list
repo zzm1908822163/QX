@@ -108,6 +108,7 @@ DOMAIN,ad.hzyoka.com
 DOMAIN,ad.jiemian.com
 DOMAIN,ad.qingting.fm
 DOMAIN,ad.wappalyzer.com
+DOMAIN,ad-channel.woyeahgo.tk
 DOMAIN,ad-cn.jovcloud.com
 DOMAIN,adextra.51wnl-cq.com
 DOMAIN,api.adnet.mob.com
@@ -131,6 +132,9 @@ DOMAIN,mads.suning.com
 DOMAIN,mobileads.msn.com
 DOMAIN,mopnativeadv.037201.com
 DOMAIN,nativeadv.dftoutiao.com
+DOMAIN,oset-api.open-adx.com
+DOMAIN,sdkauth.hpplay.cn
+DOMAIN,tj.playcvn.com
 
 # (0~9)
 # > 58 同城
