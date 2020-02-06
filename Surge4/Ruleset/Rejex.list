@@ -149,6 +149,8 @@ URL-REGEX,^https?:\/\/smkmp\.96225.com\/smkcenter\/ad/
 # > 虎扑
 URL-REGEX,^https?:\/\/games\.mobileapi\.hupu\.com\/.+\/(interfaceAdMonitor|interfaceAd)\/
 URL-REGEX,^https?:\/\/business\.msstatic\.com\/advertiser\/
+# > 虎牙
+URL-REGEX,^https?:\/\/cdnfile1\.msstatic\.com\/cdnfile\/appad\/resource
 # > 韩剧社
 URL-REGEX,^https?:\/\/47\.97\.20\.12\/ad\/
 # > 火猫
