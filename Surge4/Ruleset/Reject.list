@@ -145,6 +145,10 @@ DOMAIN-SUFFIX,ads.internal.unity3d.com
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
 # > Alibaba
+IP-CIDR,112.29.211.120/32,no-resolve
+IP-CIDR,203.119.206.64/32,no-resolve
+IP-CIDR,203.119.211.219/32,no-resolve
+DOMAIN,amdc.m.taobao.com
 DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 DOMAIN,tunion-api.m.taobao.com

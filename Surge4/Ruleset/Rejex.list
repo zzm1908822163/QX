@@ -11,7 +11,8 @@ URL-REGEX,^https?:\/\/.+\.58cdn\.com\.cn\/brandads\/
 
 # A
 # > 阿里巴巴
-URL-REGEX,^https?:\/\/(gw|heic)\.alicdn\.com\/.*\.jpg_(9\d{2}|\d{4})
+URL-REGEX,^https?:\/\/(gw|heic)\.alicdn\.com\/.*\d{4}-\d{4}
+URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alibaba\.advertisementservice\.getadv
 # >> 闲鱼
 URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.taobao\.idle\.home\.welcome\/
 # >> 飞猪
