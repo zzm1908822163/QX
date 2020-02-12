@@ -134,6 +134,7 @@ DOMAIN,mopnativeadv.037201.com
 DOMAIN,nativeadv.dftoutiao.com
 DOMAIN,oset-api.open-adx.com
 DOMAIN,sdkauth.hpplay.cn
+DOMAIN,sf3-ttcdn-tos.pstatp.com
 DOMAIN,tj.playcvn.com
 
 # (0~9)
@@ -172,6 +173,9 @@ DOMAIN,ad.toutiao.com
 # > BitAuto
 DOMAIN,adx.yiche.com
 DOMAIN,log.ycapp.yiche.com
+# > bika
+DOMAIN,ads.wakamoment.tk
+DOMAIN,ad-display.wikawika.xyz
 # > 百词斩
 DOMAIN,advertise.baicizhan.com
 DOMAIN,advertise.baicizhan.org
