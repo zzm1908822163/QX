@@ -1,28 +1,28 @@
-USER-AGENT,%E5%9C%B0%E5%9B%BE*
-USER-AGENT,%E8%AE%BE%E7%BD%AE*
-USER-AGENT,*com.apple.mobileme.fmip1
-USER-AGENT,*WeatherFoundation*
-USER-AGENT,AppleNews*
-USER-AGENT,AppStore*
-USER-AGENT,com.apple.appstored*
-USER-AGENT,com.apple.geod*
-USER-AGENT,com.apple.Maps
-USER-AGENT,com.apple.news*
-USER-AGENT,FindMyFriends*
-USER-AGENT,FindMyiPhone*
-USER-AGENT,FMDClient*
-USER-AGENT,FMFD*
-USER-AGENT,fmflocatord*
-USER-AGENT,geod*
-USER-AGENT,locationd*
-USER-AGENT,Maps*
-USER-AGENT,TestFlight*
-DOMAIN,apple.comscoreresearch.com
-DOMAIN-SUFFIX,apple.cn
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple.news
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,itunes.com
-DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,mzstatic.com
+user-agent, %E5%9C%B0%E5%9B%BE*, 平等
+user-agent, %E8%AE%BE%E7%BD%AE*, 平等
+user-agent, *com.apple.mobileme.fmip1, 平等
+user-agent, *WeatherFoundation*, 平等
+user-agent, AppleNews*, 平等
+user-agent, AppStore*, 平等
+user-agent, com.apple.appstored*, 平等
+user-agent, com.apple.geod*, 平等
+user-agent, com.apple.Maps, 平等
+user-agent, com.apple.news*, 平等
+user-agent, FindMyFriends*, 平等
+user-agent, FindMyiPhone*, 平等
+user-agent, FMDClient*, 平等
+user-agent, FMFD*, 平等
+user-agent, fmflocatord*, 平等
+user-agent, geod*, 平等
+user-agent, locationd*, 平等
+user-agent, Maps*, 平等
+user-agent, TestFlight*, 平等
+host, apple.comscoreresearch.com, 平等
+host-suffix, apple.cn, 平等
+host-suffix, apple.com, 平等
+host-suffix, apple.news, 平等
+host-suffix, icloud.com, 平等
+host-suffix, icloud-content.com, 平等
+host-suffix, itunes.com, 平等
+host-suffix, me.com, 平等
+host-suffix, mzstatic.com, 平等

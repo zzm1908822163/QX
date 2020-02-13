@@ -1,13 +1,13 @@
 # > Bilibili
-USER-AGENT,*bili*
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
+user-agent, *bili*, 民主
+host-suffix, acg.tv, 民主
+host-suffix, acgvideo.com, 民主
+host-suffix, b23.tv, 民主
+host-suffix, biliapi.com, 民主
+host-suffix, biliapi.net, 民主
+host-suffix, bilibili.com, 民主
+host-suffix, biligame.com, 民主
+host-suffix, biligame.net, 民主
+host-suffix, bilivideo.com, 民主
+host-suffix, hdslb.com, 民主
+host-suffix, im9.com, 民主

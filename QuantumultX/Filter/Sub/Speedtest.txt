@@ -1,6 +1,6 @@
 # > Fast
-DOMAIN-SUFFIX,fast.com
+host-suffix, fast.com, 公正
 
 # > Speedtest
-DOMAIN-KEYWORD,speedtest
-DOMAIN-SUFFIX,ooklaserver.net
+host-keyword, speedtest, 公正
+host-suffix, ooklaserver.net, 公正
