@@ -1,188 +1,216 @@
 # Misc
 
-DOMAIN-SUFFIX,imgur.com
-DOMAIN-SUFFIX,droplr.com
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-SUFFIX,tumblr.com
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,instapaper.com
-DOMAIN-SUFFIX,pushbullet.com
-DOMAIN-SUFFIX,xteko.com
-DOMAIN-SUFFIX,rsshub.app
-DOMAIN-SUFFIX,testflight.center
-DOMAIN-SUFFIX,feedly.com
-DOMAIN-SUFFIX,nssurge.com
-DOMAIN-SUFFIX,giphy.com
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,mediawiki.org
-DOMAIN-SUFFIX,bbc.com
-DOMAIN-SUFFIX,tenor.com
-DOMAIN-SUFFIX,pexels.com
-DOMAIN-SUFFIX,imdb.com
-DOMAIN-SUFFIX,gfycat.com
-DOMAIN-SUFFIX,baiduwp.com
-DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,feedx.net
-DOMAIN-SUFFIX,feedex.net
-DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,iadsdk.apple.com
-DOMAIN-SUFFIX,outline.com
-
-AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
-AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
-AND,((DOMAIN-KEYWORD,github), (DOMAIN-SUFFIX,com))
-AND,((DOMAIN-KEYWORD,dropbox), (DOMAIN-SUFFIX,com))
+host-suffix, imgur.com, 富强
+host-suffix, droplr.com, 富强
+host-suffix, tiktokv.com, 富强
+host-suffix, tumblr.com, 富强
+host-suffix, amplitude.com, 富强
+host-suffix, instapaper.com, 富强
+host-suffix, pushbullet.com, 富强
+host-suffix, xteko.com, 富强
+host-suffix, rsshub.app, 富强
+host-suffix, testflight.center, 富强
+host-suffix, feedly.com, 富强
+host-suffix, nssurge.com, 富强
+host-suffix, giphy.com, 富强
+host-suffix, bing.com, 富强
+host-suffix, mediawiki.org, 富强
+host-suffix, bbc.com, 富强
+host-suffix, tenor.com, 富强
+host-suffix, pexels.com, 富强
+host-suffix, imdb.com, 富强
+host-suffix, gfycat.com, 富强
+host-suffix, baiduwp.com, 富强
+host-suffix, v2ex.com, 富强
+host-suffix, feedx.net, 富强
+host-suffix, feedex.net, 富强
+host-suffix, ampproject.org, 富强
+host-suffix, crashlytics.com, 富强
+host-suffix, iadsdk.apple.com, 富强
+host-suffix, outline.com, 富强
 
 # Spotify
-USER-AGENT,Spotify*
+user-agent, Spotify*, 富强
+
+# > Amazon
+ip-cidr, 13.32.0.0/16, 富强
+ip-cidr, 13.33.0.0/16, 富强
+ip-cidr, 13.35.0.0/17, 富强
+ip-cidr, 18.184.0.0/15, 富强
+ip-cidr, 18.194.0.0/15, 富强
+ip-cidr, 18.208.0.0/13, 富强
+ip-cidr, 18.232.0.0/14, 富强
+ip-cidr, 52.200.0.0/13, 富强
+ip-cidr, 52.58.0.0/15, 富强
+ip-cidr, 52.74.0.0/16, 富强
+ip-cidr, 52.77.0.0/16, 富强
+ip-cidr, 52.84.0.0/15, 富强
+ip-cidr, 54.156.0.0/14, 富强
+ip-cidr, 54.226.0.0/15, 富强
+ip-cidr, 54.230.156.0/22, 富强
+ip-cidr, 54.93.0.0/16, 富强
 
 # Apple
-DOMAIN,ocvideo.apple.com
+host, ocvideo.apple.com, 富强
+
+# dropbox
+host-suffix, dropbox, 富强
 
 # eBay
-DOMAIN-SUFFIX,ebay.com
-DOMAIN-SUFFIX,ebay-us.com
-DOMAIN-SUFFIX,ebayimg.com
-DOMAIN-SUFFIX,ebaystatic.com
+host-suffix, ebay.com, 富强
+host-suffix, ebay-us.com, 富强
+host-suffix, ebayimg.com, 富强
+host-suffix, ebaystatic.com, 富强
 
 # OneDrive
-USER-AGENT,OneDrive*
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,msauth.net
-DOMAIN-SUFFIX,onedrive.com
+user-agent, OneDrive*, 富强
+host-suffix, live.com, 富强
+host-suffix, msauth.net, 富强
+host-suffix, onedrive.com, 富强
 
 # Facebook
-DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,facebook.net
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,oculuscdn.com
+host-suffix, fb.me, 富强
+host-suffix, fbcdn.net, 富强
+host-suffix, fbsbx.com, 富强
+host-suffix, facebook.net, 富强
+host-suffix, facebook.com, 富强
+host-suffix, instagram.com, 富强
+host-suffix, cdninstagram.com, 富强
+host-suffix, messenger.com, 富强
+host-suffix, oculus.com, 富强
+host-suffix, oculuscdn.com, 富强
+host-suffix, whatsapp.com, 富强
+host-suffix, whatsapp.net, 富强
+host-suffix, oculus.com, 富强
+host-suffix, oculuscdn.com, 富强
 
 # Microsoft
-DOMAIN-SUFFIX,gfx.ms
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,msecnd.net
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,akamaized.net
+host-suffix, gfx.ms, 富强
+host-suffix, msn.com, 富强
+host-suffix, msecnd.net, 富强
+host-suffix, office.net, 富强
+host-suffix, office.com, 富强
+host-suffix, outlook.com, 富强
+host-suffix, office365.com, 富强
+host-suffix, akamaized.net, 富强
+
+# Github
+host-keyword, github, 富强
 
 # Gog
-DOMAIN-SUFFIX,gog.com
+host-suffix, gog.com, 富强
 
 # Google
-DOMAIN-KEYWORD,google
-DOMAIN-SUFFIX,goo.gl
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,gmail.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,youtube.com
+host-keyword, google, 富强
+host-suffix, goo.gl, 富强
+host-suffix, youtu.be, 富强
+host-suffix, gmail.com, 富强
+host-suffix, ytimg.com, 富强
+host-suffix, ggpht.com, 富强
+host-suffix, gstatic.com, 富强
+host-suffix, youtube.com, 富强
 
 # Line
-DOMAIN-SUFFIX,line.me
-DOMAIN-SUFFIX,line-scdn.net
-DOMAIN-SUFFIX,line-apps.com
+host-suffix, line.me, 富强
+host-suffix, line-scdn.net, 富强
+host-suffix, line-apps.com, 富强
 
 # Reddit
-DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,redditmedia.com
-DOMAIN-SUFFIX,redditstatic.com
+host-suffix, redd.it, 富强
+host-suffix, reddit.com, 富强
+host-suffix, redditmedia.com, 富强
+host-suffix, redditstatic.com, 富强
 
 # Yahoo
-DOMAIN-SUFFIX,yimg.com
-DOMAIN-SUFFIX,yahoo.com
+host-suffix, yimg.com, 富强
+host-suffix, yahoo.com, 富强
 
 # Slack
-DOMAIN-SUFFIX,slack.com
-DOMAIN-SUFFIX,slack-edge.com
-DOMAIN-SUFFIX,slack-msgs.com
+host-suffix, slack.com, 富强
+host-suffix, slack-edge.com, 富强
+host-suffix, slack-msgs.com, 富强
 
 # Pinterest
-DOMAIN-SUFFIX,pinimg.com
-DOMAIN-SUFFIX,pinterest.com
+host-suffix, pinimg.com, 富强
+host-suffix, pinterest.com, 富强
 
 # Pixiv
-DOMAIN-SUFFIX,pixiv.org
-DOMAIN-SUFFIX,pixiv.net
-DOMAIN-SUFFIX,pximg.net
+host-suffix, pixiv.org, 富强
+host-suffix, pixiv.net, 富强
+host-suffix, pximg.net, 富强
 
 # Zendesk
-DOMAIN-SUFFIX,zendesk.com
-DOMAIN-SUFFIX,zdassets.com
+host-suffix, zendesk.com, 富强
+host-suffix, zdassets.com, 富强
 
 # TextNow
-USER-AGENT,TextNow*
-DOMAIN-SUFFIX,freegeoip.net
+user-agent, TextNow*, 富强
+host-suffix, freegeoip.net, 富强
 
 # Trello
-DOMAIN-SUFFIX,trello.com
-DOMAIN-SUFFIX,trellocdn.com
+host-suffix, trello.com, 富强
+host-suffix, trellocdn.com, 富强
 
 # Twitch
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,twitchsvc.net
+host-suffix, twitch.tv, 富强
+host-suffix, jtvnw.net, 富强
+host-suffix, ttvnw.net, 富强
+host-suffix, twitchsvc.net, 富强
 
 # Twitter
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitter.com
+host-suffix, twimg.com, 富强
+host-suffix, twitter.com, 富强
 
 # Telegram
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegramindex.com
+host-suffix, t.me, 富强
+host-suffix, telegra.ph, 富强
+host-suffix, telegram.me, 富强
+host-suffix, telegram.org, 富强
+host-suffix, tdesktop.com, 富强
+host-suffix, telegramindex.com, 富强
 
 # WalMart
-DOMAIN-SUFFIX,walmart.com
-DOMAIN-SUFFIX,walmartimages.com
+host-suffix, walmart.com, 富强
+host-suffix, walmartimages.com, 富强
+
+# > Wiki
+host-suffix, wikiwand.com, 富强
+host-suffix, wikileaks.info, 富强
+host-suffix, wikileaks.org, 富强
+host-suffix, wikileaks-forum.com, 富强
+host-suffix, wikimedia.org, 富强
+host-suffix, wikipedia.com, 富强
+host-suffix, wikipedia.org, 富强
 
 # Snapchat
-DOMAIN-SUFFIX,snapchat.com
-DOMAIN-SUFFIX,sc-static.net
+host-suffix, snapchat.com, 富强
+host-suffix, sc-static.net, 富强
 
 # CNN
-DOMAIN-SUFFIX,cnn.io
-DOMAIN-SUFFIX,cnn.com
+host-suffix, cnn.io, 富强
+host-suffix, cnn.com, 富强
 
 # Blogger
-DOMAIN-SUFFIX,blogger.com
-DOMAIN-SUFFIX,blogspot.com
+host-suffix, blogger.com, 富强
+host-suffix, blogspot.com, 富强
 
 # PalPal
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
+host-suffix, paypal.com, 富强
+host-suffix, paypalobjects.com, 富强
 
 # Xvideos
-DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,xvideos-cdn.com
+host-suffix, xvideos.com, 富强
+host-suffix, xvideos-cdn.com, 富强
 
 # PornHub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,pornhub.com
+host-suffix, phncdn.com, 富强
+host-suffix, pornhub.com, 富强
 
 # NYTimes
-DOMAIN-SUFFIX,nyt.com
-DOMAIN-SUFFIX,nytcn.me
-DOMAIN-SUFFIX,nytimes.com
+host-suffix, nyt.com, 富强
+host-suffix, nytcn.me, 富强
+host-suffix, nytimes.com, 富强
 
 # Ftchnese
-DOMAIN-SUFFIX,ftimg.net
-DOMAIN-SUFFIX,ftchinese.com
+host-suffix, ftimg.net, 富强
+host-suffix, ftchinese.com, 富强

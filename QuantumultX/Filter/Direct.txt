@@ -1,220 +1,224 @@
 # Misc
-DOMAIN-SUFFIX,115.com
-DOMAIN-SUFFIX,10010.com
-DOMAIN-SUFFIX,95516.com
-DOMAIN-SUFFIX,rr.tv
-DOMAIN-SUFFIX,sm.ms
-DOMAIN-SUFFIX,mipcdn.com
-DOMAIN-SUFFIX,juejin.im
-DOMAIN-SUFFIX,sspai.com
-DOMAIN-SUFFIX,feng.com
-DOMAIN-SUFFIX,ithome.com
-DOMAIN-SUFFIX,xinhuanet.com
-DOMAIN-SUFFIX,tianyaui.com
-DOMAIN-SUFFIX,xunlei.com
-DOMAIN-SUFFIX,meitudata.com
-DOMAIN-SUFFIX,ruanmei.com
-DOMAIN-SUFFIX,coding.net
-DOMAIN-SUFFIX,loli.net
-DOMAIN-SUFFIX,ipsw.me
-DOMAIN-SUFFIX,ibeta.me
-DOMAIN-SUFFIX,runoob.com
-DOMAIN-SUFFIX,gitee.com
-DOMAIN-SUFFIX,yinxiang.com
-DOMAIN-SUFFIX,evernote.com
-DOMAIN-SUFFIX,captora.com
-DOMAIN-SUFFIX,dpfile.com
-DOMAIN-SUFFIX,suning.com
-DOMAIN-SUFFIX,hupu.com
-DOMAIN-SUFFIX,gifshow.com
-DOMAIN-SUFFIX,cordcloud.org
-DOMAIN-SUFFIX,openinstall.io
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,bootcss.com
-DOMAIN-SUFFIX,lizhi.io
-DOMAIN-SUFFIX,huya.com
-DOMAIN-SUFFIX,pcbeta.com
-DOMAIN-SUFFIX,qiniu.com
-DOMAIN-SUFFIX,cnblogs.com
-DOMAIN-SUFFIX,jandan.net
-DOMAIN-SUFFIX,yinyuetai.com
-DOMAIN-SUFFIX,kuaidi100.com
-DOMAIN-SUFFIX,guokr.com
-DOMAIN-SUFFIX,adguard.com
-DOMAIN-SUFFIX,huanqiu.com
-DOMAIN-SUFFIX,oschina.net
-DOMAIN-SUFFIX,cmbchina.com
-DOMAIN-SUFFIX,magi.com
+host-suffix, 115.com, 民主
+host-suffix, 10010.com, 民主
+host-suffix, 95516.com, 民主
+host-suffix, rr.tv, 民主
+host-suffix, sm.ms, 民主
+host-suffix, mipcdn.com, 民主
+host-suffix, juejin.im, 民主
+host-suffix, sspai.com, 民主
+host-suffix, feng.com, 民主
+host-suffix, ithome.com, 民主
+host-suffix, xinhuanet.com, 民主
+host-suffix, tianyaui.com, 民主
+host-suffix, xunlei.com, 民主
+host-suffix, meitudata.com, 民主
+host-suffix, ruanmei.com, 民主
+host-suffix, coding.net, 民主
+host-suffix, loli.net, 民主
+host-suffix, ipsw.me, 民主
+host-suffix, ibeta.me, 民主
+host-suffix, runoob.com, 民主
+host-suffix, gitee.com, 民主
+host-suffix, yinxiang.com, 民主
+host-suffix, evernote.com, 民主
+host-suffix, captora.com, 民主
+host-suffix, dpfile.com, 民主
+host-suffix, suning.com, 民主
+host-suffix, hupu.com, 民主
+host-suffix, gifshow.com, 民主
+host-suffix, cordcloud.org, 民主
+host-suffix, openinstall.io, 民主
+host-suffix, cloudfront.net, 民主
+host-suffix, cloudflare.com, 民主
+host-suffix, bootcss.com, 民主
+host-suffix, lizhi.io, 民主
+host-suffix, huya.com, 民主
+host-suffix, pcbeta.com, 民主
+host-suffix, qiniu.com, 民主
+host-suffix, cnblogs.com, 民主
+host-suffix, jandan.net, 民主
+host-suffix, yinyuetai.com, 民主
+host-suffix, kuaidi100.com, 民主
+host-suffix, guokr.com, 民主
+host-suffix, adguard.com, 民主
+host-suffix, huanqiu.com, 民主
+host-suffix, oschina.net, 民主
+host-suffix, cmbchina.com, 民主
+host-suffix, magi.com, 民主
 
-DOMAIN-SUFFIX,cn
-DOMAIN-SUFFIX,local
+host-suffix, cn, 民主
+host-suffix, local, 民主
 
-DOMAIN-SUFFIX,douban.com
-DOMAIN-SUFFIX,doubanio.com
+host-suffix, douban.com, 民主
+host-suffix, doubanio.com, 民主
 
-DOMAIN-SUFFIX,36kr.com
-DOMAIN-SUFFIX,36krcnd.com
+host-suffix, 36kr.com, 民主
+host-suffix, 36krcnd.com, 民主
 
-DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,miaopai.com
+host-suffix, weibo.com, 民主
+host-suffix, miaopai.com, 民主
 
-DOMAIN-SUFFIX,ifeng.com
-DOMAIN-SUFFIX,ifengimg.com
+host-suffix, ifeng.com, 民主
+host-suffix, ifengimg.com, 民主
 
-DOMAIN-SUFFIX,ctrip.com
-DOMAIN-SUFFIX,c-ctrip.com
+host-suffix, ctrip.com, 民主
+host-suffix, c-ctrip.com, 民主
 
-DOMAIN-SUFFIX,csdn.net
-DOMAIN-SUFFIX,ipip.net
-DOMAIN-SUFFIX,douyu.com
+host-suffix, csdn.net, 民主
+host-suffix, ipip.net, 民主
+host-suffix, douyu.com, 民主
 
-DOMAIN-SUFFIX,jianshu.io
-DOMAIN-SUFFIX,jianshu.com
+host-suffix, jianshu.io, 民主
+host-suffix, jianshu.com, 民主
 
-DOMAIN-SUFFIX,cnbeta.com
-DOMAIN-SUFFIX,cnbetacdn.com
+host-suffix, cnbeta.com, 民主
+host-suffix, cnbetacdn.com, 民主
 
-DOMAIN-SUFFIX,huxiu.com
-DOMAIN-SUFFIX,huxiucdn.com
+host-suffix, huxiu.com, 民主
+host-suffix, huxiucdn.com, 民主
 
-DOMAIN-SUFFIX,pinduoduo.com
-DOMAIN-SUFFIX,yangkeduo.com
+host-suffix, pinduoduo.com, 民主
+host-suffix, yangkeduo.com, 民主
 
-DOMAIN-SUFFIX,lanzou.com
-DOMAIN-SUFFIX,lanzous.com
+host-suffix, lanzou.com, 民主
+host-suffix, lanzous.com, 民主
 
-DOMAIN-SUFFIX,ifanr.com
-DOMAIN-SUFFIX,ifanrusercontent.com
+host-suffix, ifanr.com, 民主
+host-suffix, ifanrusercontent.com, 民主
 
-DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,zhimg.com
+host-suffix, zhihu.com, 民主
+host-suffix, zhimg.com, 民主
 
-DOMAIN-SUFFIX,lncld.net
-DOMAIN-SUFFIX,lncldglobal.com
+host-suffix, lncld.net, 民主
+host-suffix, lncldglobal.com, 民主
 
-DOMAIN-SUFFIX,tuchong.net
-DOMAIN-SUFFIX,tuchong.com
+host-suffix, tuchong.net, 民主
+host-suffix, tuchong.com, 民主
 
-DOMAIN-SUFFIX,meituan.net
-DOMAIN-SUFFIX,dianping.com
+host-suffix, meituan.net, 民主
+host-suffix, dianping.com, 民主
+
+# 360
+host-suffix, 360.com, 民主
+host-suffix, so.com, 民主
+host-suffix, qihoo.com, 民主
+host-suffix, 360safe.com, 民主
+host-suffix, qhimg.com, 民主
+host-suffix, 360totalsecurity.com, 民主
+host-suffix, yunpancom, 民主
 
 # Apple
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,apple-mapkit.com
-DOMAIN-SUFFIX,icloud-content.com
+host-suffix, apple.com, 民主
+host-suffix, icloud.com, 民主
+host-suffix, cdn-apple.com, 民主
+host-suffix, apple-mapkit.com, 民主
+host-suffix, icloud-content.com, 民主
 
 # Alibaba
-DOMAIN-SUFFIX,1688.com
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,aliapp.org
-DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,alicdn.com
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,mmstat.com
+host-suffix, 1688.com, 民主
+host-suffix, amap.com, 民主
+host-suffix, aliapp.org, 民主
+host-suffix, alibaba.com, 民主
+host-suffix, alicdn.com, 民主
+host-suffix, alipay.com, 民主
+host-suffix, aliyun.com, 民主
+host-suffix, aliyuncs.com, 民主
+host-suffix, tmall.com, 民主
+host-suffix, taobao.com, 民主
+host-suffix, mmstat.com, 民主
 
 # Baidu
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,bdimg.com
-DOMAIN-SUFFIX,baidupcs.com
-DOMAIN-SUFFIX,baidupan.com
-DOMAIN-SUFFIX,bcebos.com
-DOMAIN-SUFFIX,bdstatic.com
+host-suffix, baidu.com, 民主
+host-suffix, bdimg.com, 民主
+host-suffix, baidupcs.com, 民主
+host-suffix, baidupan.com, 民主
+host-suffix, bcebos.com, 民主
+host-suffix, bdstatic.com, 民主
+host-suffix, n.shifen.com, 民主
 
 # Bilibili
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
+host-suffix, hdslb.com, 民主
+host-suffix, acgvideo.com, 民主
+host-suffix, biliapi.net, 民主
+host-suffix, bilibili.com, 民主
 
 # ByteDance
-DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,toutiao.com
-DOMAIN-SUFFIX,ixigua.com
-DOMAIN-SUFFIX,snssdk.com
+host-suffix, pstatp.com, 民主
+host-suffix, toutiao.com, 民主
+host-suffix, ixigua.com, 民主
+host-suffix, snssdk.com, 民主
 
 # JD
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,300hu.com
-DOMAIN-SUFFIX,360buyimg.com
-DOMAIN-SUFFIX,jdcloud.com
-DOMAIN-SUFFIX,jcloudcs.com
+host-suffix, jd.com, 民主
+host-suffix, 300hu.com, 民主
+host-suffix, 360buyimg.com, 民主
+host-suffix, jdcloud.com, 民主
+host-suffix, jcloudcs.com, 民主
 
 # NetEase
-DOMAIN-SUFFIX,126.net
-DOMAIN-SUFFIX,127.net
-DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,163yun.com
-DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,youdao.com
-DOMAIN-SUFFIX,ydstatic.com
+host-suffix, 126.net, 民主
+host-suffix, 127.net, 民主
+host-suffix, 163.com, 民主
+host-suffix, 163yun.com, 民主
+host-suffix, netease.com, 民主
+host-suffix, youdao.com, 民主
+host-suffix, ydstatic.com, 民主
 
 # Tencent
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,gtimg.com
-DOMAIN-SUFFIX,txfund.com
-DOMAIN-SUFFIX,tenpay.com
-DOMAIN-SUFFIX,idqqimg.com
-DOMAIN-SUFFIX,weiyun.com
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,smtcdns.com
-DOMAIN-SUFFIX,qcloud.com
-DOMAIN-SUFFIX,myqcloud.com
-DOMAIN-SUFFIX,qcloudimg.com
+host-suffix, qq.com, 民主
+host-suffix, gtimg.com, 民主
+host-suffix, txfund.com, 民主
+host-suffix, tenpay.com, 民主
+host-suffix, idqqimg.com, 民主
+host-suffix, weiyun.com, 民主
+host-suffix, tencent.com, 民主
+host-suffix, smtcdns.com, 民主
+host-suffix, qcloud.com, 民主
+host-suffix, myqcloud.com, 民主
+host-suffix, qcloudimg.com, 民主
 
 # Xiaomi
-DOMAIN-SUFFIX,mi.com
-DOMAIN-SUFFIX,miui.com
-DOMAIN-SUFFIX,mipay.com
-DOMAIN-SUFFIX,mi-img.com
-DOMAIN-SUFFIX,xiaomi.com
+host-suffix, mi.com, 民主
+host-suffix, miui.com, 民主
+host-suffix, mipay.com, 民主
+host-suffix, mi-img.com, 民主
+host-suffix, xiaomi.com, 民主
 
 # Huawei
-DOMAIN-SUFFIX,huawei.com
-DOMAIN-SUFFIX,hicloud.com
-DOMAIN-SUFFIX,huaweicloud.com
-DOMAIN-SUFFIX,vmall.com
-DOMAIN-SUFFIX,vmallres.com
+host-suffix, huawei.com, 民主
+host-suffix, hicloud.com, 民主
+host-suffix, huaweicloud.com, 民主
+host-suffix, vmall.com, 民主
+host-suffix, vmallres.com, 民主
 
 # Souhu
-DOMAIN-SUFFIX,sohu.com
-DOMAIN-SUFFIX,sohucs.com
-DOMAIN-SUFFIX,sogou.com
-DOMAIN-SUFFIX,sogoucdn.com
+host-suffix, sohu.com, 民主
+host-suffix, sohucs.com, 民主
+host-suffix, sogou.com, 民主
+host-suffix, sogoucdn.com, 民主
 
 # Youku
-DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,tudou.com
-DOMAIN-SUFFIX,soku.com
+host-suffix, youku.com, 民主
+host-suffix, ykimg.com, 民主
+host-suffix, tudou.com, 民主
+host-suffix, soku.com, 民主
 
 # iQIYI
-DOMAIN-SUFFIX,qy.net
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,iqiyipic.com
-DOMAIN-SUFFIX,irs01.com
+host-suffix, qy.net, 民主
+host-suffix, iqiyi.com, 民主
+host-suffix, iqiyipic.com, 民主
+host-suffix, irs01.com, 民主
 
 # TapTap
-DOMAIN-SUFFIX,tapdb.net
-DOMAIN-SUFFIX,taptap.com
-DOMAIN-SUFFIX,tapimg.com
+host-suffix, tapdb.net, 民主
+host-suffix, taptap.com, 民主
+host-suffix, tapimg.com, 民主
 
 # Except
-DOMAIN,cn.bing.com
-DOMAIN,www.microsoft.com
-DOMAIN,www.gstatic.com
-DOMAIN,ssl.gstatic.com
-DOMAIN,cdn.ampproject.org
-DOMAIN,safebrowsing.googleapis.com
-
-# Must
-URL-REGEX,(Subject|HELO|SMTP)
-URL-REGEX,(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
-URL-REGEX,(.+.|^)(360|so|qihoo|360safe|qhimg|360totalsecurity|yunpan).(cn|com)
-URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=|sandai|Thunder|XLLiveUD|xunlei)(..+)?
+host, cn.bing.com, 民主
+host, www.microsoft.com, 民主
+host, www.gstatic.com, 民主
+host, ssl.gstatic.com, 民主
+host, cdn.ampproject.org, 民主
+host, safebrowsing.googleapis.com, 民主

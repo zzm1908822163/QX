@@ -1,226 +1,226 @@
 # Internet Service Providers Hijacking 运营商劫持
-DOMAIN-SUFFIX,17gouwuba.com
-DOMAIN-SUFFIX,186078.com
-DOMAIN-SUFFIX,189zj.cn
-DOMAIN-SUFFIX,285680.com
-DOMAIN-SUFFIX,3721zh.com
-DOMAIN-SUFFIX,4336wang.cn
-DOMAIN-SUFFIX,51chumoping.com
-DOMAIN-SUFFIX,51mld.cn
-DOMAIN-SUFFIX,51mypc.cn
-DOMAIN-SUFFIX,58mingri.cn
-DOMAIN-SUFFIX,58mingtian.cn
-DOMAIN-SUFFIX,5vl58stm.com
-DOMAIN-SUFFIX,6d63d3.com
-DOMAIN-SUFFIX,7gg.cc
-DOMAIN-SUFFIX,91veg.com
-DOMAIN-SUFFIX,9s6q.cn
-DOMAIN-SUFFIX,adsame.com
-DOMAIN-SUFFIX,aiclk.com
-DOMAIN-SUFFIX,akuai.top
-DOMAIN-SUFFIX,atplay.cn
-DOMAIN-SUFFIX,baiwanchuangyi.com
-DOMAIN-SUFFIX,beerto.cn
-DOMAIN-SUFFIX,beilamusi.com
-DOMAIN-SUFFIX,benshiw.net
-DOMAIN-SUFFIX,bianxianmao.com
-DOMAIN-SUFFIX,bryonypie.com
-DOMAIN-SUFFIX,cishantao.com
-DOMAIN-SUFFIX,cszlks.com
-DOMAIN-SUFFIX,cudaojia.com
-DOMAIN-SUFFIX,dafapromo.com
-DOMAIN-SUFFIX,daitdai.com
-DOMAIN-SUFFIX,dsaeerf.com
-DOMAIN-SUFFIX,dugesheying.com
-DOMAIN-SUFFIX,dv8c1t.cn
-DOMAIN-SUFFIX,echatu.com
-DOMAIN-SUFFIX,erdoscs.com
-DOMAIN-SUFFIX,fan-yong.com
-DOMAIN-SUFFIX,feih.com.cn
-DOMAIN-SUFFIX,fjlqqc.com
-DOMAIN-SUFFIX,fkku194.com
-DOMAIN-SUFFIX,freedrive.cn
-DOMAIN-SUFFIX,gclick.cn
-DOMAIN-SUFFIX,goufanli100.com
-DOMAIN-SUFFIX,goupaoerdai.com
-DOMAIN-SUFFIX,gouwubang.com
-DOMAIN-SUFFIX,gzxnlk.com
-DOMAIN-SUFFIX,haoshengtoys.com
-DOMAIN-SUFFIX,hyunke.com
-DOMAIN-SUFFIX,ichaosheng.com
-DOMAIN-SUFFIX,ishop789.com
-DOMAIN-SUFFIX,jdkic.com
-DOMAIN-SUFFIX,jiubuhua.com
-DOMAIN-SUFFIX,jsncke.com
-DOMAIN-SUFFIX,junkucm.com
-DOMAIN-SUFFIX,jwg365.cn
-DOMAIN-SUFFIX,kawo77.com
-DOMAIN-SUFFIX,kualianyingxiao.cn
-DOMAIN-SUFFIX,kumihua.com
-DOMAIN-SUFFIX,ltheanine.cn
-DOMAIN-SUFFIX,maipinshangmao.com
-DOMAIN-SUFFIX,minisplat.cn
-DOMAIN-SUFFIX,mkitgfs.com
-DOMAIN-SUFFIX,mlnbike.com
-DOMAIN-SUFFIX,mobjump.com
-DOMAIN-SUFFIX,nbkbgd.cn
-DOMAIN-SUFFIX,newapi.com
-DOMAIN-SUFFIX,pinzhitmall.com
-DOMAIN-SUFFIX,poppyta.com
-DOMAIN-SUFFIX,qianchuanghr.com
-DOMAIN-SUFFIX,qichexin.com
-DOMAIN-SUFFIX,qinchugudao.com
-DOMAIN-SUFFIX,quanliyouxi.cn
-DOMAIN-SUFFIX,qutaobi.com
-DOMAIN-SUFFIX,ry51w.cn
-DOMAIN-SUFFIX,sg536.cn
-DOMAIN-SUFFIX,sifubo.cn
-DOMAIN-SUFFIX,sifuce.cn
-DOMAIN-SUFFIX,sifuda.cn
-DOMAIN-SUFFIX,sifufu.cn
-DOMAIN-SUFFIX,sifuge.cn
-DOMAIN-SUFFIX,sifugu.cn
-DOMAIN-SUFFIX,sifuhe.cn
-DOMAIN-SUFFIX,sifuhu.cn
-DOMAIN-SUFFIX,sifuji.cn
-DOMAIN-SUFFIX,sifuka.cn
-DOMAIN-SUFFIX,smgru.net
-DOMAIN-SUFFIX,taoggou.com
-DOMAIN-SUFFIX,tcxshop.com
-DOMAIN-SUFFIX,tjqonline.cn
-DOMAIN-SUFFIX,topitme.com
-DOMAIN-SUFFIX,tt3sm4.cn
-DOMAIN-SUFFIX,tuia.cn
-DOMAIN-SUFFIX,tuipenguin.com
-DOMAIN-SUFFIX,tuitiger.com
-DOMAIN-SUFFIX,websd8.com
-DOMAIN-SUFFIX,wsgblw.com
-DOMAIN-SUFFIX,wx16999.com
-DOMAIN-SUFFIX,xchmai.com
-DOMAIN-SUFFIX,xiaohuau.xyz
-DOMAIN-SUFFIX,ygyzx.cn
-DOMAIN-SUFFIX,yinmong.com
-DOMAIN-SUFFIX,yitaopt.com
-DOMAIN-SUFFIX,yjqiqi.com
-DOMAIN-SUFFIX,yukhj.com
-DOMAIN-SUFFIX,zhaozecheng.cn
-DOMAIN-SUFFIX,zhenxinet.com
-DOMAIN-SUFFIX,zlne800.com
-DOMAIN-SUFFIX,zunmi.cn
-DOMAIN-SUFFIX,zzd6.com
-IP-CIDR,39.107.15.115/32,no-resolve
-IP-CIDR,47.89.59.182/32,no-resolve
-IP-CIDR,103.49.209.27/32,no-resolve
-IP-CIDR,123.56.152.96/32,no-resolve
+host-suffix, 17gouwuba.com, 文明
+host-suffix, 186078.com, 文明
+host-suffix, 189zj.cn, 文明
+host-suffix, 285680.com, 文明
+host-suffix, 3721zh.com, 文明
+host-suffix, 4336wang.cn, 文明
+host-suffix, 51chumoping.com, 文明
+host-suffix, 51mld.cn, 文明
+host-suffix, 51mypc.cn, 文明
+host-suffix, 58mingri.cn, 文明
+host-suffix, 58mingtian.cn, 文明
+host-suffix, 5vl58stm.com, 文明
+host-suffix, 6d63d3.com, 文明
+host-suffix, 7gg.cc, 文明
+host-suffix, 91veg.com, 文明
+host-suffix, 9s6q.cn, 文明
+host-suffix, adsame.com, 文明
+host-suffix, aiclk.com, 文明
+host-suffix, akuai.top, 文明
+host-suffix, atplay.cn, 文明
+host-suffix, baiwanchuangyi.com, 文明
+host-suffix, beerto.cn, 文明
+host-suffix, beilamusi.com, 文明
+host-suffix, benshiw.net, 文明
+host-suffix, bianxianmao.com, 文明
+host-suffix, bryonypie.com, 文明
+host-suffix, cishantao.com, 文明
+host-suffix, cszlks.com, 文明
+host-suffix, cudaojia.com, 文明
+host-suffix, dafapromo.com, 文明
+host-suffix, daitdai.com, 文明
+host-suffix, dsaeerf.com, 文明
+host-suffix, dugesheying.com, 文明
+host-suffix, dv8c1t.cn, 文明
+host-suffix, echatu.com, 文明
+host-suffix, erdoscs.com, 文明
+host-suffix, fan-yong.com, 文明
+host-suffix, feih.com.cn, 文明
+host-suffix, fjlqqc.com, 文明
+host-suffix, fkku194.com, 文明
+host-suffix, freedrive.cn, 文明
+host-suffix, gclick.cn, 文明
+host-suffix, goufanli100.com, 文明
+host-suffix, goupaoerdai.com, 文明
+host-suffix, gouwubang.com, 文明
+host-suffix, gzxnlk.com, 文明
+host-suffix, haoshengtoys.com, 文明
+host-suffix, hyunke.com, 文明
+host-suffix, ichaosheng.com, 文明
+host-suffix, ishop789.com, 文明
+host-suffix, jdkic.com, 文明
+host-suffix, jiubuhua.com, 文明
+host-suffix, jsncke.com, 文明
+host-suffix, junkucm.com, 文明
+host-suffix, jwg365.cn, 文明
+host-suffix, kawo77.com, 文明
+host-suffix, kualianyingxiao.cn, 文明
+host-suffix, kumihua.com, 文明
+host-suffix, ltheanine.cn, 文明
+host-suffix, maipinshangmao.com, 文明
+host-suffix, minisplat.cn, 文明
+host-suffix, mkitgfs.com, 文明
+host-suffix, mlnbike.com, 文明
+host-suffix, mobjump.com, 文明
+host-suffix, nbkbgd.cn, 文明
+host-suffix, newapi.com, 文明
+host-suffix, pinzhitmall.com, 文明
+host-suffix, poppyta.com, 文明
+host-suffix, qianchuanghr.com, 文明
+host-suffix, qichexin.com, 文明
+host-suffix, qinchugudao.com, 文明
+host-suffix, quanliyouxi.cn, 文明
+host-suffix, qutaobi.com, 文明
+host-suffix, ry51w.cn, 文明
+host-suffix, sg536.cn, 文明
+host-suffix, sifubo.cn, 文明
+host-suffix, sifuce.cn, 文明
+host-suffix, sifuda.cn, 文明
+host-suffix, sifufu.cn, 文明
+host-suffix, sifuge.cn, 文明
+host-suffix, sifugu.cn, 文明
+host-suffix, sifuhe.cn, 文明
+host-suffix, sifuhu.cn, 文明
+host-suffix, sifuji.cn, 文明
+host-suffix, sifuka.cn, 文明
+host-suffix, smgru.net, 文明
+host-suffix, taoggou.com, 文明
+host-suffix, tcxshop.com, 文明
+host-suffix, tjqonline.cn, 文明
+host-suffix, topitme.com, 文明
+host-suffix, tt3sm4.cn, 文明
+host-suffix, tuia.cn, 文明
+host-suffix, tuipenguin.com, 文明
+host-suffix, tuitiger.com, 文明
+host-suffix, websd8.com, 文明
+host-suffix, wsgblw.com, 文明
+host-suffix, wx16999.com, 文明
+host-suffix, xchmai.com, 文明
+host-suffix, xiaohuau.xyz, 文明
+host-suffix, ygyzx.cn, 文明
+host-suffix, yinmong.com, 文明
+host-suffix, yitaopt.com, 文明
+host-suffix, yjqiqi.com, 文明
+host-suffix, yukhj.com, 文明
+host-suffix, zhaozecheng.cn, 文明
+host-suffix, zhenxinet.com, 文明
+host-suffix, zlne800.com, 文明
+host-suffix, zunmi.cn, 文明
+host-suffix, zzd6.com, 文明
+ip-cidr, 39.107.15.115/32, 文明
+ip-cidr, 47.89.59.182/32, 文明
+ip-cidr, 103.49.209.27/32, 文明
+ip-cidr, 123.56.152.96/32, 文明
 # > ChinaTelecom
-IP-CIDR,61.160.200.223/32,no-resolve
-IP-CIDR,61.160.200.242/32,no-resolve
-IP-CIDR,61.160.200.252/32,no-resolve
-IP-CIDR,61.174.50.214/32,no-resolve
-IP-CIDR,111.175.220.163/32,no-resolve
-IP-CIDR,111.175.220.164/32,no-resolve
-IP-CIDR,122.229.8.47/32,no-resolve
-IP-CIDR,122.229.29.89/32,no-resolve
-IP-CIDR,124.232.160.178/32,no-resolve
-IP-CIDR,175.6.223.15/32,no-resolve
-IP-CIDR,183.59.53.237/32,no-resolve
-IP-CIDR,218.93.127.37/32,no-resolve
-IP-CIDR,221.228.17.152/32,no-resolve
-IP-CIDR,221.231.6.79/32,no-resolve
-IP-CIDR,222.186.61.91/32,no-resolve
-IP-CIDR,222.186.61.95/32,no-resolve
-IP-CIDR,222.186.61.96/32,no-resolve
-IP-CIDR,222.186.61.97/32,no-resolve
+ip-cidr, 61.160.200.223/32, 文明
+ip-cidr, 61.160.200.242/32, 文明
+ip-cidr, 61.160.200.252/32, 文明
+ip-cidr, 61.174.50.214/32, 文明
+ip-cidr, 111.175.220.163/32, 文明
+ip-cidr, 111.175.220.164/32, 文明
+ip-cidr, 122.229.8.47/32, 文明
+ip-cidr, 122.229.29.89/32, 文明
+ip-cidr, 124.232.160.178/32, 文明
+ip-cidr, 175.6.223.15/32, 文明
+ip-cidr, 183.59.53.237/32, 文明
+ip-cidr, 218.93.127.37/32, 文明
+ip-cidr, 221.228.17.152/32, 文明
+ip-cidr, 221.231.6.79/32, 文明
+ip-cidr, 222.186.61.91/32, 文明
+ip-cidr, 222.186.61.95/32, 文明
+ip-cidr, 222.186.61.96/32, 文明
+ip-cidr, 222.186.61.97/32, 文明
 # > ChinaUnicom
-IP-CIDR,106.75.231.48/32,no-resolve
-IP-CIDR,119.4.249.166/32,no-resolve
-IP-CIDR,220.196.52.141/32,no-resolve
-IP-CIDR,221.6.4.148/32,no-resolve
+ip-cidr, 106.75.231.48/32, 文明
+ip-cidr, 119.4.249.166/32, 文明
+ip-cidr, 220.196.52.141/32, 文明
+ip-cidr, 221.6.4.148/32, 文明
 # > ChinaMobile
-IP-CIDR,114.247.28.96/32,no-resolve
-IP-CIDR,221.179.131.72/32,no-resolve
-IP-CIDR,221.179.140.145/32,no-resolve
+ip-cidr, 114.247.28.96/32, 文明
+ip-cidr, 221.179.131.72/32, 文明
+ip-cidr, 221.179.140.145/32, 文明
 # > Dr.Peng
-# IP-CIDR,10.72.25.0/24,no-resolve
-IP-CIDR,115.182.16.79/32,no-resolve
-IP-CIDR,118.144.88.126/32,no-resolve
-IP-CIDR,118.144.88.215/32,no-resolve
-IP-CIDR,118.144.88.216/32,no-resolve
-IP-CIDR,120.76.189.132/32,no-resolve
-IP-CIDR,124.14.21.147/32,no-resolve
-IP-CIDR,124.14.21.151/32,no-resolve
-IP-CIDR,180.166.52.24/32,no-resolve
-IP-CIDR,211.161.101.106/32,no-resolve
-IP-CIDR,220.115.251.25/32,no-resolve
-IP-CIDR,222.73.156.235/32,no-resolve
+# ip-cidr, 10.72.25.0/24, 文明
+ip-cidr, 115.182.16.79/32, 文明
+ip-cidr, 118.144.88.126/32, 文明
+ip-cidr, 118.144.88.215/32, 文明
+ip-cidr, 118.144.88.216/32, 文明
+ip-cidr, 120.76.189.132/32, 文明
+ip-cidr, 124.14.21.147/32, 文明
+ip-cidr, 124.14.21.151/32, 文明
+ip-cidr, 180.166.52.24/32, 文明
+ip-cidr, 211.161.101.106/32, 文明
+ip-cidr, 220.115.251.25/32, 文明
+ip-cidr, 222.73.156.235/32, 文明
 
 # Malware 恶意网站
 # > 快压
 # https://zhuanlan.zhihu.com/p/39534279
-DOMAIN-SUFFIX,kuaizip.com
+host-suffix, kuaizip.com, 文明
 # > MacKeeper
 # https://www.lizhi.io/blog/40002904
-DOMAIN-SUFFIX,mackeeper.com
-DOMAIN-SUFFIX,zryydi.com
+host-suffix, mackeeper.com, 文明
+host-suffix, zryydi.com, 文明
 # > Adobe Flash China Special Edition
 # https://www.zhihu.com/question/281163698/answer/441388130
-DOMAIN-SUFFIX,flash.cn
-DOMAIN,geo2.adobe.com
+host-suffix, flash.cn, 文明
+host, geo2.adobe.com, 文明
 # > C&J Marketing 思杰马克丁软件
 # https://www.zhihu.com/question/46746200
-DOMAIN-SUFFIX,4009997658.com
-DOMAIN-SUFFIX,abbyychina.com
-DOMAIN-SUFFIX,bartender.cc
-DOMAIN-SUFFIX,betterzip.net
-DOMAIN-SUFFIX,betterzipcn.com
-DOMAIN-SUFFIX,beyondcompare.cc
-DOMAIN-SUFFIX,bingdianhuanyuan.cn
-DOMAIN-SUFFIX,chemdraw.com.cn
-DOMAIN-SUFFIX,cjmakeding.com
-DOMAIN-SUFFIX,cjmkt.com
-DOMAIN-SUFFIX,codesoftchina.com
-DOMAIN-SUFFIX,coreldrawchina.com
-DOMAIN-SUFFIX,crossoverchina.com
-DOMAIN-SUFFIX,dongmansoft.com
-DOMAIN-SUFFIX,earmasterchina.cn
-DOMAIN-SUFFIX,easyrecoverychina.com
-DOMAIN-SUFFIX,ediuschina.com
-DOMAIN-SUFFIX,flstudiochina.com
-DOMAIN-SUFFIX,formysql.com
-DOMAIN-SUFFIX,guitarpro.cc
-DOMAIN-SUFFIX,huishenghuiying.com.cn
-DOMAIN-SUFFIX,hypersnap.net
-DOMAIN-SUFFIX,iconworkshop.cn
-DOMAIN-SUFFIX,imindmap.cc
-DOMAIN-SUFFIX,jihehuaban.com.cn
-DOMAIN-SUFFIX,keyshot.cc
-DOMAIN-SUFFIX,kingdeecn.cn
-DOMAIN-SUFFIX,logoshejishi.com
-DOMAIN-SUFFIX,luping.net.cn
-DOMAIN-SUFFIX,mairuan.cn
-DOMAIN-SUFFIX,mairuan.com
-DOMAIN-SUFFIX,mairuan.com.cn
-DOMAIN-SUFFIX,mairuan.net
-DOMAIN-SUFFIX,mairuanwang.com
-DOMAIN-SUFFIX,makeding.com
-DOMAIN-SUFFIX,mathtype.cn
-DOMAIN-SUFFIX,mindmanager.cc
-DOMAIN-SUFFIX,mindmanager.cn
-DOMAIN-SUFFIX,mindmapper.cc
-DOMAIN-SUFFIX,mycleanmymac.com
-DOMAIN-SUFFIX,nicelabel.cc
-DOMAIN-SUFFIX,ntfsformac.cc
-DOMAIN-SUFFIX,ntfsformac.cn
-DOMAIN-SUFFIX,overturechina.com
-DOMAIN-SUFFIX,passwordrecovery.cn
-DOMAIN-SUFFIX,pdfexpert.cc
-DOMAIN-SUFFIX,photozoomchina.com
-DOMAIN-SUFFIX,shankejingling.com
-DOMAIN-SUFFIX,ultraiso.net
-DOMAIN-SUFFIX,vegaschina.cn
-DOMAIN-SUFFIX,xmindchina.net
-DOMAIN-SUFFIX,xshellcn.com
-DOMAIN-SUFFIX,yihuifu.cn
-DOMAIN-SUFFIX,yuanchengxiezuo.com
-DOMAIN-SUFFIX,zbrushcn.com
-DOMAIN-SUFFIX,zhzzx.com
+host-suffix, 4009997658.com, 文明
+host-suffix, abbyychina.com, 文明
+host-suffix, bartender.cc, 文明
+host-suffix, betterzip.net, 文明
+host-suffix, betterzipcn.com, 文明
+host-suffix, beyondcompare.cc, 文明
+host-suffix, bingdianhuanyuan.cn, 文明
+host-suffix, chemdraw.com.cn, 文明
+host-suffix, cjmakeding.com, 文明
+host-suffix, cjmkt.com, 文明
+host-suffix, codesoftchina.com, 文明
+host-suffix, coreldrawchina.com, 文明
+host-suffix, crossoverchina.com, 文明
+host-suffix, dongmansoft.com, 文明
+host-suffix, earmasterchina.cn, 文明
+host-suffix, easyrecoverychina.com, 文明
+host-suffix, ediuschina.com, 文明
+host-suffix, flstudiochina.com, 文明
+host-suffix, formysql.com, 文明
+host-suffix, guitarpro.cc, 文明
+host-suffix, huishenghuiying.com.cn, 文明
+host-suffix, hypersnap.net, 文明
+host-suffix, iconworkshop.cn, 文明
+host-suffix, imindmap.cc, 文明
+host-suffix, jihehuaban.com.cn, 文明
+host-suffix, keyshot.cc, 文明
+host-suffix, kingdeecn.cn, 文明
+host-suffix, logoshejishi.com, 文明
+host-suffix, luping.net.cn, 文明
+host-suffix, mairuan.cn, 文明
+host-suffix, mairuan.com, 文明
+host-suffix, mairuan.com.cn, 文明
+host-suffix, mairuan.net, 文明
+host-suffix, mairuanwang.com, 文明
+host-suffix, makeding.com, 文明
+host-suffix, mathtype.cn, 文明
+host-suffix, mindmanager.cc, 文明
+host-suffix, mindmanager.cn, 文明
+host-suffix, mindmapper.cc, 文明
+host-suffix, mycleanmymac.com, 文明
+host-suffix, nicelabel.cc, 文明
+host-suffix, ntfsformac.cc, 文明
+host-suffix, ntfsformac.cn, 文明
+host-suffix, overturechina.com, 文明
+host-suffix, passwordrecovery.cn, 文明
+host-suffix, pdfexpert.cc, 文明
+host-suffix, photozoomchina.com, 文明
+host-suffix, shankejingling.com, 文明
+host-suffix, ultraiso.net, 文明
+host-suffix, vegaschina.cn, 文明
+host-suffix, xmindchina.net, 文明
+host-suffix, xshellcn.com, 文明
+host-suffix, yihuifu.cn, 文明
+host-suffix, yuanchengxiezuo.com, 文明
+host-suffix, zbrushcn.com, 文明
+host-suffix, zhzzx.com, 文明
