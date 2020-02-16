@@ -141,6 +141,8 @@ host, tj.playcvn.com, 文明
 # > 58 同城
 # (A)
 # > Apple
+host, ocsp.apple.com, 文明
+host, mesu.apple.com, 文明
 host-suffix, iadsdk.apple.com, 文明
 host-suffix, ads.internal.unity3d.com, 文明
 host-suffix, ads.prd.ie.internal.unity3d.com, 文明

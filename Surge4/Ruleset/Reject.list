@@ -141,6 +141,8 @@ DOMAIN,tj.playcvn.com
 # > 58 同城
 # (A)
 # > Apple
+DOMAIN,ocsp.apple.com
+DOMAIN,mesu.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,ads.internal.unity3d.com
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
