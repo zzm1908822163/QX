@@ -33,7 +33,7 @@ host-suffix, outline.com, 富强
 user-agent, Spotify*, 富强
 
 # > Amazon
-host-keyword, amazon, 富强
+host-suffix, s3.amazonaws.com, 富强
 
 # Apple
 host, ocvideo.apple.com, 富强
