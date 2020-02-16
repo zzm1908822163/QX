@@ -21,7 +21,6 @@ host-suffix, ibeta.me, 民主
 host-suffix, runoob.com, 民主
 host-suffix, gitee.com, 民主
 host-suffix, yinxiang.com, 民主
-host-suffix, evernote.com, 民主
 host-suffix, captora.com, 民主
 host-suffix, dpfile.com, 民主
 host-suffix, suning.com, 民主
