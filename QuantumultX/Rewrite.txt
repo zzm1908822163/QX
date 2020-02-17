@@ -65,7 +65,6 @@ hostname = *.amemv.com, *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-off
 ^https?:\/\/(www.)?xshellcn\.com\/ url 302 https://www.netsarang.com/zh/xshell/
 ^https?:\/\/(www.)?yuanchengxiezuo\.com\/ url 302 https://www.teamviewer.com/
 ^https?:\/\/(www.)?zbrushcn.com/ url 302 https://pixologic.com/
-^https?:\/\/(.*)\.snssdk\.com\/aweme\/v2\/ url 302 https://$1.snssdk.com/aweme/v1\
 
 
 # url-reject
