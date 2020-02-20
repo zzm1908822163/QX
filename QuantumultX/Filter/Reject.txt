@@ -364,8 +364,6 @@ host-suffix, atm.youku.com, 文明
 host, ad.mobile.youku.com, 文明
 host, iyes.youku.com, 文明
 # (Z)
-# > 知乎
-user-agent, AVOS*, 文明
 # > ZOL
 host, apppv.zol.com.cn, 文明
 host, pvnapp.zol.com.cn, 文明
