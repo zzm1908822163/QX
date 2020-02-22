@@ -7,6 +7,11 @@ host-suffix, line-cdn.net, 富强
 host-suffix, line-scdn.net, 富强
 host-suffix, nhncorp.jp, 富强
 
+# > PayPal
+user-agent, PayPal*, 富强
+host-suffix, paypal.com, 富强
+host-suffix, paypalobjects.com, 富强
+
 # > Spark
 host-suffix, api.amplitude.com, 富强
 host-suffix, app.smartmailcloud.com, 富强
