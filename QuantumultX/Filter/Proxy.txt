@@ -1,201 +1,728 @@
-# Misc
+# > Line
+host-suffix, lin.ee
+host-suffix, line.me
+host-suffix, line.naver.jp
+host-suffix, line-apps.com
+host-suffix, line-cdn.net
+host-suffix, line-scdn.net
+host-suffix, nhncorp.jp
 
-host-suffix, imgur.com, 富强
-host-suffix, droplr.com, 富强
-host-suffix, tiktokv.com, 富强
-host-suffix, tumblr.com, 富强
-host-suffix, amplitude.com, 富强
-host-suffix, instapaper.com, 富强
-host-suffix, pushbullet.com, 富强
-host-suffix, xteko.com, 富强
-host-suffix, rsshub.app, 富强
-host-suffix, testflight.center, 富强
-host-suffix, feedly.com, 富强
-host-suffix, nssurge.com, 富强
-host-suffix, giphy.com, 富强
-host-suffix, bing.com, 富强
-host-suffix, mediawiki.org, 富强
-host-suffix, bbc.com, 富强
-host-suffix, tenor.com, 富强
-host-suffix, pexels.com, 富强
-host-suffix, imdb.com, 富强
-host-suffix, gfycat.com, 富强
-host-suffix, baiduwp.com, 富强
-host-suffix, v2ex.com, 富强
-host-suffix, feedx.net, 富强
-host-suffix, feedex.net, 富强
-host-suffix, ampproject.org, 富强
-host-suffix, crashlytics.com, 富强
-host-suffix, iadsdk.apple.com, 富强
-host-suffix, outline.com, 富强
+# > Spark
+host-suffix, api.amplitude.com
+host-suffix, app.smartmailcloud.com
+host-suffix, gate.hockeyapp.net
+host-suffix, smartmailcloud.com
 
-# Spotify
-user-agent, Spotify*, 富强
+# > Zooba
+user-agent, battleroyale*
+
+# > Top blocked sites
+host-suffix, 2o7.net
+host-suffix, 4everProxy.com
+host-suffix, 4shared.com
+host-suffix, 4sqi.net
+host-suffix, 9to5mac.com
+host-suffix, abpchina.org
+host-suffix, accountkit.com
+host-suffix, adblockplus.org
+host-suffix, adobe.com
+host-suffix, adobedtm.com
+host-suffix, aerisapi.com
+host-suffix, akamaihd.net
+host-suffix, airtable.com
+host-suffix, alfredapp.com
+host-suffix, allconnected.co
+host-suffix, amazon.com
+host-suffix, amazonaws.com
+host-suffix, ampproject.com
+host-suffix, ampproject.net
+host-suffix, ampproject.org
+host-suffix, anaconda.com
+host-suffix, ancsconf.org
+host-suffix, android.com
+host-suffix, androidify.com
+host-suffix, android-x86.org
+host-suffix, angularjs.org
+host-suffix, anthonycalzadilla.com
+host-suffix, aol.com
+host-suffix, aolcdn.com
+host-suffix, api.mixpanel.com
+host-suffix, api.termius.com
+host-suffix, api.tiktokv.com
+host-suffix, api.urbandictionary.com
+host-suffix, apigee.com
+host-suffix, apk-dl.com
+host-suffix, apkpure.com
+host-suffix, appdownloader.net
+host-suffix, apple-dns.net
+host-suffix, app-measurement.com
+host-suffix, appshopper.com
+host-suffix, arcgis.com
+host-suffix, archive.is
+host-suffix, archive.org
+host-suffix, archives.gov
+host-suffix, armorgames.com
+host-suffix, aspnetcdn.com
+host-suffix, async.be
+host-suffix, att.com
+host-suffix, avgle.com
+host-suffix, awsstatic.com
+host-suffix, azure.com
+host-suffix, azureedge.net
+host-suffix, azurewebsites.net
+host-suffix, badoo.com
+host-suffix, bandisoft.com
+host-suffix, bbtoystore.com
+host-suffix, betvictor.com
+host-suffix, bigsound.org
+host-suffix, bing.com
+host-suffix, bing.net
+host-suffix, bintray.com
+host-suffix, bit.com
+host-suffix, bit.do
+host-suffix, bit.ly
+host-suffix, bitbucket.org
+host-suffix, bitcointalk.org
+host-suffix, bitshare.com
+host-suffix, bkrtx.com
+host-suffix, blog.com
+host-suffix, blogcdn.com
+host-suffix, blogger.com
+host-suffix, bloglovin.com
+host-suffix, blogsmithmedia.com
+host-suffix, blogspot.hk
+host-suffix, bloomberg.cn
+host-suffix, bloomberg.com
+host-suffix, books.com.tw
+host-suffix, boomtrain.com
+host-suffix, botanwang.com
+host-suffix, box.com
+host-suffix, box.net
+host-suffix, boxun.com
+host-suffix, cachefly.net
+host-suffix, cbc.ca
+host-suffix, cdn.segment.com
+host-suffix, cdnst.net
+host-suffix, celestrak.com
+host-suffix, census.gov
+host-suffix, certificate-transparency.org
+host-suffix, chinadigitaltimes.net
+host-suffix, chinatimes.com
+host-suffix, chrome.com
+host-suffix, chromecast.com
+host-suffix, chromercise.com
+host-suffix, chromestatus.com
+host-suffix, chromium.org
+host-suffix, cl.ly
+host-suffix, cloudflare.com
+host-suffix, cloudfront.net
+host-suffix, cloudgarage.jp
+host-suffix, cloudmagic.com
+host-suffix, cmail19.com
+host-suffix, cnet.com
+host-suffix, cnn.com
+host-suffix, cocoapods.org
+host-suffix, comodoca.com
+host-suffix, content.office.net
+host-suffix, culturedcode.com
+host-suffix, cygames.jp
+host-suffix, d.pr
+host-suffix, danilo.to
+host-suffix, daolan.net
+host-suffix, data-vocabulary.org
+host-suffix, dayone.me
+host-suffix, db.tt
+host-suffix, dcmilitary.com
+host-suffix, deja.com
+host-suffix, demdex.net
+host-suffix, deskconnect.com
+host-suffix, digisfera.com
+host-suffix, digitaltrends.com
+host-suffix, disconnect.me
+host-suffix, disq.us
+host-suffix, disqus.com
+host-suffix, disquscdn.com
+host-suffix, dmm.co.jp
+host-suffix, dnsimple.com
+host-suffix, docker.com
+host-suffix, doub.io
+host-suffix, dowjones.com
+host-suffix, dribbble.com
+host-suffix, droplr.com
+host-suffix, duckduckgo.com
+host-suffix, dueapp.com
+host-suffix, dw.com
+host-suffix, easybib.com
+host-suffix, economist.com
+host-suffix, edgecastcdn.net
+host-suffix, edgekey.net
+host-suffix, edgesuite.net
+host-suffix, engadget.com
+host-suffix, entrust.net
+host-suffix, eurekavpt.com
+host-suffix, evernote.com
+host-suffix, extmatrix.com
+host-suffix, eyny.com
+host-suffix, fabric.io
+host-suffix, fastly.net
+host-suffix, fastmail.com
+host-suffix, fc2.com
+host-suffix, feedburner.com
+host-suffix, feedly.com
+host-suffix, feedsportal.com
+host-suffix, fiftythree.com
+host-suffix, firebaseio.com
+host-suffix, flexibits.com
+host-suffix, flickr.com
+host-suffix, flipboard.com
+host-suffix, flipkart.com
+host-suffix, flitto.com
+host-suffix, flurry.com
+host-suffix, freeopenProxy.com
+host-suffix, fubo.tv
+host-suffix, fullstory.com
+host-suffix, fzlm.net
+host-suffix, g.co
+host-suffix, gabia.net
+host-suffix, garena.com
+host-suffix, gameloft.com
+host-suffix, geni.us
+host-suffix, get.how
+host-suffix, getcloudapp.com
+host-suffix, getfoxyProxy.org
+host-suffix, getlantern.org
+host-suffix, getmdl.io
+host-suffix, getpricetag.com
+host-suffix, gfw.press
+host-suffix, gfx.ms
+host-suffix, ggpht.com
+host-suffix, ghostnoteapp.com
+host-suffix, git.io
+host-suffix, gitbook.com
+host-suffix, globalsign.com
+host-suffix, gmocloud.com
+host-suffix, gmodules.com
+host-suffix, go.com
+host-suffix, go.jp
+host-suffix, godaddy.com
+host-suffix, gog.com
+host-suffix, golang.org
+host-suffix, gongm.in
+host-suffix, goo.gl
+host-suffix, goodreaders.com
+host-suffix, goodreads.com
+host-suffix, gravatar.com
+host-suffix, gstatic.cn
+host-suffix, gstatic.com
+host-suffix, gunsamerica.com
+host-suffix, gvt0.com
+host-suffix, gvt1.com
+host-suffix, helpshift.com
+host-suffix, hinet.net
+host-suffix, hockeyapp.net
+host-suffix, homedepot.com
+host-suffix, hootsuite.com
+host-suffix, howtoforge.com
+host-suffix, iam.soy
+host-suffix, icoco.com
+host-suffix, icons8.com
+host-suffix, ift.tt
+host-suffix, ifttt.com
+host-suffix, imageshack.us
+host-suffix, img.ly
+host-suffix, imgur.com
+host-suffix, imore.com
+host-suffix, ingress.com
+host-suffix, insder.co
+host-suffix, instapaper.com
+host-suffix, instructables.com
+host-suffix, io.io
+host-suffix, ip.sb
+host-suffix, ipaddress.com
+host-suffix, ipn.li
+host-suffix, is.gd
+host-suffix, ishowsapp.com
+host-suffix, issuu.com
+host-suffix, itgonglun.com
+host-suffix, itun.es
+host-suffix, ixquick.com
+host-suffix, j.mp
+host-suffix, javbus.com
+host-suffix, js.revsci.net
+host-suffix, jshint.com
+host-suffix, jtvnw.net
+host-suffix, justgetflux.com
+host-suffix, kakao.co.kr
+host-suffix, kakao.com
+host-suffix, kakaocdn.net
+host-suffix, kat.cr
+host-suffix, kenengba.com
+host-suffix, kik.com
+host-suffix, klip.me
+host-suffix, leancloud.com
+host-suffix, leetcode.com
+host-suffix, lhie1.com
+host-suffix, libsyn.com
+host-suffix, licdn.com
+host-suffix, lightboxcdn.com
+host-suffix, like.com
+host-suffix, linkedin.com
+host-suffix, linode.com
+host-suffix, lithium.com
+host-suffix, littlehj.com
+host-suffix, livefilestore.com
+host-suffix, llnwd.net
+host-suffix, localnetwork.uop
+host-suffix, logmein.com
+host-suffix, macid.co
+host-suffix, macromedia.com
+host-suffix, macrumors.com
+host-suffix, manhuaren.com
+host-suffix, marketwatch.com
+host-suffix, mashable.com
+host-suffix, mathjax.org
+host-suffix, maven.org
+host-suffix, medium.com
+host-suffix, mega.co.nz
+host-suffix, mega.nz
+host-suffix, megaupload.com
+host-suffix, microsofttranslator.com
+host-suffix, mindnode.com
+host-suffix, mlssoccer.com
+host-suffix, mobile01.com
+host-suffix, modmyi.com
+host-suffix, moves-export.com
+host-suffix, mp3buscador.com
+host-suffix, msedge.net
+host-suffix, mycnnews.com
+host-suffix, myfontastic.com
+host-suffix, name.com
+host-suffix, nasa.gov
+host-suffix, ndr.de
+host-suffix, netdna-cdn.com
+host-suffix, newipnow.com
+host-suffix, nextmedia.com
+host-suffix, nih.gov
+host-suffix, nintendo.com
+host-suffix, nintendo.net
+host-suffix, notion.so
+host-suffix, novafile.com
+host-suffix, nrk.no
+host-suffix, nsstatic.net
+host-suffix, nssurge.com
+host-suffix, nyt.com
+host-suffix, nytimes.com
+host-suffix, nytimg.com
+host-suffix, nytstyle.com
+host-suffix, office365.com
+host-suffix, omnigroup.com
+host-suffix, onedrive.com
+host-suffix, onenote.com
+host-suffix, ooyala.com
+host-suffix, openvpn.net
+host-suffix, openwrt.org
+host-suffix, optimizely.com
+host-suffix, orkut.com
+host-suffix, osha.gov
+host-suffix, osxdaily.com
+host-suffix, overcast.fm
+host-suffix, ow.ly
+host-suffix, paddle.com
+host-suffix, paddleapi.com
+host-suffix, panoramio.com
+host-suffix, parallels.com
+host-suffix, parse.com
+host-suffix, pdfexpert.com
+host-suffix, periscope.tv
+host-suffix, piaotian.net
+host-suffix, picacomic.com
+host-suffix, picasaweb.com
+host-suffix, pinboard.in
+host-suffix, ping.pe
+host-suffix, pinterest.com
+host-suffix, pixelmator.com
+host-suffix, pixiv.net
+host-suffix, pixnet.net
+host-suffix, playpcesor.com
+host-suffix, pokemon.com
+host-suffix, polymer-project.org
+host-suffix, popo.tw
+host-suffix, potato.im
+host-suffix, redd.it
+host-suffix, prfct.co
+host-suffix, proxfree.com
+host-suffix, psiphon3.com
+host-suffix, ptt.cc
+host-suffix, pubu.com.tw
+host-suffix, puffinbrowser.com
+host-suffix, pushbullet.com
+host-suffix, pushwoosh.com
+host-suffix, pximg.net
+host-suffix, quora.com
+host-suffix, quoracdn.net
+host-suffix, readingtimes.com.tw
+host-suffix, readmoo.com
+host-suffix, recaptcha.net
+host-suffix, reddit.com
+host-suffix, redditmedia.com
+host-suffix, reuters.com
+host-suffix, rfi.fr
+host-suffix, rileyguide.com
+host-suffix, rime.im
+host-suffix, rsf.org
+host-suffix, sciencedaily.com
+host-suffix, sciencemag.org
+host-suffix, scribd.com
+host-suffix, search.com
+host-suffix, servebom.com
+host-suffix, sexinsex.net
+host-suffix, sfx.ms
+host-suffix, shadowsocks.org
+host-suffix, shadowverse.jp
+host-suffix, sharethis.com
+host-suffix, shazam.com
+host-suffix, shutterstock.com
+host-suffix, sidelinesnews.com
+host-suffix, simp.ly
+host-suffix, simplenote.com
+host-suffix, sketchappsources.com
+host-suffix, slack.com
+host-suffix, slack-edge.com
+host-suffix, slack-msgs.com
+host-suffix, slideshare.net
+host-suffix, smartdnsproxy.com
+host-suffix, smh.com.au
+host-suffix, snapchat.com
+host-suffix, sndcdn.com
+host-suffix, sockslist.net
+host-suffix, soundcloud.com
+host-suffix, sourceforge.net
+host-suffix, sowers.org.hk
+host-suffix, speedsmart.net
+host-suffix, spike.com
+host-suffix, squarespace.com
+host-suffix, ssa.gov
+host-suffix, sstatic.net
+host-suffix, st.luluku.pw
+host-suffix, stackoverflow.com
+host-suffix, starp2p.com
+host-suffix, startpage.com
+host-suffix, state.gov
+host-suffix, staticflickr.com
+host-suffix, storify.com
+host-suffix, stumbleupon.com
+host-suffix, sugarsync.com
+host-suffix, supermariorun.com
+host-suffix, surfeasy.com.au
+host-suffix, surge.run
+host-suffix, surrenderat20.net
+host-suffix, sydneytoday.com
+host-suffix, symauth.com
+host-suffix, symcb.com
+host-suffix, symcd.com
+host-suffix, t66y.com
+host-suffix, tablesgenerator.com
+host-suffix, tabtter.jp
+host-suffix, talk853.com
+host-suffix, talkboxapp.com
+host-suffix, talkonly.net
+host-suffix, tapbots.com
+host-suffix, tapbots.net
+host-suffix, techcrunch.com
+host-suffix, technorati.com
+host-suffix, techsmith.com
+host-suffix, teddysun.com
+host-suffix, textnow.me
+host-suffix, thebobs.com
+host-suffix, theinitium.com
+host-suffix, thepiratebay.org
+host-suffix, theverge.com
+host-suffix, thewgo.org
+host-suffix, tiltbrush.com
+host-suffix, time.com
+host-suffix, timeinc.net
+host-suffix, tinder.com
+host-suffix, tiny.cc
+host-suffix, tinychat.com
+host-suffix, tinypic.com
+host-suffix, tmblr.co
+host-suffix, todoist.com
+host-suffix, togetter.com
+host-suffix, tokyocn.com
+host-suffix, tomshardware.com
+host-suffix, torcn.com
+host-suffix, torrentprivacy.com
+host-suffix, torrentproject.se
+host-suffix, torrentz.eu
+host-suffix, traffichaus.com
+host-suffix, trakt.tv
+host-suffix, transparency.org
+host-suffix, trello.com
+host-suffix, trendsmap.com
+host-suffix, trulyergonomic.com
+host-suffix, trustasiassl.com
+host-suffix, tt-rss.org
+host-suffix, ttvnw.net
+host-suffix, tumblr.co
+host-suffix, tumblr.com
+host-suffix, turbobit.net
+host-suffix, tv.com
+host-suffix, tweetdeck.com
+host-suffix, tweetmarker.net
+host-suffix, twimg.co
+host-suffix, twitch.tv
+host-suffix, twitthat.com
+host-suffix, twtkr.com
+host-suffix, twttr.com
+host-suffix, txmblr.com
+host-suffix, typcn.com
+host-suffix, typekit.net
+host-suffix, typography.com
+host-suffix, ubertags.com
+host-suffix, ublock.org
+host-suffix, ubnt.com
+host-suffix, uchicago.edu
+host-suffix, udn.com
+host-suffix, ugo.com
+host-suffix, uhdwallpapers.org
+host-suffix, ulyssesapp.com
+host-suffix, unblockdmm.com
+host-suffix, unblocksites.co
+host-suffix, unpo.org
+host-suffix, unsplash.com
+host-suffix, untraceable.us
+host-suffix, uploaded.net
+host-suffix, uProxy.org
+host-suffix, upwork.com
+host-suffix, urchin.com
+host-suffix, urlparser.com
+host-suffix, us.to
+host-suffix, usertrust.com
+host-suffix, usgs.gov
+host-suffix, usma.edu
+host-suffix, uspto.gov
+host-suffix, ustream.tv
+host-suffix, v.gd
+host-suffix, v2ex.co
+host-suffix, v2ray.com
+host-suffix, van001.com
+host-suffix, vanpeople.com
+host-suffix, vansky.com
+host-suffix, vbstatic.co
+host-suffix, venchina.com
+host-suffix, venturebeat.com
+host-suffix, veoh.com
+host-suffix, verizonwireless.com
+host-suffix, viber.com
+host-suffix, vid.me
+host-suffix, videomega.tv
+host-suffix, vidinfo.org
+host-suffix, vimeo.com
+host-suffix, vimeocdn.com
+host-suffix, vimperator.org
+host-suffix, vine.co
+host-suffix, visibletweets.com
+host-suffix, viu.com
+host-suffix, vivaldi.com
+host-suffix, voachinese.com
+host-suffix, vocativ.com
+host-suffix, vox-cdn.com
+host-suffix, vpnaccount.org
+host-suffix, vpnbook.com
+host-suffix, vpngate.net
+host-suffix, vsco.co
+host-suffix, vultr.com
+host-suffix, vzw.com
+host-suffix, w.org
+host-suffix, w3schools.com
+host-suffix, wattpad.com
+host-suffix, web2project.net
+host-suffix, webfreer.com
+host-suffix, weblagu.com
+host-suffix, websnapr.com
+host-suffix, webtype.com
+host-suffix, webwarper.net
+host-suffix, wenxuecity.com
+host-suffix, westca.com
+host-suffix, westpoint.edu
+host-suffix, whatbrowser.org
+host-suffix, wikiwand.com
+host-suffix, wikileaks.info
+host-suffix, wikileaks.org
+host-suffix, wikileaks-forum.com
+host-suffix, wikimedia.org
+host-suffix, wikipedia.com
+host-suffix, wikipedia.org
+host-suffix, wn.com
+host-suffix, wordpress.com
+host-suffix, workflow.is
+host-suffix, worldcat.org
+host-suffix, wow.com
+host-suffix, wp.com
+host-suffix, wsj.com
+host-suffix, wsj.net
+host-suffix, wwitv.com
+host-suffix, xanga.com
+host-suffix, xclient.info
+host-suffix, xda-developers.com
+host-suffix, xeeno.com
+host-suffix, xiti.com
+host-suffix, xuite.net
+host-suffix, xvideos.com
+host-suffix, yahoo.com
+host-suffix, yahooapis.com
+host-suffix, yasni.co.uk
+host-suffix, yastatic.net
+host-suffix, ycombinator.com
+host-suffix, yeeyi.com
+host-suffix, yesasia.com
+host-suffix, yes-news.com
+host-suffix, yidio.com
+host-suffix, yimg.com
+host-suffix, ying.com
+host-suffix, yorkbbs.ca
+host-suffix, youmaker.com
+host-suffix, yourlisten.com
+host-suffix, youtu.be
+host-suffix, yoyo.org
+host-suffix, ytimg.com
+host-suffix, zacebook.com
+host-suffix, zalmos.com
+host-suffix, zaobao.com.sg
+host-suffix, zeutch.com
+host-suffix, zynamics.com
+
+# > Force some hosts which are fucked by GFW while resolving DNS, or do not respect the system Proxy
+host-keyword, appledaily
+host-keyword, beetalk
+host-keyword, blogspot
+host-keyword, dropbox
+host-keyword, facebook
+host-keyword, github
+host-keyword, instagram
+host-keyword, porn
+host-keyword, twitter
+host-keyword, whatsapp
+host-keyword, google
+host-suffix, 1e100.net
+host-suffix, 2mdn.net
+host-suffix, abc.xyz
+host-suffix, akamai.net
+host-suffix, appspot.com
+host-suffix, autodraw.com
+host-suffix, bandwagonhost.com
+host-suffix, blogblog.com
+host-suffix, chromeexperiments.com
+host-suffix, creativelab5.com
+host-suffix, crittercism.com
+host-suffix, culturalspot.org
+host-suffix, dartlang.org
+host-suffix, fb.com
+host-suffix, fb.me
+host-suffix, fbcdn.net
+host-suffix, fbsbx.com
+host-suffix, gcr.io
+host-suffix, gmail.com
+host-suffix, gosetsuden.jp
+host-suffix, gvt1.com
+host-suffix, gwtproject.org
+host-suffix, heroku.com
+host-suffix, html5rocks.com
+host-suffix, keyhole.com
+host-suffix, kobo.com
+host-suffix, kobobooks.com
+host-suffix, madewithcode.com
+host-suffix, material.io
+host-suffix, messenger.com
+host-suffix, netmarble.com
+host-suffix, nianticlabs.com
+host-suffix, pinimg.com
+host-suffix, pubnub.com
+host-suffix, scdn.co
+host-suffix, t.co
+host-suffix, tensorflow.org
+host-suffix, toggleable.com
+host-suffix, torproject.org
+host-suffix, twimg.com
+host-suffix, twitpic.com
+host-suffix, unfiltered.news
+host-suffix, waveprotocol.org
+host-suffix, webmproject.org
+host-suffix, webrtc.org
+
+# > V2EX
+host-suffix, v2ex.com
 
 # > Amazon
-host-suffix, s3.amazonaws.com, 富强
+ip-cidr, 13.32.0.0/16
+ip-cidr, 13.33.0.0/16
+ip-cidr, 13.35.0.0/17
+ip-cidr, 18.184.0.0/15
+ip-cidr, 18.194.0.0/15
+ip-cidr, 18.208.0.0/13
+ip-cidr, 18.232.0.0/14
+ip-cidr, 52.200.0.0/13
+ip-cidr, 52.58.0.0/15
+ip-cidr, 52.74.0.0/16
+ip-cidr, 52.77.0.0/16
+ip-cidr, 52.84.0.0/15
+ip-cidr, 54.156.0.0/14
+ip-cidr, 54.226.0.0/15
+ip-cidr, 54.230.156.0/22
+ip-cidr, 54.93.0.0/16
 
-# Apple
-host, ocvideo.apple.com, 富强
+# > Facebook
+ip-cidr, 103.4.96.0/22
+ip-cidr, 129.134.0.0/17
+ip-cidr, 157.240.0.0/17
+ip-cidr, 173.252.64.0/19
+ip-cidr, 173.252.96.0/19
+ip-cidr, 179.60.192.0/22
+ip-cidr, 185.60.216.0/22
+ip-cidr, 204.15.20.0/22
+ip-cidr, 31.13.24.0/21
+ip-cidr, 31.13.64.0/18
+ip-cidr, 45.64.40.0/22
+ip-cidr, 66.220.144.0/20
+ip-cidr, 69.171.224.0/19
+ip-cidr, 69.63.176.0/20
+ip-cidr, 74.119.76.0/22
 
-# dropbox
-host-suffix, dropbox, 富强
+# > Google
+ip-cidr, 173.194.0.0/16
+ip-cidr, 74.125.0.0/16
 
-# eBay
-host-suffix, ebay.com, 富强
-host-suffix, ebay-us.com, 富强
-host-suffix, ebayimg.com, 富强
-host-suffix, ebaystatic.com, 富强
+# > Kakao Talk
+ip-cidr, 1.201.0.0/24
+ip-cidr, 103.246.56.0/22
+ip-cidr, 103.27.148.0/22
+ip-cidr, 110.76.140.0/22
+ip-cidr, 113.61.104.0/22
+ip-cidr, 27.0.236.0/22
 
-# OneDrive
-user-agent, OneDrive*, 富强
-host-suffix, live.com, 富强
-host-suffix, msauth.net, 富强
-host-suffix, onedrive.com, 富强
+# > LINE
+ip-cidr, 103.2.28.0/22
+ip-cidr, 119.235.224.0/21
+ip-cidr, 119.235.232.0/23
+ip-cidr, 119.235.235.0/24
+ip-cidr, 119.235.236.0/23
+ip-cidr, 125.6.146.0/24
+ip-cidr, 125.6.149.0/24
+ip-cidr, 125.6.190.0/24
+ip-cidr, 125.209.208.0/20
+ip-cidr, 203.104.103.0/24
+ip-cidr, 203.104.128.0/20
+ip-cidr, 203.174.66.64/26
+ip-cidr, 203.174.77.0/24
 
-# Facebook
-host-suffix, fb.me, 富强
-host-suffix, fbcdn.net, 富强
-host-suffix, fbsbx.com, 富强
-host-suffix, facebook.net, 富强
-host-suffix, facebook.com, 富强
-host-suffix, instagram.com, 富强
-host-suffix, cdninstagram.com, 富强
-host-suffix, messenger.com, 富强
-host-suffix, oculus.com, 富强
-host-suffix, oculuscdn.com, 富强
-host-suffix, whatsapp.com, 富强
-host-suffix, whatsapp.net, 富强
-host-suffix, oculus.com, 富强
-host-suffix, oculuscdn.com, 富强
+# > Potato Chat
+ip-cidr, 13.251.24.157/24
+ip-cidr, 13.251.41.203/24
+ip-cidr, 17.252.156.147/24
+ip-cidr, 17.252.157.26/24
 
-# Microsoft
-host-suffix, gfx.ms, 富强
-host-suffix, msn.com, 富强
-host-suffix, msecnd.net, 富强
-host-suffix, office.net, 富强
-host-suffix, office.com, 富强
-host-suffix, outlook.com, 富强
-host-suffix, office365.com, 富强
-host-suffix, akamaized.net, 富强
-
-# Github
-host-keyword, github, 富强
-
-# Gog
-host-suffix, gog.com, 富强
-
-# Google
-host-keyword, google, 富强
-host-suffix, goo.gl, 富强
-host-suffix, youtu.be, 富强
-host-suffix, gmail.com, 富强
-host-suffix, ytimg.com, 富强
-host-suffix, ggpht.com, 富强
-host-suffix, gstatic.com, 富强
-host-suffix, youtube.com, 富强
-
-# Line
-host-suffix, line.me, 富强
-host-suffix, line-scdn.net, 富强
-host-suffix, line-apps.com, 富强
-
-# Reddit
-host-suffix, redd.it, 富强
-host-suffix, reddit.com, 富强
-host-suffix, redditmedia.com, 富强
-host-suffix, redditstatic.com, 富强
-
-# Yahoo
-host-suffix, yimg.com, 富强
-host-suffix, yahoo.com, 富强
-
-# Slack
-host-suffix, slack.com, 富强
-host-suffix, slack-edge.com, 富强
-host-suffix, slack-msgs.com, 富强
-
-# Pinterest
-host-suffix, pinimg.com, 富强
-host-suffix, pinterest.com, 富强
-
-# Pixiv
-host-suffix, pixiv.org, 富强
-host-suffix, pixiv.net, 富强
-host-suffix, pximg.net, 富强
-
-# Zendesk
-host-suffix, zendesk.com, 富强
-host-suffix, zdassets.com, 富强
-
-# TextNow
-user-agent, TextNow*, 富强
-host-suffix, freegeoip.net, 富强
-
-# Trello
-host-suffix, trello.com, 富强
-host-suffix, trellocdn.com, 富强
-
-# Twitch
-host-suffix, twitch.tv, 富强
-host-suffix, jtvnw.net, 富强
-host-suffix, ttvnw.net, 富强
-host-suffix, twitchsvc.net, 富强
-
-# Twitter
-host-suffix, twimg.com, 富强
-host-suffix, twitter.com, 富强
-
-# Telegram
-host-suffix, t.me, 富强
-host-suffix, telegra.ph, 富强
-host-suffix, telegram.me, 富强
-host-suffix, telegram.org, 富强
-host-suffix, tdesktop.com, 富强
-host-suffix, telegramindex.com, 富强
-
-# WalMart
-host-suffix, walmart.com, 富强
-host-suffix, walmartimages.com, 富强
-
-# > Wiki
-host-suffix, wikiwand.com, 富强
-host-suffix, wikileaks.info, 富强
-host-suffix, wikileaks.org, 富强
-host-suffix, wikileaks-forum.com, 富强
-host-suffix, wikimedia.org, 富强
-host-suffix, wikipedia.com, 富强
-host-suffix, wikipedia.org, 富强
-
-# Snapchat
-host-suffix, snapchat.com, 富强
-host-suffix, sc-static.net, 富强
-
-# CNN
-host-suffix, cnn.io, 富强
-host-suffix, cnn.com, 富强
-
-# Blogger
-host-suffix, blogger.com, 富强
-host-suffix, blogspot.com, 富强
-
-# PalPal
-host-suffix, paypal.com, 富强
-host-suffix, paypalobjects.com, 富强
-
-# Xvideos
-host-suffix, xvideos.com, 富强
-host-suffix, xvideos-cdn.com, 富强
-
-# PornHub
-host-suffix, phncdn.com, 富强
-host-suffix, pornhub.com, 富强
-
-# NYTimes
-host-suffix, nyt.com, 富强
-host-suffix, nytcn.me, 富强
-host-suffix, nytimes.com, 富强
-
-# Ftchnese
-host-suffix, ftimg.net, 富强
-host-suffix, ftchinese.com, 富强
+# > SoftLayer
+ip-cidr, 74.86.0.0/16
+ip-cidr, 75.126.0.0/16
+ip-cidr, 174.37.0.0/16
+ip-cidr, 208.43.0.0/16
