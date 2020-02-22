@@ -1,0 +1,4 @@
+# > PayPal
+user-agent, PayPal*, 民主
+host-suffix, paypal.com, 民主
+host-suffix, paypalobjects.com, 民主
