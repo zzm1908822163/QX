@@ -1,315 +1,315 @@
 # > Beplay
-host-keyword, beplay
+host-keyword, beplay, 民主
 
 # > Blizzard
-host-suffix, battle.net
-host-suffix, battlenet.com
-host-suffix, blizzard.com
+host-suffix, battle.net, 民主
+host-suffix, battlenet.com, 民主
+host-suffix, blizzard.com, 民主
 
 # > Prior
-host, client.amplifi.com
-host, ip.bjango.com
-host-suffix, alphassl.com
-host-suffix, edu.cn
+host, client.amplifi.com, 民主
+host, ip.bjango.com, 民主
+host-suffix, alphassl.com, 民主
+host-suffix, edu.cn, 民主
 
 # > Sony
-user-agent, RemotePlay*
-host-suffix, playstation.com
-host-suffix, playstation.net
-host-suffix, playstationnetwork.com
-host-suffix, sony.com
-host-suffix, sonyentertainmentnetwork.com
+user-agent, RemotePlay*, 民主
+host-suffix, playstation.com, 民主
+host-suffix, playstation.net, 民主
+host-suffix, playstationnetwork.com, 民主
+host-suffix, sony.com, 民主
+host-suffix, sonyentertainmentnetwork.com, 民主
 
 # > TeamViewer
-ip-cidr, 185.188.32.0/24
-ip-cidr, 185.188.33.0/24
-ip-cidr, 185.188.34.0/24
-ip-cidr, 185.188.35.0/24
-ip-cidr, 2a0b:b580::/48
-ip-cidr, 2a0b:b581::/48
-ip-cidr, 2a0b:b582::/48
-ip-cidr, 2a0b:b583::/48
+ip-cidr, 185.188.32.0/24, 民主
+ip-cidr, 185.188.33.0/24, 民主
+ip-cidr, 185.188.34.0/24, 民主
+ip-cidr, 185.188.35.0/24, 民主
+ip-cidr, 2a0b:b580::/48, 民主
+ip-cidr, 2a0b:b581::/48, 民主
+ip-cidr, 2a0b:b582::/48, 民主
+ip-cidr, 2a0b:b583::/48, 民主
 
 # Domestic
-host-suffix, 12306.cn
-host-suffix, 12306.com
-host-suffix, 126.net
-host-suffix, 163.com
-host-suffix, 360.cn
-host-suffix, 360.com
-host-suffix, 360buy.com
-host-suffix, 360buyimg.com
-host-suffix, 36kr.com
-host-suffix, 51ym.me
-host-suffix, 58.com
-host-suffix, 8686c.com
-host-suffix, abercrombie.com
-host-suffix, acfun.tv
-host-suffix, adobesc.com
-host-suffix, air-matters.com
-host-suffix, air-matters.io
-host-suffix, aixifan.com
-host-suffix, akadns.net
-host-suffix, alibabacloud.com
-host-suffix, alicdn.com
-host-suffix, alipay.com
-host-suffix, alipayobjects.com
-host-suffix, aliyun.com
-host-suffix, aliyuncs.com
-host-suffix, amap.com
-host-suffix, apache.org
-host-suffix, api.crisp.chat
-host-suffix, appshike.com
-host-suffix, appstore.com
-host-suffix, autonavi.com
-host-suffix, aweme.snssdk.com
-host-suffix, bababian.com
-host-suffix, baidu.com
-host-suffix, battle.net
-host-suffix, bdimg.com
-host-suffix, bdstatic.com
-host-suffix, beatsbydre.com
-host-suffix, bet365.com
-host-suffix, broadcasthe.net
-host-suffix, caiyunapp.com
-host-suffix, ccgslb.com
-host-suffix, ccgslb.net
-host-suffix, chinacache.net
-host-suffix, chunbo.com
-host-suffix, chunboimg.com
-host-suffix, clashroyaleapp.com
-host-suffix, clouddn.com
-host-suffix, cloudsigma.com
-host-suffix, cloudxns.net
-host-suffix, cmct.tv
-host-suffix, cmfu.com
-host-suffix, cnbeta.com
-host-suffix, cnbetacdn.com
-host-suffix, chdbits.co
-host-suffix, cnlang.org
-host-suffix, culturedcode.com
-host-suffix, dct-cloud.com
-host-suffix, didialift.com
-host-suffix, digicert.com
-host-suffix, douban.com
-host-suffix, doubanio.com
-host-suffix, douyu.com
-host-suffix, douyu.tv
-host-suffix, douyutv.com
-host-suffix, duokan.com
-host-suffix, duoshuo.com
-host-suffix, dytt8.net
-host-suffix, easou.com
-host-suffix, ecitic.com
-host-suffix, ecitic.net
-host-suffix, eclipse.org
-host-suffix, eudic.net
-host-suffix, ewqcxz.com
-host-suffix, feng.com
-host-suffix, fir.im
-host-suffix, firefox.com
-host-suffix, frdic.com
-host-suffix, fresh-ideas.cc
-host-suffix, geetest.com
-host-suffix, godic.net
-host-suffix, goodread.com
-host-suffix, gtimg.com
-host-suffix, haibian.com
-host-suffix, hao123.com
-host-suffix, haosou.com
-host-suffix, hdchina.org
-host-suffix, hdcmct.org
-host-suffix, hkserversolution.com
-host-suffix, hollisterco.com
-host-suffix, hongxiu.com
-host-suffix, hxcdn.net
-host-suffix, icedropper.com
-host-suffix, iciba.com
-host-suffix, ifeng.com
-host-suffix, ifengimg.com
-host-suffix, images.unsplash.com
-host-suffix, images-amazon.com
-host-suffix, img4me.com
-host-suffix, ipify.org
-host-suffix, ipip.net
-host-suffix, ithome.com
-host-suffix, ixdzs.com
-host-suffix, jd.com
-host-suffix, jd.hk
-host-suffix, jianshu.com
-host-suffix, jianshu.io
-host-suffix, jianshuapi.com
-host-suffix, jiathis.com
-host-suffix, jomodns.com
-host-suffix, jsboxbbs.com
-host-suffix, knewone.com
-host-suffix, kuaidi100.com
-host-suffix, kugou.com
-host-suffix, lecloud.com
-host-suffix, lemicp.com
-host-suffix, letv.com
-host-suffix, letvcloud.com
-host-suffix, lizhi.io
-host-suffix, localizecdn.com
-host-suffix, lucifr.com
-host-suffix, luoo.net
-host-suffix, lxdns.com
-host-suffix, mai.tn
-host-suffix, meizu.com
-host-suffix, mi.com
-host-suffix, miaopai.com
-host-suffix, miui.com
-host-suffix, miwifi.com
-host-suffix, mob.com
-host-suffix, moji.com
-host-suffix, moke.com
-host-suffix, mtalk.google.com
-host-suffix, mxhichina.com
-host-suffix, myqcloud.com
-host-suffix, myunlu.com
-host-suffix, ngabbs.com
-host-suffix, netease.com
-host-suffix, nfoservers.com
-host-suffix, nssurge.com
-host-suffix, nuomi.com
-host-suffix, ourbits.club
-host-suffix, ourdvs.com
-host-suffix, passthepopcorn.me
-host-suffix, paypal.com
-host-suffix, paypalobjects.com
-host-suffix, pgyer.com
-host-suffix, pniao.com
-host-suffix, privatehd.to
-host-suffix, pstatp.com
-host-suffix, qbox.me
-host-suffix, qcloud.com
-host-suffix, qdaily.com
-host-suffix, qdmm.com
-host-suffix, qhimg.com
-host-suffix, qidian.com
-host-suffix, qihucdn.com
-host-suffix, qin.io
-host-suffix, qingmang.me
-host-suffix, qingmang.mobi
-host-suffix, qiniucdn.com
-host-suffix, qiniudn.com
-host-suffix, qq.com
-host-suffix, qqurl.com
-host-suffix, rarbg.to
-host-suffix, redacted.ch
-host-suffix, rrmj.tv
-host-suffix, ruguoapp.com
-host-suffix, sandai.net
-host-suffix, sf-express.com
-host-suffix, sinaapp.com
-host-suffix, sinaimg.cn
-host-suffix, sinaimg.com
-host-suffix, sm.ms
-host-suffix, smzdm.com
-host-suffix, snssdk.com
-host-suffix, snwx.com
-host-suffix, so.com
-host-suffix, sogou.com
-host-suffix, sogoucdn.com
-host-suffix, sohu.com
-host-suffix, soku.com
-host-suffix, soso.com
-host-suffix, sspai.com
-host-suffix, startssl.com
-host-suffix, steamcontent.com
-host-suffix, store.steampowered.com
-host-suffix, suning.com
-host-suffix, symcd.com
-host-suffix, taobao.com
-host-suffix, tawk.link
-host-suffix, tawk.to
-host-suffix, teamviewer.com
-host-suffix, tenpay.com
-host-suffix, tietuku.com
-host-suffix, tmall.com
-host-suffix, tmzvps.com
-host-suffix, trello.com
-host-suffix, trellocdn.com
-host-suffix, totheglory.im
-host-suffix, tp.m-team.cc
-host-suffix, ttmeiju.com
-host-suffix, tudou.com
-host-suffix, udache.com
-host-suffix, umengcloud.com
-host-suffix, upaiyun.com
-host-suffix, upyun.com
-host-suffix, uxengine.net
-host-suffix, wandoujia.com
-host-suffix, weather.bjango.com
-host-suffix, weather.com
-host-suffix, webqxs.com
-host-suffix, weibo.cn
-host-suffix, weibo.com
-host-suffix, weico.cc
-host-suffix, weiphone.com
-host-suffix, weiphone.net
-host-suffix, wenku8.net
-host-suffix, werewolf.53site.com
-host-suffix, wkcdn.com
-host-suffix, workflowy.com
-host-suffix, xdrig.com
-host-suffix, xhostfire.com
-host-suffix, xiami.com
-host-suffix, xiami.net
-host-suffix, xiaojukeji.com
-host-suffix, xiaomi.com
-host-suffix, xiaomi.net
-host-suffix, xiaomicp.com
-host-suffix, ximalaya.com
-host-suffix, xitek.com
-host-suffix, xmcdn.com
-host-suffix, xslb.net
-host-suffix, xteko.com
-host-suffix, xunlei.com
-host-suffix, yach.me
-host-suffix, yeepay.com
-host-suffix, yhd.com
-host-suffix, yinxiang.com
-host-suffix, yixia.com
-host-suffix, ykimg.com
-host-suffix, youdao.com
-host-suffix, youku.com
-host-suffix, yunjiasu-cdn.net
-host-suffix, zealer.com
-host-suffix, zgslb.net
-host-suffix, zhihu.com
-host-suffix, zhimg.com
-host-suffix, zimuzu.tv
-host-suffix, zmz002.com
+host-suffix, 12306.cn, 民主
+host-suffix, 12306.com, 民主
+host-suffix, 126.net, 民主
+host-suffix, 163.com, 民主
+host-suffix, 360.cn, 民主
+host-suffix, 360.com, 民主
+host-suffix, 360buy.com, 民主
+host-suffix, 360buyimg.com, 民主
+host-suffix, 36kr.com, 民主
+host-suffix, 51ym.me, 民主
+host-suffix, 58.com, 民主
+host-suffix, 8686c.com, 民主
+host-suffix, abercrombie.com, 民主
+host-suffix, acfun.tv, 民主
+host-suffix, adobesc.com, 民主
+host-suffix, air-matters.com, 民主
+host-suffix, air-matters.io, 民主
+host-suffix, aixifan.com, 民主
+host-suffix, akadns.net, 民主
+host-suffix, alibabacloud.com, 民主
+host-suffix, alicdn.com, 民主
+host-suffix, alipay.com, 民主
+host-suffix, alipayobjects.com, 民主
+host-suffix, aliyun.com, 民主
+host-suffix, aliyuncs.com, 民主
+host-suffix, amap.com, 民主
+host-suffix, apache.org, 民主
+host-suffix, api.crisp.chat, 民主
+host-suffix, appshike.com, 民主
+host-suffix, appstore.com, 民主
+host-suffix, autonavi.com, 民主
+host-suffix, aweme.snssdk.com, 民主
+host-suffix, bababian.com, 民主
+host-suffix, baidu.com, 民主
+host-suffix, battle.net, 民主
+host-suffix, bdimg.com, 民主
+host-suffix, bdstatic.com, 民主
+host-suffix, beatsbydre.com, 民主
+host-suffix, bet365.com, 民主
+host-suffix, broadcasthe.net, 民主
+host-suffix, caiyunapp.com, 民主
+host-suffix, ccgslb.com, 民主
+host-suffix, ccgslb.net, 民主
+host-suffix, chinacache.net, 民主
+host-suffix, chunbo.com, 民主
+host-suffix, chunboimg.com, 民主
+host-suffix, clashroyaleapp.com, 民主
+host-suffix, clouddn.com, 民主
+host-suffix, cloudsigma.com, 民主
+host-suffix, cloudxns.net, 民主
+host-suffix, cmct.tv, 民主
+host-suffix, cmfu.com, 民主
+host-suffix, cnbeta.com, 民主
+host-suffix, cnbetacdn.com, 民主
+host-suffix, chdbits.co, 民主
+host-suffix, cnlang.org, 民主
+host-suffix, culturedcode.com, 民主
+host-suffix, dct-cloud.com, 民主
+host-suffix, didialift.com, 民主
+host-suffix, digicert.com, 民主
+host-suffix, douban.com, 民主
+host-suffix, doubanio.com, 民主
+host-suffix, douyu.com, 民主
+host-suffix, douyu.tv, 民主
+host-suffix, douyutv.com, 民主
+host-suffix, duokan.com, 民主
+host-suffix, duoshuo.com, 民主
+host-suffix, dytt8.net, 民主
+host-suffix, easou.com, 民主
+host-suffix, ecitic.com, 民主
+host-suffix, ecitic.net, 民主
+host-suffix, eclipse.org, 民主
+host-suffix, eudic.net, 民主
+host-suffix, ewqcxz.com, 民主
+host-suffix, feng.com, 民主
+host-suffix, fir.im, 民主
+host-suffix, firefox.com, 民主
+host-suffix, frdic.com, 民主
+host-suffix, fresh-ideas.cc, 民主
+host-suffix, geetest.com, 民主
+host-suffix, godic.net, 民主
+host-suffix, goodread.com, 民主
+host-suffix, gtimg.com, 民主
+host-suffix, haibian.com, 民主
+host-suffix, hao123.com, 民主
+host-suffix, haosou.com, 民主
+host-suffix, hdchina.org, 民主
+host-suffix, hdcmct.org, 民主
+host-suffix, hkserversolution.com, 民主
+host-suffix, hollisterco.com, 民主
+host-suffix, hongxiu.com, 民主
+host-suffix, hxcdn.net, 民主
+host-suffix, icedropper.com, 民主
+host-suffix, iciba.com, 民主
+host-suffix, ifeng.com, 民主
+host-suffix, ifengimg.com, 民主
+host-suffix, images.unsplash.com, 民主
+host-suffix, images-amazon.com, 民主
+host-suffix, img4me.com, 民主
+host-suffix, ipify.org, 民主
+host-suffix, ipip.net, 民主
+host-suffix, ithome.com, 民主
+host-suffix, ixdzs.com, 民主
+host-suffix, jd.com, 民主
+host-suffix, jd.hk, 民主
+host-suffix, jianshu.com, 民主
+host-suffix, jianshu.io, 民主
+host-suffix, jianshuapi.com, 民主
+host-suffix, jiathis.com, 民主
+host-suffix, jomodns.com, 民主
+host-suffix, jsboxbbs.com, 民主
+host-suffix, knewone.com, 民主
+host-suffix, kuaidi100.com, 民主
+host-suffix, kugou.com, 民主
+host-suffix, lecloud.com, 民主
+host-suffix, lemicp.com, 民主
+host-suffix, letv.com, 民主
+host-suffix, letvcloud.com, 民主
+host-suffix, lizhi.io, 民主
+host-suffix, localizecdn.com, 民主
+host-suffix, lucifr.com, 民主
+host-suffix, luoo.net, 民主
+host-suffix, lxdns.com, 民主
+host-suffix, mai.tn, 民主
+host-suffix, meizu.com, 民主
+host-suffix, mi.com, 民主
+host-suffix, miaopai.com, 民主
+host-suffix, miui.com, 民主
+host-suffix, miwifi.com, 民主
+host-suffix, mob.com, 民主
+host-suffix, moji.com, 民主
+host-suffix, moke.com, 民主
+host-suffix, mtalk.google.com, 民主
+host-suffix, mxhichina.com, 民主
+host-suffix, myqcloud.com, 民主
+host-suffix, myunlu.com, 民主
+host-suffix, ngabbs.com, 民主
+host-suffix, netease.com, 民主
+host-suffix, nfoservers.com, 民主
+host-suffix, nssurge.com, 民主
+host-suffix, nuomi.com, 民主
+host-suffix, ourbits.club, 民主
+host-suffix, ourdvs.com, 民主
+host-suffix, passthepopcorn.me, 民主
+host-suffix, paypal.com, 民主
+host-suffix, paypalobjects.com, 民主
+host-suffix, pgyer.com, 民主
+host-suffix, pniao.com, 民主
+host-suffix, privatehd.to, 民主
+host-suffix, pstatp.com, 民主
+host-suffix, qbox.me, 民主
+host-suffix, qcloud.com, 民主
+host-suffix, qdaily.com, 民主
+host-suffix, qdmm.com, 民主
+host-suffix, qhimg.com, 民主
+host-suffix, qidian.com, 民主
+host-suffix, qihucdn.com, 民主
+host-suffix, qin.io, 民主
+host-suffix, qingmang.me, 民主
+host-suffix, qingmang.mobi, 民主
+host-suffix, qiniucdn.com, 民主
+host-suffix, qiniudn.com, 民主
+host-suffix, qq.com, 民主
+host-suffix, qqurl.com, 民主
+host-suffix, rarbg.to, 民主
+host-suffix, redacted.ch, 民主
+host-suffix, rrmj.tv, 民主
+host-suffix, ruguoapp.com, 民主
+host-suffix, sandai.net, 民主
+host-suffix, sf-express.com, 民主
+host-suffix, sinaapp.com, 民主
+host-suffix, sinaimg.cn, 民主
+host-suffix, sinaimg.com, 民主
+host-suffix, sm.ms, 民主
+host-suffix, smzdm.com, 民主
+host-suffix, snssdk.com, 民主
+host-suffix, snwx.com, 民主
+host-suffix, so.com, 民主
+host-suffix, sogou.com, 民主
+host-suffix, sogoucdn.com, 民主
+host-suffix, sohu.com, 民主
+host-suffix, soku.com, 民主
+host-suffix, soso.com, 民主
+host-suffix, sspai.com, 民主
+host-suffix, startssl.com, 民主
+host-suffix, steamcontent.com, 民主
+host-suffix, store.steampowered.com, 民主
+host-suffix, suning.com, 民主
+host-suffix, symcd.com, 民主
+host-suffix, taobao.com, 民主
+host-suffix, tawk.link, 民主
+host-suffix, tawk.to, 民主
+host-suffix, teamviewer.com, 民主
+host-suffix, tenpay.com, 民主
+host-suffix, tietuku.com, 民主
+host-suffix, tmall.com, 民主
+host-suffix, tmzvps.com, 民主
+host-suffix, trello.com, 民主
+host-suffix, trellocdn.com, 民主
+host-suffix, totheglory.im, 民主
+host-suffix, tp.m-team.cc, 民主
+host-suffix, ttmeiju.com, 民主
+host-suffix, tudou.com, 民主
+host-suffix, udache.com, 民主
+host-suffix, umengcloud.com, 民主
+host-suffix, upaiyun.com, 民主
+host-suffix, upyun.com, 民主
+host-suffix, uxengine.net, 民主
+host-suffix, wandoujia.com, 民主
+host-suffix, weather.bjango.com, 民主
+host-suffix, weather.com, 民主
+host-suffix, webqxs.com, 民主
+host-suffix, weibo.cn, 民主
+host-suffix, weibo.com, 民主
+host-suffix, weico.cc, 民主
+host-suffix, weiphone.com, 民主
+host-suffix, weiphone.net, 民主
+host-suffix, wenku8.net, 民主
+host-suffix, werewolf.53site.com, 民主
+host-suffix, wkcdn.com, 民主
+host-suffix, workflowy.com, 民主
+host-suffix, xdrig.com, 民主
+host-suffix, xhostfire.com, 民主
+host-suffix, xiami.com, 民主
+host-suffix, xiami.net, 民主
+host-suffix, xiaojukeji.com, 民主
+host-suffix, xiaomi.com, 民主
+host-suffix, xiaomi.net, 民主
+host-suffix, xiaomicp.com, 民主
+host-suffix, ximalaya.com, 民主
+host-suffix, xitek.com, 民主
+host-suffix, xmcdn.com, 民主
+host-suffix, xslb.net, 民主
+host-suffix, xteko.com, 民主
+host-suffix, xunlei.com, 民主
+host-suffix, yach.me, 民主
+host-suffix, yeepay.com, 民主
+host-suffix, yhd.com, 民主
+host-suffix, yinxiang.com, 民主
+host-suffix, yixia.com, 民主
+host-suffix, ykimg.com, 民主
+host-suffix, youdao.com, 民主
+host-suffix, youku.com, 民主
+host-suffix, yunjiasu-cdn.net, 民主
+host-suffix, zealer.com, 民主
+host-suffix, zgslb.net, 民主
+host-suffix, zhihu.com, 民主
+host-suffix, zhimg.com, 民主
+host-suffix, zimuzu.tv, 民主
+host-suffix, zmz002.com, 民主
 
 # > Private Tracker
-host-suffix, awesome-hd.me
-host-suffix, broadcasthe.net
-host-suffix, chdbits.co
-host-suffix, classix-unlimited.co.uk
-host-suffix, empornium.me
-host-suffix, gazellegames.net
-host-suffix, hdchina.org
-host-suffix, hdsky.me
-host-suffix, icetorrent.org
-host-suffix, jpopsuki.eu
-host-suffix, keepfrds.com
-host-suffix, madsrevolution.net
-host-suffix, m-team.cc
-host-suffix, nanyangpt.com
-host-suffix, ncore.cc
-host-suffix, open.cd
-host-suffix, ourbits.club
-host-suffix, passthepopcorn.me
-host-suffix, privatehd.to
-host-suffix, redacted.ch
-host-suffix, springsunday.net
-host-suffix, tjupt.org
-host-suffix, totheglory.im
+host-suffix, awesome-hd.me, 民主
+host-suffix, broadcasthe.net, 民主
+host-suffix, chdbits.co, 民主
+host-suffix, classix-unlimited.co.uk, 民主
+host-suffix, empornium.me, 民主
+host-suffix, gazellegames.net, 民主
+host-suffix, hdchina.org, 民主
+host-suffix, hdsky.me, 民主
+host-suffix, icetorrent.org, 民主
+host-suffix, jpopsuki.eu, 民主
+host-suffix, keepfrds.com, 民主
+host-suffix, madsrevolution.net, 民主
+host-suffix, m-team.cc, 民主
+host-suffix, nanyangpt.com, 民主
+host-suffix, ncore.cc, 民主
+host-suffix, open.cd, 民主
+host-suffix, ourbits.club, 民主
+host-suffix, passthepopcorn.me, 民主
+host-suffix, privatehd.to, 民主
+host-suffix, redacted.ch, 民主
+host-suffix, springsunday.net, 民主
+host-suffix, tjupt.org, 民主
+host-suffix, totheglory.im, 民主
 
-host-keyword, announce
-host-keyword, torrent
-host-keyword, tracker
-host-suffix, smtp
+host-keyword, announce, 民主
+host-keyword, torrent, 民主
+host-keyword, tracker, 民主
+host-suffix, smtp, 民主
 
-ip-cidr, 1.255.62.0/24
+ip-cidr, 1.255.62.0/24, 民主
