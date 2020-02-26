@@ -10,6 +10,7 @@ NO AD
 * [lhie1](https://github.com/lhie1)
 * [ConnersHua](https://github.com/ConnersHua)
 * [Choler](https://github.com/Choler)
+* [Hackl0us](https://github.com/Hackl0us)
 
 ---
 
