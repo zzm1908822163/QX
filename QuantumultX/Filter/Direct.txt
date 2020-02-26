@@ -175,6 +175,7 @@ host-suffix, pgyer.com, 民主
 host-suffix, pniao.com, 民主
 host-suffix, privatehd.to, 民主
 host-suffix, pstatp.com, 民主
+host-suffix, pt.m-team.cc, 民主
 host-suffix, qbox.me, 民主
 host-suffix, qcloud.com, 民主
 host-suffix, qdaily.com, 民主
@@ -194,6 +195,7 @@ host-suffix, redacted.ch, 民主
 host-suffix, rrmj.tv, 民主
 host-suffix, ruguoapp.com, 民主
 host-suffix, sandai.net, 民主
+host, safebrowsing.googleapis.com, 民主
 host-suffix, sf-express.com, 民主
 host-suffix, sinaapp.com, 民主
 host-suffix, sinaimg.cn, 民主
@@ -225,7 +227,6 @@ host-suffix, tmzvps.com, 民主
 host-suffix, trello.com, 民主
 host-suffix, trellocdn.com, 民主
 host-suffix, totheglory.im, 民主
-host-suffix, tp.m-team.cc, 民主
 host-suffix, ttmeiju.com, 民主
 host-suffix, tudou.com, 民主
 host-suffix, udache.com, 民主

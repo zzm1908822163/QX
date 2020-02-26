@@ -179,6 +179,7 @@ DOMAIN-SUFFIX,pgyer.com
 DOMAIN-SUFFIX,pniao.com
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,pt.m-team.cc
 DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qdaily.com
@@ -198,6 +199,7 @@ DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,rrmj.tv
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,sandai.net
+DOMAIN,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,sinaapp.com
 DOMAIN-SUFFIX,sinaimg.cn
@@ -229,7 +231,6 @@ DOMAIN-SUFFIX,tmzvps.com
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trellocdn.com
 DOMAIN-SUFFIX,totheglory.im
-DOMAIN-SUFFIX,tp.m-team.cc
 DOMAIN-SUFFIX,ttmeiju.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,udache.com
