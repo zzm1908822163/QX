@@ -40,7 +40,7 @@ Proxy Group:
       - 敬业
       - 诚信
       - 友善
-      - 民主
+      - DIRECT
   - name: "民主"
     type: select
     proxies:
@@ -62,7 +62,6 @@ Proxy Group:
       - 敬业
       - 诚信
       - 友善
-      - 民主
   - name: "自由"
     type: select
     proxies:
@@ -83,7 +82,6 @@ Proxy Group:
       - 敬业
       - 诚信
       - 友善
-      - 民主
   - name: "公正"
     type: select
     proxies:
@@ -94,7 +92,6 @@ Proxy Group:
       - 敬业
       - 诚信
       - 友善
-      - 民主
   - name: "法治"
     type: select
     proxies:
@@ -638,7 +635,6 @@ Rule:
   - DOMAIN-SUFFIX,zhzzx.com,文明
 
 # AsianTv.list
-  - USER-AGENT,*bili*,和谐
   - DOMAIN-KEYWORD,bilibili,和谐
   - DOMAIN-SUFFIX,acg.tv,和谐
   - DOMAIN-SUFFIX,acgvideo.com,和谐
@@ -651,29 +647,22 @@ Rule:
   - DOMAIN-SUFFIX,bilivideo.com,和谐
   - DOMAIN-SUFFIX,hdslb.com,和谐
   - DOMAIN-SUFFIX,im9.com,和谐
-  - USER-AGENT,QIYI*,和谐
-  - USER-AGENT,iQiYi*,和谐
   - DOMAIN-KEYWORD,qiyi,和谐
   - DOMAIN-SUFFIX,qy.net,和谐
   - IP-CIDR,101.227.0.0/16,和谐,no-resolve
   - IP-CIDR,101.224.0.0/13,和谐,no-resolve
   - IP-CIDR,119.176.0.0/12,和谐,no-resolve
   - DOMAIN-SUFFIX,api.mob.app.letv.com,和谐
-  - USER-AGENT,MOO*,和谐
-  - USER-AGENT,TencentMidasConnect*,和谐
   - DOMAIN-SUFFIX,vv.video.qq.com,和谐
   - IP-CIDR,106.11.0.0/16,和谐,no-resolve
 
 # GlobalTV.list
   - DOMAIN-SUFFIX,edgedatg.com,自由
   - DOMAIN-SUFFIX,go.com,自由
-  - USER-AGENT,AbemaTV*,自由
   - DOMAIN-SUFFIX,abema.io,自由
   - DOMAIN-SUFFIX,akamaized.net,自由
   - DOMAIN-SUFFIX,ameba.jp,自由
   - DOMAIN-SUFFIX,hayabusa.io,自由
-  - USER-AGENT,InstantVideo.US*,自由
-  - USER-AGENT,Prime%20Video*,自由
   - DOMAIN-SUFFIX,aiv-cdn.net,自由
   - DOMAIN-SUFFIX,amazonaws.com,自由
   - DOMAIN-SUFFIX,amazonvideo.com,自由
@@ -681,11 +670,9 @@ Rule:
   - DOMAIN,np-edge.itunes.apple.com,自由
   - DOMAIN,play-edge.itunes.apple.com,自由
   - DOMAIN-SUFFIX,tv.apple.com,自由
-  - USER-AGENT,Anime*,自由
   - DOMAIN-SUFFIX,bahamut.com.tw,自由
   - DOMAIN-SUFFIX,gamer.com.tw,自由
   - DOMAIN-SUFFIX,hinet.net,自由
-  - USER-AGENT,BBCiPlayer*,自由
   - DOMAIN-KEYWORD,bbcfmt,自由
   - DOMAIN-KEYWORD,co.uk,自由
   - DOMAIN-KEYWORD,uk-live,自由
@@ -694,24 +681,19 @@ Rule:
   - DOMAIN-SUFFIX,bbc.com,自由
   - DOMAIN-SUFFIX,bbci.co,自由
   - DOMAIN-SUFFIX,bbci.co.uk,自由
-  - USER-AGENT,TwDramas*,自由
   - DOMAIN-SUFFIX,chocotv.com.tw,自由
-  - USER-AGENT,Disney*,自由
   - DOMAIN,cdn.registerdisney.go.com,自由
   - DOMAIN-SUFFIX,disneyplus.com,自由
   - DOMAIN-SUFFIX,disney-plus.net,自由
   - DOMAIN-SUFFIX,dssott.com,自由
   - DOMAIN-SUFFIX,bamgrid.com,自由
   - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,自由
-  - USER-AGENT,PCCW*,自由
   - DOMAIN-KEYWORD,nowe,自由
   - DOMAIN,bcbolthboa-a.akamaihd.net,自由
   - DOMAIN-SUFFIX,nowe.com,自由
   - DOMAIN-SUFFIX,youboranqs01.com,自由
   - DOMAIN-KEYWORD,epicgames,自由
   - DOMAIN-SUFFIX,helpshift.com,自由
-  - USER-AGENT,FOX%20NOW*,自由
-  - USER-AGENT,FOXPlus*,自由
   - DOMAIN-KEYWORD,foxplus,自由
   - DOMAIN-SUFFIX,config.fox.com,自由
   - DOMAIN-SUFFIX,emome.net,自由
@@ -725,23 +707,18 @@ Rule:
   - DOMAIN-SUFFIX,now.com,自由
   - DOMAIN-SUFFIX,theplatform.com,自由
   - DOMAIN-SUFFIX,urlload.net,自由
-  - USER-AGENT,HBO%20NOW*,自由
   - DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,自由
   - DOMAIN-SUFFIX,hbo.com,自由
   - DOMAIN-SUFFIX,hboasia.com,自由
   - DOMAIN-SUFFIX,hbogo.com,自由
   - DOMAIN-SUFFIX,hbogoasia.com,自由
   - DOMAIN-SUFFIX,hbogoasia.hk,自由
-  - USER-AGENT,Hulu*,自由
   - DOMAIN-SUFFIX,happyon.jp,自由
   - DOMAIN-SUFFIX,hulu.com,自由
   - DOMAIN-SUFFIX,huluim.com,自由
   - DOMAIN-SUFFIX,hulustream.com,自由
   - DOMAIN-SUFFIX,imkan.tv,自由
-  - USER-AGENT,WeMusic*,自由
-  - USER-AGENT,JOOX*,自由
   - DOMAIN-SUFFIX,joox.com,自由
-  - USER-AGENT,mytv*,自由
   - DOMAIN-KEYWORD,nowtv100,自由
   - DOMAIN-KEYWORD,rthklive,自由
   - DOMAIN-SUFFIX,mytvsuper.com,自由
@@ -754,46 +731,21 @@ Rule:
   - DOMAIN-SUFFIX,nflxso.net,自由
   - DOMAIN-SUFFIX,nflxvideo.net,自由
   - DOMAIN-SUFFIX,pandora.com,自由
-  - USER-AGENT,skygo*,自由
   - DOMAIN-SUFFIX,sky.com,自由
   - DOMAIN-SUFFIX,skygo.co.nz,自由
-  - USER-AGENT,SoundCloud*,自由
-  - USER-AGENT,*Spotify*,自由
   - DOMAIN-KEYWORD,spotify,自由
   - DOMAIN-SUFFIX,scdn.co,自由
   - DOMAIN-SUFFIX,spoti.fi,自由
-  - USER-AGENT,ViuTV*,自由
   - DOMAIN-SUFFIX,cloudfront.net,自由
   - DOMAIN-SUFFIX,viu.com,自由
   - DOMAIN-SUFFIX,viu.tv,自由
   - DOMAIN-SUFFIX,viu.now.com,自由
-  - USER-AGENT,*youtube*,自由
-  - USER-AGENT,YouTube*,自由
   - DOMAIN-KEYWORD,youtube,自由
   - DOMAIN-SUFFIX,googlevideo.com,自由
   - DOMAIN-SUFFIX,gvt2.com,自由
   - DOMAIN-SUFFIX,youtu.be,自由
 
 # Apple.list
-  - USER-AGENT,%E5%9C%B0%E5%9B%BE*,平等
-  - USER-AGENT,%E8%AE%BE%E7%BD%AE*,平等
-  - USER-AGENT,*com.apple.mobileme.fmip1,平等
-  - USER-AGENT,*WeatherFoundation*,平等
-  - USER-AGENT,AppleNews*,平等
-  - USER-AGENT,AppStore*,平等
-  - USER-AGENT,com.apple.appstored*,平等
-  - USER-AGENT,com.apple.geod*,平等
-  - USER-AGENT,com.apple.Maps,平等
-  - USER-AGENT,com.apple.news*,平等
-  - USER-AGENT,FindMyFriends*,平等
-  - USER-AGENT,FindMyiPhone*,平等
-  - USER-AGENT,FMDClient*,平等
-  - USER-AGENT,FMFD*,平等
-  - USER-AGENT,fmflocatord*,平等
-  - USER-AGENT,geod*,平等
-  - USER-AGENT,locationd*,平等
-  - USER-AGENT,Maps*,平等
-  - USER-AGENT,TestFlight*,平等
   - DOMAIN,apple.comscoreresearch.com,平等
   - DOMAIN-SUFFIX,apple.cn,平等
   - DOMAIN-SUFFIX,apple.com,平等
@@ -821,7 +773,6 @@ Rule:
   - DOMAIN-SUFFIX,app.smartmailcloud.com,富强
   - DOMAIN-SUFFIX,gate.hockeyapp.net,富强
   - DOMAIN-SUFFIX,smartmailcloud.com,富强
-  - USER-AGENT,battleroyale*,富强
   - DOMAIN-SUFFIX,2o7.net,富强
   - DOMAIN-SUFFIX,4everproxy.com,富强
   - DOMAIN-SUFFIX,4shared.com,富强
@@ -1522,7 +1473,6 @@ Rule:
   - DOMAIN,ip.bjango.com,民主
   - DOMAIN-SUFFIX,alphassl.com,民主
   - DOMAIN-SUFFIX,edu.cn,民主
-  - USER-AGENT,RemotePlay*,民主
   - DOMAIN-SUFFIX,playstation.com,民主
   - DOMAIN-SUFFIX,playstation.net,民主
   - DOMAIN-SUFFIX,playstationnetwork.com,民主
