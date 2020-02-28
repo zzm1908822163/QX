@@ -159,7 +159,6 @@ host-suffix, miwifi.com, 民主
 host-suffix, mob.com, 民主
 host-suffix, moji.com, 民主
 host-suffix, moke.com, 民主
-host-suffix, mtalk.google.com, 民主
 host-suffix, mxhichina.com, 民主
 host-suffix, myqcloud.com, 民主
 host-suffix, myunlu.com, 民主

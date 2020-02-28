@@ -261,7 +261,6 @@ host-suffix, kik.com, 富强
 host-suffix, klip.me, 富强
 host-suffix, leancloud.com, 富强
 host-suffix, leetcode.com, 富强
-host-suffix, lhie1.com, 富强
 host-suffix, libsyn.com, 富强
 host-suffix, licdn.com, 富强
 host-suffix, lightboxcdn.com, 富强

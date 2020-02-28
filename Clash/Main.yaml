@@ -46,7 +46,7 @@ Proxy Group:
     proxies:
       - DIRECT
       - 富强
-- name: "文明"
+  - name: "文明"
     type: select
     proxies:
       - REJECT
@@ -1066,7 +1066,6 @@ Rule:
   - DOMAIN-SUFFIX,klip.me,富强
   - DOMAIN-SUFFIX,leancloud.com,富强
   - DOMAIN-SUFFIX,leetcode.com,富强
-  - DOMAIN-SUFFIX,lhie1.com,富强
   - DOMAIN-SUFFIX,libsyn.com,富强
   - DOMAIN-SUFFIX,licdn.com,富强
   - DOMAIN-SUFFIX,lightboxcdn.com,富强
@@ -1665,7 +1664,6 @@ Rule:
   - DOMAIN-SUFFIX,mob.com,民主
   - DOMAIN-SUFFIX,moji.com,民主
   - DOMAIN-SUFFIX,moke.com,民主
-  - DOMAIN-SUFFIX,mtalk.google.com,民主
   - DOMAIN-SUFFIX,mxhichina.com,民主
   - DOMAIN-SUFFIX,myqcloud.com,民主
   - DOMAIN-SUFFIX,myunlu.com,民主
