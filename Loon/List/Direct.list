@@ -6,6 +6,20 @@ DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,blizzard.com
 
+# > Microsoft
+DOMAIN-KEYWORD,microsoft
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,windowsupdate.com
+
 # > Prior
 DOMAIN,client.amplifi.com
 DOMAIN,ip.bjango.com
@@ -178,7 +192,6 @@ DOMAIN-SUFFIX,pgyer.com
 DOMAIN-SUFFIX,pniao.com
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,pt.m-team.cc
 DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qdaily.com
@@ -198,7 +211,6 @@ DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,rrmj.tv
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,sandai.net
-DOMAIN,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,sinaapp.com
 DOMAIN-SUFFIX,sinaimg.cn
@@ -215,7 +227,6 @@ DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,startssl.com
-DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,symcd.com
@@ -280,6 +291,15 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmz002.com
 
+# Special
+# > Google
+DOMAIN-KEYWORD,mtalk.google.com
+DOMAIN,safebrowsing.googleapis.com
+
+# > Steam
+USER-AGENT,Steam*
+DOMAIN-SUFFIX,steamcontent.com
+
 # > Private Tracker
 DOMAIN-SUFFIX,awesome-hd.me
 DOMAIN-SUFFIX,broadcasthe.net
@@ -316,9 +336,8 @@ URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|BitTorrent|bt_key|ed2k|fi
 
 IP-CIDR,1.255.62.0/24,no-resolve
 
-# LAN
+# > LAN
 DOMAIN,localhost
-DOMAIN-SUFFIX,local
 IP-CIDR,0.0.0.0/8
 IP-CIDR,10.0.0.0/8
 IP-CIDR,100.64.0.0/10

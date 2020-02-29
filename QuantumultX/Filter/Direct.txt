@@ -6,6 +6,20 @@ host-suffix, battle.net, 民主
 host-suffix, battlenet.com, 民主
 host-suffix, blizzard.com, 民主
 
+# > Microsoft
+host-keyword, microsoft, 民主
+host-suffix, azure.com, 民主
+host-suffix, hotmail.com, 民主
+host-suffix, live.com, 民主
+host-suffix, live.net, 民主
+host-suffix, msn.com, 民主
+host-suffix, office.com, 民主
+host-suffix, office.net, 民主
+host-suffix, outlook.com, 民主
+host-suffix, windows.com, 民主
+host-suffix, windows.net, 民主
+host-suffix, windowsupdate.com, 民主
+
 # > Prior
 host, client.amplifi.com, 民主
 host, ip.bjango.com, 民主
@@ -174,7 +188,6 @@ host-suffix, pgyer.com, 民主
 host-suffix, pniao.com, 民主
 host-suffix, privatehd.to, 民主
 host-suffix, pstatp.com, 民主
-host-suffix, pt.m-team.cc, 民主
 host-suffix, qbox.me, 民主
 host-suffix, qcloud.com, 民主
 host-suffix, qdaily.com, 民主
@@ -194,7 +207,6 @@ host-suffix, redacted.ch, 民主
 host-suffix, rrmj.tv, 民主
 host-suffix, ruguoapp.com, 民主
 host-suffix, sandai.net, 民主
-host, safebrowsing.googleapis.com, 民主
 host-suffix, sf-express.com, 民主
 host-suffix, sinaapp.com, 民主
 host-suffix, sinaimg.cn, 民主
@@ -211,7 +223,6 @@ host-suffix, soku.com, 民主
 host-suffix, soso.com, 民主
 host-suffix, sspai.com, 民主
 host-suffix, startssl.com, 民主
-host-suffix, steamcontent.com, 民主
 host-suffix, store.steampowered.com, 民主
 host-suffix, suning.com, 民主
 host-suffix, symcd.com, 民主
@@ -276,6 +287,15 @@ host-suffix, zhimg.com, 民主
 host-suffix, zimuzu.tv, 民主
 host-suffix, zmz002.com, 民主
 
+# Special
+# > Google
+host-keyword, mtalk.google.com, 民主
+host, safebrowsing.googleapis.com, 民主
+
+# > Steam
+user-agent, Steam*, 民主
+host-suffix, steamcontent.com,民主
+
 # > Private Tracker
 host-suffix, awesome-hd.me, 民主
 host-suffix, broadcasthe.net, 民主
@@ -310,7 +330,6 @@ ip-cidr, 1.255.62.0/24, 民主
 
 # > LAN
 host, localhost, 民主
-host-suffix, local, 民主
 ip-cidr, 0.0.0.0/8, 民主
 ip-cidr, 10.0.0.0/8, 民主
 ip-cidr, 100.64.0.0/10, 民主
