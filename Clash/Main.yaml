@@ -778,6 +778,7 @@ Rule:
   - DOMAIN-SUFFIX,line-cdn.net,富强
   - DOMAIN-SUFFIX,line-scdn.net,富强
   - DOMAIN-SUFFIX,nhncorp.jp,富强
+  - DOMAIN-KEYWORD,microsoft,富强
   - DOMAIN-SUFFIX,onedrive.live.com,富强
   - DOMAIN-SUFFIX,skype.com,富强
   - DOMAIN-SUFFIX,api.amplitude.com,富强
@@ -1480,7 +1481,6 @@ Rule:
   - DOMAIN-SUFFIX,battle.net,民主
   - DOMAIN-SUFFIX,battlenet.com,民主
   - DOMAIN-SUFFIX,blizzard.com,民主
-  - DOMAIN-KEYWORD,microsoft,民主
   - DOMAIN-SUFFIX,azure.com,民主
   - DOMAIN-SUFFIX,hotmail.com,民主
   - DOMAIN-SUFFIX,live.com,民主

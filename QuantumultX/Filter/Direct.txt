@@ -7,7 +7,6 @@ host-suffix, battlenet.com, 民主
 host-suffix, blizzard.com, 民主
 
 # > Microsoft
-host-keyword, microsoft, 民主
 host-suffix, azure.com, 民主
 host-suffix, hotmail.com, 民主
 host-suffix, live.com, 民主
