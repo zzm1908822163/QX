@@ -8,7 +8,6 @@ host-suffix, line-scdn.net, 富强
 host-suffix, nhncorp.jp, 富强
 
 # > Microsoft
-host-keyword, microsoft, 富强
 user-agent, OneDrive*, 富强
 host-suffix, onedrive.live.com, 富强
 host-suffix, skype.com, 富强
