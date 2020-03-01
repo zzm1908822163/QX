@@ -477,13 +477,9 @@ URL-REGEX,^https?:\/\/.+\.snssdk\.com\/motor\/operation\/activity\/display\/conf
 URL-REGEX,^https?:\/\/.+/img\/ad\.union\.api\/
 # > 中国银行
 URL-REGEX,^https?:\/\/mlife\.jf365\.boc\.cn\/AppPrj\/FirstPic\.do\?
-# > 中信银行
-URL-REGEX,^https?:\/\/m\.creditcard\.ecitic\.com\/citiccard\/mbk\/.+\/appStartAdv
 # > 中国工商银行
 URL-REGEX,^https?:\/\/v\.icbc\.com\.cn\/userfiles\/Resources\/WAP\/advertisement\/
 # > 中国招商银行
-URL-REGEX,^https?:\/\/mlife\.cmbchina\.com\/ClientFaceService\/preCacheAdvertise\.json
-URL-REGEX,^https?:\/\/mlife\.cmbchina\.com\/ClientFaceService\/getAdvertisement\.json
 URL-REGEX,^https?:\/\/pic1cdn\.cmbchina\.com\/appinitads\/
 # > 中国民生银行
 URL-REGEX,^https?:\/\/www\.cmbc\.com\.cn\/m\/image\/loadingpage\/
