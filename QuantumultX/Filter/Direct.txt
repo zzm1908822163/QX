@@ -233,8 +233,6 @@ host-suffix, tenpay.com, 民主
 host-suffix, tietuku.com, 民主
 host-suffix, tmall.com, 民主
 host-suffix, tmzvps.com, 民主
-host-suffix, trello.com, 民主
-host-suffix, trellocdn.com, 民主
 host-suffix, totheglory.im, 民主
 host-suffix, ttmeiju.com, 民主
 host-suffix, tudou.com, 民主
