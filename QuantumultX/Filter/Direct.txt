@@ -178,7 +178,6 @@ host-suffix, myunlu.com, 民主
 host-suffix, ngabbs.com, 民主
 host-suffix, netease.com, 民主
 host-suffix, nfoservers.com, 民主
-host-suffix, nssurge.com, 民主
 host-suffix, nuomi.com, 民主
 host-suffix, ourbits.club, 民主
 host-suffix, ourdvs.com, 民主
