@@ -4,7 +4,7 @@
 hostname = vira.llsapp.com
 
 [Script]
-http-response ^https?:\/\/vira\.llsapp\.com\/api\/v2\/readings\/(accessible|limitation) requires-body=1,https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Script/llyd.js
+http-response ^https?:\/\/vira\.llsapp\.com\/api\/v2\/readings\/(accessible|limitation) requires-body=1,script-path=https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Script/llyd.js
 */
 
 var url = $request.url;
