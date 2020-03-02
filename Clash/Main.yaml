@@ -255,8 +255,6 @@ Rule:
   - DOMAIN,oset-api.open-adx.com,文明
   - DOMAIN,sdkauth.hpplay.cn,文明
   - DOMAIN,sf3-ttcdn-tos.pstatp.com,文明
-  - DOMAIN,ocsp.apple.com,文明
-  - DOMAIN,mesu.apple.com,文明
   - DOMAIN-SUFFIX,iadsdk.apple.com,文明
   - DOMAIN-SUFFIX,ads.internal.unity3d.com,文明
   - DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com,文明
