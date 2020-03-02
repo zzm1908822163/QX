@@ -9,8 +9,9 @@ host-suffix, nhncorp.jp, 富强
 
 # > Microsoft
 user-agent, OneDrive*, 富强
-host-suffix, onedrive.live.com, 富强
+host-keyword, onedrive, 富强
 host-suffix, skype.com, 富强
+host-suffix, storage.live.com, 富强
 
 # > Spark
 host-suffix, api.amplitude.com, 富强

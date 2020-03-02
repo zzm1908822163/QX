@@ -1099,8 +1099,9 @@ Rule:
   - DOMAIN-SUFFIX,line-cdn.net,富强
   - DOMAIN-SUFFIX,line-scdn.net,富强
   - DOMAIN-SUFFIX,nhncorp.jp,富强
-  - DOMAIN-SUFFIX,onedrive.live.com,富强
+  - DOMAIN-KEYWORD,onedrive,富强
   - DOMAIN-SUFFIX,skype.com,富强
+  - DOMAIN-SUFFIX,storage.live.com,富强
   - DOMAIN-SUFFIX,api.amplitude.com,富强
   - DOMAIN-SUFFIX,app.smartmailcloud.com,富强
   - DOMAIN-SUFFIX,gate.hockeyapp.net,富强
