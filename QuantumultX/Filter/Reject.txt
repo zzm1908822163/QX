@@ -134,7 +134,6 @@ host, nativeadv.dftoutiao.com, 文明
 host, oset-api.open-adx.com, 文明
 host, sdkauth.hpplay.cn, 文明
 host, sf3-ttcdn-tos.pstatp.com, 文明
-host, tj.playcvn.com, 文明
 
 # (0~9)
 # > 58 同城
