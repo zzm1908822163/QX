@@ -62,7 +62,6 @@ host-suffix, medialytics.com, 文明
 host-suffix, meetrics.com, 文明
 host-suffix, meetrics.net, 文明
 host-suffix, miaozhen.com, 文明
-host-suffix, mmstat.com, 文明
 host-suffix, moatads.com, 文明
 host-suffix, mobclix.com, 文明
 host-suffix, mopub.com, 文明

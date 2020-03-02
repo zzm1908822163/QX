@@ -416,6 +416,9 @@ URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alimusic\.common\.mobileser
 URL-REGEX,^https?:\/\/api\.psy-1\.com\/cosleep\/startup
 # > 小猿搜题
 URL-REGEX,^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
+# > 雪球
+URL-REGEX,^https?:\/\/101\.201\.175\.228\/ads\/display
+URL-REGEX,^https?:\/\/(101\.201\.175\.228|182\.92\.251\.113)\/promotion\/(feed_)?display
 # > 迅游加速器
 URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/configs\/(splash_ad|ad_urls)
 URL-REGEX,^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/ads\/

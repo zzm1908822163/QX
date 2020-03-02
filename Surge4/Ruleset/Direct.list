@@ -44,6 +44,7 @@ IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
 
 # Domestic
+DOMAIN,e.crashlytics.com
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,126.net
@@ -326,27 +327,24 @@ DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
 DOMAIN-SUFFIX,smtp
 URL-REGEX,(Subject|HELO|SMTP)
-URL-REGEX,(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
-URL-REGEX,(.+.|^)(360|so|qihoo|360safe|qhimg|360totalsecurity|yunpan).(cn|com)
-URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=|sandai|Thunder|XLLiveUD|xunlei)(..+)?
 
 IP-CIDR,1.255.62.0/24,no-resolve
 
 # > LAN
 DOMAIN,localhost
-IP-CIDR,0.0.0.0/8
-IP-CIDR,10.0.0.0/8
-IP-CIDR,100.64.0.0/10
-IP-CIDR,127.0.0.0/8
-IP-CIDR,169.254.0.0/16
-IP-CIDR,172.16.0.0/12
-IP-CIDR,192.0.0.0/24
-IP-CIDR,192.0.2.0/24
-IP-CIDR,192.168.0.0/16
-IP-CIDR,192.88.99.0/24
-IP-CIDR,198.18.0.0/15
-IP-CIDR,198.51.100.0/24
-IP-CIDR,203.0.113.0/24
-IP-CIDR,224.0.0.0/4
-IP-CIDR,240.0.0.0/4
-IP-CIDR,255.255.255.255/32
+IP-CIDR,0.0.0.0/8,no-resolve
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,100.64.0.0/10,no-resolve
+IP-CIDR,127.0.0.0/8,no-resolve
+IP-CIDR,169.254.0.0/16,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
+IP-CIDR,192.0.0.0/24,no-resolve
+IP-CIDR,192.0.2.0/24,no-resolve
+IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,192.88.99.0/24,no-resolve
+IP-CIDR,198.18.0.0/15,no-resolve
+IP-CIDR,198.51.100.0/24,no-resolve
+IP-CIDR,203.0.113.0/24,no-resolve
+IP-CIDR,224.0.0.0/4,no-resolve
+IP-CIDR,240.0.0.0/4,no-resolve
+IP-CIDR,255.255.255.255/32,no-resolve

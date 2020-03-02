@@ -40,6 +40,7 @@ ip-cidr, 185.188.34.0/24, 民主
 ip-cidr, 185.188.35.0/24, 民主
 
 # Domestic
+host, e.crashlytics.com, 民主
 host-suffix, 12306.cn, 民主
 host-suffix, 12306.com, 民主
 host-suffix, 126.net, 民主

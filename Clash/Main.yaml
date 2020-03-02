@@ -11,20 +11,20 @@ dns:
   ipv6: false
   listen: 0.0.0.0:53
   default-nameserver: 
+    - 1.2.4.8
+    - 101.101.101.101
     - 119.29.29.29
-    - 223.5.5.5
-    - 1.1.1.1
-    - 8.8.8.8
   enhanced-mode: redir-host
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:  
     - '*.lan'
     - localhost.ptlogin2.qq.com
   nameserver:
+    - 1.2.4.8
     - 119.29.29.29
-    - 223.5.5.5
   fallback:
     - 1.1.1.1
+    - 101.101.101.101
     - 8.8.8.8
   fallback-filter:
     geoip: true 
@@ -184,7 +184,6 @@ Rule:
   - DOMAIN-SUFFIX,meetrics.com,文明
   - DOMAIN-SUFFIX,meetrics.net,文明
   - DOMAIN-SUFFIX,miaozhen.com,文明
-  - DOMAIN-SUFFIX,mmstat.com,文明
   - DOMAIN-SUFFIX,moatads.com,文明
   - DOMAIN-SUFFIX,mobclix.com,文明
   - DOMAIN-SUFFIX,mopub.com,文明
@@ -799,6 +798,7 @@ Rule:
   - IP-CIDR,185.188.33.0/24,民主,no-resolve
   - IP-CIDR,185.188.34.0/24,民主,no-resolve
   - IP-CIDR,185.188.35.0/24,民主,no-resolve
+  - DOMAIN,e.crashlytics.com,民主
   - DOMAIN-SUFFIX,12306.cn,民主
   - DOMAIN-SUFFIX,12306.com,民主
   - DOMAIN-SUFFIX,126.net,民主
@@ -1074,22 +1074,22 @@ Rule:
 
   - IP-CIDR,1.255.62.0/24,民主,no-resolve
   - DOMAIN-SUFFIX,local,民主
-  - IP-CIDR,0.0.0.0/8,民主
-  - IP-CIDR,10.0.0.0/8,民主
-  - IP-CIDR,100.64.0.0/10,民主
-  - IP-CIDR,127.0.0.0/8,民主
-  - IP-CIDR,169.254.0.0/16,民主
-  - IP-CIDR,172.16.0.0/12,民主
-  - IP-CIDR,192.0.0.0/24,民主
-  - IP-CIDR,192.0.2.0/24,民主
-  - IP-CIDR,192.168.0.0/16,民主
-  - IP-CIDR,192.88.99.0/24,民主
-  - IP-CIDR,198.18.0.0/15,民主
-  - IP-CIDR,198.51.100.0/24,民主
-  - IP-CIDR,203.0.113.0/24,民主
-  - IP-CIDR,224.0.0.0/4,民主
-  - IP-CIDR,240.0.0.0/4,民主
-  - IP-CIDR,255.255.255.255/32,民主
+  - IP-CIDR,0.0.0.0/8,民主,no-resolve
+  - IP-CIDR,10.0.0.0/8,民主,no-resolve
+  - IP-CIDR,100.64.0.0/10,民主,no-resolve
+  - IP-CIDR,127.0.0.0/8,民主,no-resolve
+  - IP-CIDR,169.254.0.0/16,民主,no-resolve
+  - IP-CIDR,172.16.0.0/12,民主,no-resolve
+  - IP-CIDR,192.0.0.0/24,民主,no-resolve
+  - IP-CIDR,192.0.2.0/24,民主,no-resolve
+  - IP-CIDR,192.168.0.0/16,民主,no-resolve
+  - IP-CIDR,192.88.99.0/24,民主,no-resolve
+  - IP-CIDR,198.18.0.0/15,民主,no-resolve
+  - IP-CIDR,198.51.100.0/24,民主,no-resolve
+  - IP-CIDR,203.0.113.0/24,民主,no-resolve
+  - IP-CIDR,224.0.0.0/4,民主,no-resolve
+  - IP-CIDR,240.0.0.0/4,民主,no-resolve
+  - IP-CIDR,255.255.255.255/32,民主,no-resolve
   
   # Proxy.list
   - DOMAIN-SUFFIX,lin.ee,富强
