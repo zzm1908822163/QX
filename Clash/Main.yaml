@@ -834,6 +834,7 @@ Rule:
   - DOMAIN-SUFFIX,qhres.com,民主
   - DOMAIN-SUFFIX,qhimg.com,民主
   - DOMAIN-SUFFIX,akadns.net,民主
+  - DOMAIN-SUFFIX,akamaized.net,民主
   - DOMAIN-SUFFIX,alibaba.com,民主
   - DOMAIN-SUFFIX,alicdn.com,民主
   - DOMAIN-SUFFIX,alikunlun.com,民主
@@ -883,6 +884,7 @@ Rule:
   - DOMAIN-SUFFIX,cctv.com,民主
   - DOMAIN-SUFFIX,cctvpic.com,民主
   - DOMAIN-SUFFIX,livechina.com,民主
+  - DOMAIN-SUFFIX,21cn.com,民主
   - DOMAIN-SUFFIX,didialift.com,民主
   - DOMAIN-SUFFIX,didiglobal.com,民主
   - DOMAIN-SUFFIX,udache.com,民主
@@ -893,7 +895,6 @@ Rule:
   - DOMAIN-SUFFIX,dandanzan.com,民主
   - DOMAIN-SUFFIX,fjhps.com,民主
   - DOMAIN-SUFFIX,kuyunbo.club,民主
-  - DOMAIN-SUFFIX,21cn.com,民主
   - DOMAIN-SUFFIX,hitv.com,民主
   - DOMAIN-SUFFIX,mgtv.com,民主
   - DOMAIN-SUFFIX,iqiyi.com,民主

@@ -9,7 +9,7 @@ host-suffix, akadns.net, 民主
 # host-suffix, akamaiedge.net
 # host-suffix, akamaihd.net
 # host-suffix, akamaistream.net
-# host-suffix, akamaized.net
+host-suffix, akamaized.net, 民主
 # > Alibaba
 user-agent, %E4%BC%98%E9%85%B7*, 民主
 host-suffix, alibaba.com, 民主
@@ -67,6 +67,8 @@ host-suffix, toutiao.com, 民主
 host-suffix, cctv.com, 民主
 host-suffix, cctvpic.com, 民主
 host-suffix, livechina.com, 民主
+# > ChinaNet
+host-suffix, 21cn.com, 民主
 # > DiDi
 host-suffix, didialift.com, 民主
 host-suffix, didiglobal.com, 民主
@@ -79,8 +81,6 @@ host-suffix, czybjz.com, 民主
 host-suffix, dandanzan.com, 民主
 host-suffix, fjhps.com, 民主
 host-suffix, kuyunbo.club, 民主
-# > ChinaNet
-host-suffix, 21cn.com, 民主
 # > HunanTV
 host-suffix, hitv.com, 民主
 host-suffix, mgtv.com, 民主

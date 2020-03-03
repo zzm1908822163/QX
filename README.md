@@ -79,7 +79,7 @@ Surge4 | [iOS](https://github.com/eHpo1/Rules/blob/master/Surge4/Main.conf) | [�
 * Liby.list
     * 通过域名 / IP去广告
 * Tide.list
-    * 通过中间人攻击使用正则表达式强力去广告
+    * 通过中间人攻击使用正则表达式实现对广告的精准打击
 * AsianMedia.list / GlobalMedia.list
     * 亚洲媒体 / 国际媒体
 * Domestic.list / Global.list
