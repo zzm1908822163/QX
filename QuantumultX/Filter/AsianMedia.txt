@@ -1,3 +1,4 @@
+# AsianMedia.list
 # > Bilibili
 user-agent, *bili*, 和谐
 host-keyword, bilibili, 和谐
@@ -12,6 +13,7 @@ host-suffix, biligame.net, 和谐
 host-suffix, bilivideo.com, 和谐
 host-suffix, hdslb.com, 和谐
 host-suffix, im9.com, 和谐
+host, upos-hz-mirrorakam.akamaized.net, 和谐
 
 # > IQIYI
 user-agent, QIYI*, 和谐

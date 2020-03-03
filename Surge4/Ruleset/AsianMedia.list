@@ -1,3 +1,4 @@
+# AsianMedia.list
 # > Bilibili
 USER-AGENT,*bili*
 DOMAIN-KEYWORD,bilibili
@@ -12,6 +13,7 @@ DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
+DOMAIN,upos-hz-mirrorakam.akamaized.net
 
 # > IQIYI
 USER-AGENT,QIYI*

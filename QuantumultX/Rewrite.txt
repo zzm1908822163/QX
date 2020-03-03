@@ -68,7 +68,8 @@ hostname = *.amemv.com, *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-off
 ^https?:\/\/(www.)?zbrushcn.com/ url 302 https://pixologic.com/
 
 
-# url-reject
+# Tide.list
+# Strong Stain Removal
 # 0~9
 # > 21经济
 ^https?:\/\/api\.21jingji\.com\/ad\/ url reject-200
