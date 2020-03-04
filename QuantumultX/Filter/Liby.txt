@@ -517,6 +517,10 @@ host, cdn.adapi.fotoable.com, 文明
 # > PeanutWiFiMpass
 host, adnew.wifi8.com, 文明
 host, adfile.wifi8.com, 文明
+# (R)
+# > 人人影视字幕组
+host, tu.cvnad.com, 文明
+host, tj.playcvn.com, 文明
 # (S)
 # > Sina
 host-suffix, beacon.sina.com.cn, 文明

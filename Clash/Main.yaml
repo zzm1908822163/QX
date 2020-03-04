@@ -376,6 +376,10 @@ Rule:
   - DOMAIN,cdn.adapi.fotoable.com,文明
   - DOMAIN,adnew.wifi8.com,文明
   - DOMAIN,adfile.wifi8.com,文明
+# (R)
+# > 人人影视字幕组
+  - DOMAIN,tu.cvnad.com,文明
+  - DOMAIN,tj.playcvn.com,文明
   - DOMAIN-SUFFIX,beacon.sina.com.cn,文明
   - DOMAIN,adimg.vue.weibo.com,文明
   - DOMAIN,u1.img.mobile.sina.cn,文明

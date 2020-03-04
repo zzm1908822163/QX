@@ -517,6 +517,10 @@ DOMAIN,cdn.adapi.fotoable.com
 # > PeanutWiFiMpass
 DOMAIN,adnew.wifi8.com
 DOMAIN,adfile.wifi8.com
+# (R)
+# > 人人影视字幕组
+DOMAIN,tu.cvnad.com
+DOMAIN,tj.playcvn.com
 # (S)
 # > Sina
 DOMAIN-SUFFIX,beacon.sina.com.cn
