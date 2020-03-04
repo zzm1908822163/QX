@@ -1,0 +1,12 @@
+# > Amazon Prime Video
+user-agent, InstantVideo.US*, 富强
+user-agent, Prime%20Video*, 富强
+host-suffix, aiv-cdn.net, 富强
+host-suffix, aiv-delivery.net, 富强
+host-suffix, primevideo.com, 富强
+host, avodmp4s3ww-a.akamaihd.net, 富强
+host, d25xi40x97liuc.cloudfront.net, 富强
+host, dmqdd6hw24ucf.cloudfront.net, 富强
+host, d22qjgkvxw22r6.cloudfront.net, 富强
+host, d1v5ir2lpwr8os.cloudfront.net, 富强
+host-keyword, avoddashs, 富强

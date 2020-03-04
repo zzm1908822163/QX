@@ -1,0 +1,5 @@
+# > My5
+user-agent, My5*, 富强
+host-suffix, channel5.com, 富强
+host-suffix, my5.tv, 富强
+host, d349g9zuie06uo.cloudfront.net, 富强

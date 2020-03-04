@@ -1,0 +1,5 @@
+# > HBO NOW
+user-agent, HBO%20NOW*, 富强
+host-suffix, hbo.com, 富强
+host-suffix, hbogo.com, 富强
+host-suffix, hbonow.com, 富强

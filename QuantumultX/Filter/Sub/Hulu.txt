@@ -1,0 +1,4 @@
+# > Hulu
+host-suffix, hulu.com, 富强
+host-suffix, huluim.com, 富强
+host-suffix, hulustream.com, 富强

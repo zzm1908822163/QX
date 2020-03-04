@@ -1,0 +1,4 @@
+# > JOOX
+user-agent, WeMusic*, 富强
+user-agent, JOOX*, 富强
+host-suffix, joox.com, 富强

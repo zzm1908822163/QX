@@ -1,0 +1,4 @@
+# > KKBOX
+host-suffix, kkbox.com, 富强
+host-suffix, kkbox.com.tw, 富强
+host-suffix, kfs.io, 富强

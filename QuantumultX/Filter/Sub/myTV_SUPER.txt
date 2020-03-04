@@ -1,0 +1,4 @@
+# > myTV_SUPER
+user-agent, mytv*, 富强
+host-suffix, mytvsuper.com, 富强
+host-suffix, tvb.com, 富强

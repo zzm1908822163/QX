@@ -1,0 +1,4 @@
+# > Deezer
+user-agent, Deezer*, 富强
+host-suffix, deezer.com, 富强
+host-suffix, dzcdn.net, 富强

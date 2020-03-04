@@ -1,0 +1,6 @@
+# > Fox+
+user-agent, FOX%20NOW*, 富强
+host-suffix, fox.com, 富强
+host-suffix, foxdcg.com, 富强
+host-suffix, theplatform.com, 富强
+host-suffix, uplynk.com, 富强

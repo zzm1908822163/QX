@@ -1,0 +1,4 @@
+# > 华文电视
+user-agent, HWTVMobile*, 富强
+host-suffix, 5itv.tv, 富强
+host-suffix, ocnttv.com, 富强

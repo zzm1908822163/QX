@@ -1,0 +1,3 @@
+# > Pandora
+user-agent, Pandora*, 富强
+host-suffix, pandora.com, 富强

@@ -1,0 +1,6 @@
+# > BBC iPlayer
+host-suffix, BBCiPlayer*, 富强
+host-suffix, bbc.co.uk, 富强
+host-suffix, bbci.co.uk, 富强
+host-keyword, bbcfmt, 富强
+host-keyword, uk-live, 富强

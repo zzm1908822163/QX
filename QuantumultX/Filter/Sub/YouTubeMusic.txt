@@ -1,0 +1,3 @@
+# > YouTubeMusic
+user-agent, com.google.ios.youtubemusic*, 富强
+user-agent, YouTubeMusic*, 富强

@@ -1,0 +1,5 @@
+# > SoundCloud
+user-agent, SoundCloud*, 富强
+host-suffix, p-cdn.us, 富强
+host-suffix, sndcdn.com, 富强
+host-suffix, soundcloud.com, 富强

@@ -1,0 +1,6 @@
+# > niconico
+user-agent, Niconico*, 富强
+host-suffix, dmc.nico, 富强
+host-suffix, nicovideo.jp, 富强
+host-suffix, nimg.jp, 富强
+host-suffix, socdm.com, 富强

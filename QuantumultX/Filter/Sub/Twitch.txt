@@ -1,0 +1,5 @@
+# > Twitch
+host-suffix, twitch.tv, 富强
+host-suffix, twitchcdn.net, 富强
+host-suffix, ttvnw.net, 富强
+host-suffix, jtvnw.net, 富强

@@ -1,0 +1,8 @@
+# > Spotify
+user-agent, Spotify*, 富强
+host-suffix, pscdn.co, 富强
+host-suffix, scdn.co, 富强
+host-suffix, spotify.com, 富强
+host-suffix, spoti.fi, 富强
+host-keyword, spotify.com, 富强
+host-keyword, -spotify-com, 富强

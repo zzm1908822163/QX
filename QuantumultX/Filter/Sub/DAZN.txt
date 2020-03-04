@@ -1,0 +1,6 @@
+# > DAZN
+user-agent, DAZN*, 富强
+host-suffix, dazn.com, 富强
+host-suffix, dazn-api.com, 富强
+host, d151l6v8er5bdm.cloudfront.net, 富强
+host-keyword, voddazn, 富强

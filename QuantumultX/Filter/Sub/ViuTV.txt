@@ -1,0 +1,9 @@
+# > Viu(TV)
+user-agent, Viu*, 富强
+user-agent, ViuTV*, 富强
+host-suffix, viu.com, 富强
+host-suffix, viu.tv, 富强
+host, api.viu.now.com, 富强
+host, d1k2us671qcoau.cloudfront.net, 富强
+host, d2anahhhmp1ffz.cloudfront.net, 富强
+host, dfp6rglgjqszk.cloudfront.net, 富强

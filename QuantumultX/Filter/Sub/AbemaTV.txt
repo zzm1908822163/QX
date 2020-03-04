@@ -1,0 +1,10 @@
+# > AbemaTV
+user-agent, AbemaTV*, 富强
+host-suffix, abema.io, 富强
+host-suffix, abema.tv, 富强
+host-suffix, ameba.jp, 富强
+host-suffix, hayabusa.io, 富强
+host, abematv.akamaized.net, 富强
+host, ds-linear-abematv.akamaized.net, 富强
+host, ds-vod-abematv.akamaized.net, 富强
+host, linear-abematv.akamaized.net, 富强

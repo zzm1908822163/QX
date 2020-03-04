@@ -528,7 +528,7 @@ hostname = *.amemv.com, *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-off
 ^https?:\/\/.+\/allOne\.php\?ad_name url reject-200
 # > 知乎
 https?:\/\/www\.zhihu\.com\/api\/v4\/mcn\/ url reject-200
-https?:\/\/api\.zhihu\.com/(ab|adx|drama|fringe|zst|commercial|ad-style-service|market\/popover|search\/(top|tab|preset)|.*(guide|recommendations|extended|featured-comment-ad)) url reject-200
+https?:\/\/api\.zhihu\.com\/(ab|adx|drama|fringe|zst|commercial|ad-style-service|market\/popover|search\/(top|tab|preset)|.*(guide|recommendations|extended|featured-comment-ad)) url reject-200
 ^https?:\/\/www\.zhihu\.com\/api\/v4\/community-ad\/ url reject-200
 ^https?:\/\/api\.zhihu\.com\/(launch|real_time) url reject-200
 ^https?:\/\/api\.zhihu\.com\/commercial_api\/(launch|real_time) url reject-200

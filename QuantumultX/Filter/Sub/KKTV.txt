@@ -1,0 +1,6 @@
+# > KKTV
+user-agent, KKTV*, 富强
+user-agent, com.kktv.ios.kktv*, 富强
+host-suffix, kktv.com.tw, 富强
+host-suffix, kktv.me, 富强
+host, kktv-theater.kk.stream, 富强

@@ -1,0 +1,7 @@
+# > Disney+
+user-agent, Disney+*, 富强
+host-suffix, bamgrid.com, 富强
+host-suffix, disney-plus.net, 富强
+host-suffix, disneyplus.com, 富强
+host-suffix, dssott.com, 富强
+host, cdn.registerdisney.go.com, 富强

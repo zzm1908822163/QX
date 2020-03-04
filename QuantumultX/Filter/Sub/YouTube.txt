@@ -1,0 +1,6 @@
+# > YouTube
+user-agent, com.google.ios.youtube*, 富强
+user-agent, YouTube*, 富强
+host-suffix, googlevideo.com, 富强
+host-suffix, youtube.com, 富强
+host, youtubei.googleapis.com, 富强
