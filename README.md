@@ -68,9 +68,9 @@ Surge4 | [iOS](https://github.com/eHpo1/Rules/blob/master/Surge4/Main.conf) | [�
 * 富强 / 民主 / 文明
     * 默认代理 / 直连 / 拦截
 * 和谐 / 自由
-    * 亚洲媒体 / 国际媒体
+    * 分站细化规则（默认Apple / Speedtest）
 * 平等 / 公正
-    * 细化规则（默认Apple / Speedtest）
+    * 亚洲媒体 / 国际媒体
 * 法治 / 爱国 / 敬业 / 诚信 / 友善
     * 科学分类
    
