@@ -129,313 +129,7 @@ Proxy Group:
       - 1
 Rule:
 # Liby.list
-  - DOMAIN-KEYWORD,adservice,文明
-  - DOMAIN-SUFFIX,adcolony.com,文明
-  - DOMAIN-SUFFIX,adinall.com,文明
-  - DOMAIN-SUFFIX,admaster.com.cn,文明
-  - DOMAIN-SUFFIX,admob.com,文明
-  - DOMAIN-SUFFIX,adnxs.com,文明
-  - DOMAIN-SUFFIX,adnyg.com,文明
-  - DOMAIN-SUFFIX,adsensor.org,文明
-  - DOMAIN-SUFFIX,adsymptotic.com,文明
-  - DOMAIN-SUFFIX,adthor.com,文明
-  - DOMAIN-SUFFIX,adwhirl.com,文明
-  - DOMAIN-SUFFIX,amazon-adsystem.com,文明
-  - DOMAIN-SUFFIX,amobee.com,文明
-  - DOMAIN-SUFFIX,app-adforce.jp,文明
-  - DOMAIN-SUFFIX,appads.com,文明
-  - DOMAIN-SUFFIX,appcpi.net,文明
-  - DOMAIN-SUFFIX,appier.net,文明
-  - DOMAIN-SUFFIX,applift.com,文明
-  - DOMAIN-SUFFIX,applovin.com,文明
-  - DOMAIN-SUFFIX,applvn.com,文明
-  - DOMAIN-SUFFIX,apsalar.com,文明
-  - DOMAIN-SUFFIX,apxadtracking.net,文明
-  - DOMAIN-SUFFIX,axonix.com,文明
-  - DOMAIN-SUFFIX,bayimob.com,文明
-  - DOMAIN-SUFFIX,bjvvqu.cn,文明
-  - DOMAIN-SUFFIX,bulldogcpi.com,文明
-  - DOMAIN-SUFFIX,clotfun.mobi,文明
-  - DOMAIN-SUFFIX,clotfun.online,文明
-  - DOMAIN-SUFFIX,cloudmobi.net,文明
-  - DOMAIN-SUFFIX,crwdcntrl.net,文明
-  - DOMAIN-SUFFIX,ctrmi.com,文明
-  - DOMAIN-SUFFIX,exosrv.com,文明
-  - DOMAIN-SUFFIX,go2cloud.org,文明
-  - DOMAIN-SUFFIX,growingio.com,文明
-  - DOMAIN-SUFFIX,haloapps.com,文明
-  - DOMAIN-SUFFIX,hypers.com,文明
-  - DOMAIN-SUFFIX,idealads.net,文明
-  - DOMAIN-SUFFIX,inmobi.cn,文明
-  - DOMAIN-SUFFIX,inmobi.com,文明
-  - DOMAIN-SUFFIX,inmobi.net,文明
-  - DOMAIN-SUFFIX,inmobicdn.cn,文明
-  - DOMAIN-SUFFIX,inmobicdn.net,文明
-  - DOMAIN-SUFFIX,inner-active.mobi,文明
-  - DOMAIN-SUFFIX,insurads.com,文明
-  - DOMAIN-SUFFIX,ironsrc.com,文明
-  - DOMAIN-SUFFIX,irs01.com,文明
-  - DOMAIN-SUFFIX,iskyworker.com,文明
-  - DOMAIN-SUFFIX,juicyads.com,文明
-  - DOMAIN-SUFFIX,kochava.com,文明
-  - DOMAIN-SUFFIX,leadboltmobile.net,文明
-  - DOMAIN-SUFFIX,lenzmx.com,文明
-  - DOMAIN-SUFFIX,liveadvert.com,文明
-  - DOMAIN-SUFFIX,lnk0.com,文明
-  - DOMAIN-SUFFIX,lnk8.cn,文明
-  - DOMAIN-SUFFIX,localytics.com,文明
-  - DOMAIN-SUFFIX,mdfull.com,文明
-  - DOMAIN-SUFFIX,measurementapi.com,文明
-  - DOMAIN-SUFFIX,medialytics.com,文明
-  - DOMAIN-SUFFIX,meetrics.com,文明
-  - DOMAIN-SUFFIX,meetrics.net,文明
-  - DOMAIN-SUFFIX,miaozhen.com,文明
-  - DOMAIN-SUFFIX,moatads.com,文明
-  - DOMAIN-SUFFIX,mobclix.com,文明
-  - DOMAIN-SUFFIX,mopub.com,文明
-  - DOMAIN-SUFFIX,okjhb.xyz,文明
-  - DOMAIN-SUFFIX,openx.net,文明
-  - DOMAIN-SUFFIX,outbrain.com,文明
-  - DOMAIN-SUFFIX,pubmatic.com,文明
-  - DOMAIN-SUFFIX,qchannel01.cn,文明
-  - DOMAIN-SUFFIX,rayjump.com,文明
-  - DOMAIN-SUFFIX,rtbasia.com,文明
-  - DOMAIN-SUFFIX,rubiconproject.com,文明
-  - DOMAIN-SUFFIX,scorecardresearch.com,文明
-  - DOMAIN-SUFFIX,sdkclick.com,文明
-  - DOMAIN-SUFFIX,shuzilm.cn,文明
-  - DOMAIN-SUFFIX,smaato.net,文明
-  - DOMAIN-SUFFIX,smartadserver.com,文明
-  - DOMAIN-SUFFIX,smartnews-ads.com,文明
-  - DOMAIN-SUFFIX,supersonic.com,文明
-  - DOMAIN-SUFFIX,supersonicads.com,文明
-  - DOMAIN-SUFFIX,tagtic.cn,文明
-  - DOMAIN-SUFFIX,tanv.com,文明
-  - DOMAIN-SUFFIX,tanx.com,文明
-  - DOMAIN-SUFFIX,tapjoy.com,文明
-  - DOMAIN-SUFFIX,trafficjunky.net,文明
-  - DOMAIN-SUFFIX,turn.com,文明
-  - DOMAIN-SUFFIX,uri6.com,文明
-  - DOMAIN-SUFFIX,vidoomy.com,文明
-  - DOMAIN-SUFFIX,vungle.com,文明
-  - DOMAIN-SUFFIX,wedolook.com,文明
-  - DOMAIN-SUFFIX,xdrig.com,文明
-  - DOMAIN-SUFFIX,yumimobi.com,文明
-  - DOMAIN-SUFFIX,zu08e.cn,文明
-  - DOMAIN-SUFFIX,ad.cmvideo.cn,文明
-  - DOMAIN-SUFFIX,ad.daum.net,文明
-  - DOMAIN,abema-adx.ameba.jp,文明
-  - DOMAIN,ad.12306.cn,文明
-  - DOMAIN,ad.360in.com,文明
-  - DOMAIN,ad.51wnl-cq.com,文明
-  - DOMAIN,ad.caiyunapp.com,文明
-  - DOMAIN,ad.huajiao.com,文明
-  - DOMAIN,ad.hzyoka.com,文明
-  - DOMAIN,ad.jiemian.com,文明
-  - DOMAIN,ad.qingting.fm,文明
-  - DOMAIN,ad.wappalyzer.com,文明
-  - DOMAIN,ad-channel.woyeahgo.tk,文明
-  - DOMAIN,ad-cn.jovcloud.com,文明
-  - DOMAIN,adextra.51wnl-cq.com,文明
-  - DOMAIN,api.adnet.mob.com,文明
-  - DOMAIN,ads.adadapted.com,文明
-  - DOMAIN,ads.chinadaily.com.cn,文明
-  - DOMAIN,ads.daydaycook.com.cn,文明
-  - DOMAIN,ads.weilitoutiao.net,文明
-  - DOMAIN,adsapi.manhuaren.com,文明
-  - DOMAIN,adsdk.dmzj.com,文明
-  - DOMAIN,adserver.pandora.com,文明
-  - DOMAIN,adshow.58.com,文明
-  - DOMAIN,adui.tg.meitu.com,文明
-  - DOMAIN,adv.bandi.so,文明
-  - DOMAIN,app-ad.variflight.com,文明
-  - DOMAIN,appnext.hs.llnwd.net,文明
-  - DOMAIN,appnext-a.akamaihd.net,文明
-  - DOMAIN,ggs.myzaker.com,文明
-  - DOMAIN,itad.linetv.tw,文明
-  - DOMAIN,ja.chushou.tv,文明
-  - DOMAIN,mads.suning.com,文明
-  - DOMAIN,mobileads.msn.com,文明
-  - DOMAIN,mopnativeadv.037201.com,文明
-  - DOMAIN,nativeadv.dftoutiao.com,文明
-  - DOMAIN,oset-api.open-adx.com,文明
-  - DOMAIN,sdkauth.hpplay.cn,文明
-  - DOMAIN,sf3-ttcdn-tos.pstatp.com,文明
-  - DOMAIN-SUFFIX,iadsdk.apple.com,文明
-  - DOMAIN-SUFFIX,ads.internal.unity3d.com,文明
-  - DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com,文明
-  - DOMAIN-SUFFIX,unityads.unity3d.com,文明
-  - IP-CIDR,112.29.211.120/32,文明,no-resolve
-  - IP-CIDR,203.119.206.64/32,文明,no-resolve
-  - IP-CIDR,203.119.211.219/32,文明,no-resolve
-  - DOMAIN,amdc.m.taobao.com,文明
-  - DOMAIN,optimus-ads.amap.com,文明
-  - DOMAIN,optimus-ads.amap.com.w.alikunlun.com,文明
-  - DOMAIN,tunion-api.m.taobao.com,文明
-  - DOMAIN,adproxy.autohome.com.cn,文明
-  - DOMAIN,rd.autohome.com.cn,文明
-  - DOMAIN,al.autohome.com.cn,文明
-  - DOMAIN,applogapi.autohome.com.cn,文明
-  - DOMAIN-SUFFIX,cpro.baidu.com,文明
-  - DOMAIN-SUFFIX,pos.baidu.com,文明
-  - DOMAIN,afd.baidu.com,文明
-  - DOMAIN,als.baidu.com,文明
-  - DOMAIN,duclick.baidu.com,文明
-  - DOMAIN,mobads.baidu.com,文明
-  - DOMAIN,mobads-logs.baidu.com,文明
-  - DOMAIN,nsclick.baidu.com,文明
-  - DOMAIN,ad.toutiao.com,文明
-  - DOMAIN,adx.yiche.com,文明
-  - DOMAIN,log.ycapp.yiche.com,文明
-  - DOMAIN,ads.wakamoment.tk,文明
-  - DOMAIN,ad-display.wikawika.xyz,文明
-  - DOMAIN,advertise.baicizhan.com,文明
-  - DOMAIN,advertise.baicizhan.org,文明
-  - DOMAIN,galaxy.bjcathay.com,文明
-  - DOMAIN,mdrecv.app.cntvwb.cn,文明
-  - DOMAIN,sdapprecv.app.cntvwb.cn,文明
-  - DOMAIN,vdapprecv.app.cntvwb.cn,文明
-  - DOMAIN,ad.21cn.com,文明
-  - DOMAIN,ad.k.21cn.com,文明
-  - DOMAIN,admarket.21cn.com,文明
-  - DOMAIN,adshows.21cn.com,文明
-  - DOMAIN,atrace.chelaile.net.cn,文明
-  - DOMAIN,logs.chelaile.net.cn,文明
-  - DOMAIN-SUFFIX,doubleclick.net,文明
-  - DOMAIN-SUFFIX,googleadservices.com,文明
-  - DOMAIN-SUFFIX,googleadsserving.cn,文明
-  - DOMAIN-SUFFIX,googlesyndication.com,文明
-  - DOMAIN-SUFFIX,da.mgtv.com,文明
-  - DOMAIN-SUFFIX,da.hunantv.com,文明
-  - DOMAIN,adx.hupu.com,文明
-  - DOMAIN,adx-api.hupu.com,文明
-  - DOMAIN,goblin.hupu.com,文明
-  - DOMAIN,t7z.cupid.iqiyi.com,文明
-  - IP-CIDR,101.227.97.240/32,文明,no-resolve
-  - IP-CIDR,101.227.200.11/32,文明,no-resolve
-  - IP-CIDR,101.227.200.28/32,文明,no-resolve
-  - IP-CIDR,124.192.153.42/32,文明,no-resolve
-  - DOMAIN-SUFFIX,deliver.ifeng.com,文明
-  - DOMAIN,api.newad.ifeng.com,文明
-  - DOMAIN,ifengad.3g.ifeng.com,文明
-  - DOMAIN,adserviceretry.kugou.com,文明
-  - DOMAIN,ads.service.kugou.com,文明
-  - DOMAIN,adsfile.bssdlbig.kugou.com,文明
-  - DOMAIN,g.koowo.com,文明
-  - DOMAIN,kgmobilestat.kugou.com,文明
-  - DOMAIN,kgmobilestatbak.kugou.com,文明
-  - DOMAIN,mobilelog.kugou.com,文明
-  - DOMAIN,mobilead.kuwo.cn,文明
-  - DOMAIN,rich.kuwo.cn,文明
-  - DOMAIN,ad-stat.ksosoft.com,文明
-  - DOMAIN,img.auction-ads.wpscdn.cn,文明
-  - DOMAIN,counter.kingsoft.com,文明
-  - DOMAIN,counter.ksosoft.com,文明
-  - DOMAIN,minfo.wps.cn,文明
-  - DOMAIN,mobad.ijinshan.com,文明
-  - DOMAIN,ups.ksmobile.net,文明
-  - DOMAIN,ws.ksmobile.net,文明
-  - DOMAIN-SUFFIX,webp2p.letv.com,文明
-  - DOMAIN,ark.letv.com,文明
-  - DOMAIN,emma-414870e223.huodonghezi.com,文明
-  - DOMAIN,g3.letv.com,文明
-  - DOMAIN,n.mark.letv.com,文明
-  - DOMAIN,ad.hpplay.cn,文明
-  - DOMAIN,adcdn.hpplay.cn,文明
-  - DOMAIN,adeng.hpplay.cn,文明
-  - DOMAIN,rp.hpplay.cn,文明
-  - DOMAIN-SUFFIX,ad.intl.xiaomi.com,文明
-  - DOMAIN-SUFFIX,ad.xiaomi.com,文明
-  - DOMAIN-SUFFIX,admob.xiaomi.com,文明
-  - DOMAIN,adv.sec.intl.miui.com,文明
-  - DOMAIN,adv.sec.miui.com,文明
-  - DOMAIN,ad.api.moji.com,文明
-  - DOMAIN,adlaunch.moji.com,文明
-  - DOMAIN,ads.mojicdn.com,文明
-  - DOMAIN,v1.log.moji.com,文明
-  - DOMAIN,ad.bn.netease.com,文明
-  - DOMAIN,ad.yixin.im,文明
-  - DOMAIN,admusicpic.music.126.net,文明
-  - DOMAIN,gorgon.youdao.com,文明
-  - DOMAIN,iadmat.nosdn.127.net,文明
-  - DOMAIN,iadmusicmat.music.126.net,文明
-  - DOMAIN,iadmusicmatvideo.music.126.net,文明
-  - DOMAIN,impservice.dictapp.youdao.com,文明
-  - DOMAIN,impservice.youdao.com,文明
-  - DOMAIN,log.yex.youdao.com,文明
-  - DOMAIN,log-yex.youdao.com,文明
-  - DOMAIN,n.3g.163.com,文明
-  - DOMAIN,nex.163.com,文明
-  - DOMAIN,yt-adp.nosdn.127.net,文明
-  - DOMAIN,yt-adp.ws.126.net,文明
-  - DOMAIN,ads.aplus.pptv.com,文明
-  - DOMAIN,ads.aplusapi.pptv.com,文明
-  - DOMAIN,asimgs.pplive.cn,文明
-  - DOMAIN,de.as.pptv.com,文明
-  - DOMAIN,regist.fotoable.com,文明
-  - DOMAIN,cdn.adapi.fotoable.com,文明
-  - DOMAIN,adnew.wifi8.com,文明
-  - DOMAIN,adfile.wifi8.com,文明
-# (R)
-# > 人人影视字幕组
-  - DOMAIN,tu.cvnad.com,文明
-  - DOMAIN,tj.playcvn.com,文明
-  - DOMAIN-SUFFIX,beacon.sina.com.cn,文明
-  - DOMAIN,adimg.vue.weibo.com,文明
-  - DOMAIN,u1.img.mobile.sina.cn,文明
-  - DOMAIN,sax.sina.com.cn,文明
-  - DOMAIN,saxs.sina.com.cn,文明
-  - DOMAIN,saxn.sina.com.cn,文明
-  - DOMAIN-SUFFIX,ad.sohu.com,文明
-  - DOMAIN-SUFFIX,ads.sohu.com,文明
-  - DOMAIN-SUFFIX,aty.sohu.com,文明
-  - DOMAIN,imp.optaim.com,文明
-  - DOMAIN,v2.reachmax.cn,文明
-  - DOMAIN,track.sohu.com,文明
-  - DOMAIN,hui.sohu.com,文明
-  - DOMAIN-SUFFIX,e.qq.com,文明
-  - DOMAIN-SUFFIX,gdt.qq.com,文明
-  - DOMAIN-SUFFIX,l.qq.com,文明
-  - DOMAIN,adsmind.apdcdn.tc.qq.com,文明
-  - DOMAIN,adsmind.gdtimg.com,文明
-  - DOMAIN,adsmind.tc.qq.com,文明
-  - DOMAIN,pgdt.gtimg.cn,文明
-  - DOMAIN,pgdt.gtimg.com,文明
-  - DOMAIN,pgdt.ugdtimg.com,文明
-  - DOMAIN,splashqqlive.gtimg.com,文明
-  - DOMAIN,wa.gtimg.com,文明
-  - DOMAIN,wxsnsdy.wxs.qq.com,文明
-  - DOMAIN,wxsnsdythumb.wxs.qq.com,文明
-  - DOMAIN,admonitor.thepaper.cn,文明
-  - DOMAIN,adpai.thepaper.cn,文明
-  - DOMAIN,imgadpai.thepaper.cn,文明
-  - DOMAIN,adsp.xunlei.com,文明
-  - DOMAIN,etl.xlmc.sandai.net,文明
-  - DOMAIN,adm.10jqka.com.cn,文明
-  - DOMAIN,stat.10jqka.com.cn,文明
-  - DOMAIN,ad-analysis.pconline.com.cn,文明
-  - DOMAIN,iad0ssl.pcauto.com.cn,文明
-  - DOMAIN,iad0ssl.pconline.com.cn,文明
-  - DOMAIN,imgad0.pcauto.com.cn,文明
-  - DOMAIN,imgad0.pconline.com.cn,文明
-  - DOMAIN,ivy.pchouse.com.cn,文明
-  - DOMAIN,a.wkanx.com,文明
-  - DOMAIN,cwx.lianwangtech.com,文明
-  - DOMAIN,c1wx.lianwangtech.com,文明
-  - DOMAIN,ad.ximalaya.com,文明
-  - DOMAIN,adbs.ximalaya.com,文明
-  - DOMAIN,adse.ximalaya.com,文明
-  - DOMAIN,adse.wsa.ximalaya.com,文明
-  - DOMAIN,adbehavior.wsa.ximalaya.com,文明
-  - DOMAIN,adsebs.ximalaya.com,文明
-  - DOMAIN,ads-img-qc.xhscdn.com,文明
-  - DOMAIN,ads-video-qc.xhscdn.com,文明
-  - DOMAIN,t-ads.xiaohongshu.com,文明
-  - DOMAIN-SUFFIX,atm.youku.com,文明
-  - DOMAIN,ad.mobile.youku.com,文明
-  - DOMAIN,iyes.youku.com,文明
-  - DOMAIN,apppv.zol.com.cn,文明
-  - DOMAIN,pvnapp.zol.com.cn,文明
+# Internet Service Providers Hijacking 运营商劫持
   - DOMAIN-SUFFIX,17gouwuba.com,文明
   - DOMAIN-SUFFIX,186078.com,文明
   - DOMAIN-SUFFIX,189zj.cn,文明
@@ -549,6 +243,7 @@ Rule:
   - IP-CIDR,47.89.59.182/32,文明,no-resolve
   - IP-CIDR,103.49.209.27/32,文明,no-resolve
   - IP-CIDR,123.56.152.96/32,文明,no-resolve
+# > ChinaTelecom
   - IP-CIDR,61.160.200.223/32,文明,no-resolve
   - IP-CIDR,61.160.200.242/32,文明,no-resolve
   - IP-CIDR,61.160.200.252/32,文明,no-resolve
@@ -567,13 +262,17 @@ Rule:
   - IP-CIDR,222.186.61.95/32,文明,no-resolve
   - IP-CIDR,222.186.61.96/32,文明,no-resolve
   - IP-CIDR,222.186.61.97/32,文明,no-resolve
+# > ChinaUnicom
   - IP-CIDR,106.75.231.48/32,文明,no-resolve
   - IP-CIDR,119.4.249.166/32,文明,no-resolve
   - IP-CIDR,220.196.52.141/32,文明,no-resolve
   - IP-CIDR,221.6.4.148/32,文明,no-resolve
+# > ChinaMobile
   - IP-CIDR,114.247.28.96/32,文明,no-resolve
   - IP-CIDR,221.179.131.72/32,文明,no-resolve
   - IP-CIDR,221.179.140.145/32,文明,no-resolve
+# > Dr.Peng
+# IP-CIDR,10.72.25.0/24,no-resolve
   - IP-CIDR,115.182.16.79/32,文明,no-resolve
   - IP-CIDR,118.144.88.126/32,文明,no-resolve
   - IP-CIDR,118.144.88.215/32,文明,no-resolve
@@ -585,11 +284,21 @@ Rule:
   - IP-CIDR,211.161.101.106/32,文明,no-resolve
   - IP-CIDR,220.115.251.25/32,文明,no-resolve
   - IP-CIDR,222.73.156.235/32,文明,no-resolve
+
+# Malware 恶意网站
+# > 快压
+# https://zhuanlan.zhihu.com/p/39534279
   - DOMAIN-SUFFIX,kuaizip.com,文明
+# > MacKeeper
+# https://www.lizhi.io/blog/40002904
   - DOMAIN-SUFFIX,mackeeper.com,文明
   - DOMAIN-SUFFIX,zryydi.com,文明
+# > Adobe Flash China Special Edition
+# https://www.zhihu.com/question/281163698/answer/441388130
   - DOMAIN-SUFFIX,flash.cn,文明
   - DOMAIN,geo2.adobe.com,文明
+# > C&J Marketing 思杰马克丁软件
+# https://www.zhihu.com/question/46746200
   - DOMAIN-SUFFIX,4009997658.com,文明
   - DOMAIN-SUFFIX,abbyychina.com,文明
   - DOMAIN-SUFFIX,bartender.cc,文明
@@ -646,199 +355,627 @@ Rule:
   - DOMAIN-SUFFIX,yuanchengxiezuo.com,文明
   - DOMAIN-SUFFIX,zbrushcn.com,文明
   - DOMAIN-SUFFIX,zhzzx.com,文明
+
+# Advertising 广告
+# > General
+  - DOMAIN-KEYWORD,adservice,文明
+
+  - DOMAIN-SUFFIX,adcolony.com,文明
+  - DOMAIN-SUFFIX,adinall.com,文明
+  - DOMAIN-SUFFIX,admaster.com.cn,文明
+  - DOMAIN-SUFFIX,admob.com,文明
+  - DOMAIN-SUFFIX,adnxs.com,文明
+  - DOMAIN-SUFFIX,adnyg.com,文明
+  - DOMAIN-SUFFIX,adsensor.org,文明
+  - DOMAIN-SUFFIX,adsymptotic.com,文明
+  - DOMAIN-SUFFIX,adthor.com,文明
+  - DOMAIN-SUFFIX,adwhirl.com,文明
+  - DOMAIN-SUFFIX,amazon-adsystem.com,文明
+  - DOMAIN-SUFFIX,amobee.com,文明
+  - DOMAIN-SUFFIX,app-adforce.jp,文明
+  - DOMAIN-SUFFIX,appads.com,文明
+  - DOMAIN-SUFFIX,appcpi.net,文明
+  - DOMAIN-SUFFIX,appier.net,文明
+  - DOMAIN-SUFFIX,applift.com,文明
+  - DOMAIN-SUFFIX,applovin.com,文明
+  - DOMAIN-SUFFIX,applvn.com,文明
+  - DOMAIN-SUFFIX,apsalar.com,文明
+  - DOMAIN-SUFFIX,apxadtracking.net,文明
+  - DOMAIN-SUFFIX,axonix.com,文明
+  - DOMAIN-SUFFIX,bayimob.com,文明
+  - DOMAIN-SUFFIX,bjvvqu.cn,文明
+  - DOMAIN-SUFFIX,bulldogcpi.com,文明
+  - DOMAIN-SUFFIX,clotfun.mobi,文明
+  - DOMAIN-SUFFIX,clotfun.online,文明
+  - DOMAIN-SUFFIX,cloudmobi.net,文明
+  - DOMAIN-SUFFIX,crwdcntrl.net,文明
+  - DOMAIN-SUFFIX,ctrmi.com,文明
+  - DOMAIN-SUFFIX,exosrv.com,文明
+  - DOMAIN-SUFFIX,go2cloud.org,文明
+  - DOMAIN-SUFFIX,growingio.com,文明
+  - DOMAIN-SUFFIX,haloapps.com,文明
+  - DOMAIN-SUFFIX,hypers.com,文明
+  - DOMAIN-SUFFIX,idealads.net,文明
+  - DOMAIN-SUFFIX,inmobi.cn,文明
+  - DOMAIN-SUFFIX,inmobi.com,文明
+  - DOMAIN-SUFFIX,inmobi.net,文明
+  - DOMAIN-SUFFIX,inmobicdn.cn,文明
+  - DOMAIN-SUFFIX,inmobicdn.net,文明
+  - DOMAIN-SUFFIX,inner-active.mobi,文明
+  - DOMAIN-SUFFIX,insurads.com,文明
+  - DOMAIN-SUFFIX,ironsrc.com,文明
+  - DOMAIN-SUFFIX,irs01.com,文明
+  - DOMAIN-SUFFIX,iskyworker.com,文明
+  - DOMAIN-SUFFIX,juicyads.com,文明
+  - DOMAIN-SUFFIX,kochava.com,文明
+  - DOMAIN-SUFFIX,leadboltmobile.net,文明
+  - DOMAIN-SUFFIX,lenzmx.com,文明
+  - DOMAIN-SUFFIX,liveadvert.com,文明
+  - DOMAIN-SUFFIX,lnk0.com,文明
+  - DOMAIN-SUFFIX,lnk8.cn,文明
+  - DOMAIN-SUFFIX,localytics.com,文明
+  - DOMAIN-SUFFIX,mdfull.com,文明
+  - DOMAIN-SUFFIX,measurementapi.com,文明
+  - DOMAIN-SUFFIX,medialytics.com,文明
+  - DOMAIN-SUFFIX,meetrics.com,文明
+  - DOMAIN-SUFFIX,meetrics.net,文明
+  - DOMAIN-SUFFIX,miaozhen.com,文明
+  - DOMAIN-SUFFIX,moatads.com,文明
+  - DOMAIN-SUFFIX,mobclix.com,文明
+  - DOMAIN-SUFFIX,mopub.com,文明
+  - DOMAIN-SUFFIX,okjhb.xyz,文明
+  - DOMAIN-SUFFIX,openx.net,文明
+  - DOMAIN-SUFFIX,outbrain.com,文明
+  - DOMAIN-SUFFIX,pubmatic.com,文明
+  - DOMAIN-SUFFIX,qchannel01.cn,文明
+  - DOMAIN-SUFFIX,rayjump.com,文明
+  - DOMAIN-SUFFIX,rtbasia.com,文明
+  - DOMAIN-SUFFIX,rubiconproject.com,文明
+  - DOMAIN-SUFFIX,scorecardresearch.com,文明
+  - DOMAIN-SUFFIX,sdkclick.com,文明
+  - DOMAIN-SUFFIX,shuzilm.cn,文明
+  - DOMAIN-SUFFIX,smaato.net,文明
+  - DOMAIN-SUFFIX,smartadserver.com,文明
+  - DOMAIN-SUFFIX,smartnews-ads.com,文明
+  - DOMAIN-SUFFIX,supersonic.com,文明
+  - DOMAIN-SUFFIX,supersonicads.com,文明
+  - DOMAIN-SUFFIX,tagtic.cn,文明
+  - DOMAIN-SUFFIX,tanv.com,文明
+  - DOMAIN-SUFFIX,tanx.com,文明
+  - DOMAIN-SUFFIX,tapjoy.com,文明
+  - DOMAIN-SUFFIX,trafficjunky.net,文明
+  - DOMAIN-SUFFIX,turn.com,文明
+  - DOMAIN-SUFFIX,uri6.com,文明
+  - DOMAIN-SUFFIX,vidoomy.com,文明
+  - DOMAIN-SUFFIX,vungle.com,文明
+  - DOMAIN-SUFFIX,wedolook.com,文明
+  - DOMAIN-SUFFIX,xdrig.com,文明
+  - DOMAIN-SUFFIX,yumimobi.com,文明
+  - DOMAIN-SUFFIX,zu08e.cn,文明
+
+  - DOMAIN-SUFFIX,ad.cmvideo.cn,文明
+  - DOMAIN-SUFFIX,ad.daum.net,文明
+  - DOMAIN,abema-adx.ameba.jp,文明
+  - DOMAIN,ad.12306.cn,文明
+  - DOMAIN,ad.360in.com,文明
+  - DOMAIN,ad.51wnl-cq.com,文明
+  - DOMAIN,ad.caiyunapp.com,文明
+  - DOMAIN,ad.huajiao.com,文明
+  - DOMAIN,ad.hzyoka.com,文明
+  - DOMAIN,ad.jiemian.com,文明
+  - DOMAIN,ad.qingting.fm,文明
+  - DOMAIN,ad.wappalyzer.com,文明
+  - DOMAIN,ad-channel.woyeahgo.tk,文明
+  - DOMAIN,ad-cn.jovcloud.com,文明
+  - DOMAIN,adextra.51wnl-cq.com,文明
+  - DOMAIN,api.adnet.mob.com,文明
+  - DOMAIN,ads.adadapted.com,文明
+  - DOMAIN,ads.chinadaily.com.cn,文明
+  - DOMAIN,ads.daydaycook.com.cn,文明
+  - DOMAIN,ads.weilitoutiao.net,文明
+  - DOMAIN,adsapi.manhuaren.com,文明
+  - DOMAIN,adsdk.dmzj.com,文明
+  - DOMAIN,adserver.pandora.com,文明
+  - DOMAIN,adshow.58.com,文明
+  - DOMAIN,adui.tg.meitu.com,文明
+  - DOMAIN,adv.bandi.so,文明
+  - DOMAIN,app-ad.variflight.com,文明
+  - DOMAIN,appnext.hs.llnwd.net,文明
+  - DOMAIN,appnext-a.akamaihd.net,文明
+  - DOMAIN,ggs.myzaker.com,文明
+  - DOMAIN,itad.linetv.tw,文明
+  - DOMAIN,ja.chushou.tv,文明
+  - DOMAIN,mads.suning.com,文明
+  - DOMAIN,mobileads.msn.com,文明
+  - DOMAIN,mopnativeadv.037201.com,文明
+  - DOMAIN,nativeadv.dftoutiao.com,文明
+  - DOMAIN,oset-api.open-adx.com,文明
+  - DOMAIN,sdkauth.hpplay.cn,文明
+  - DOMAIN,sf3-ttcdn-tos.pstatp.com,文明
+
+# (0~9)
+# > 58 同城
+# (A)
+# > Apple
+  - DOMAIN-SUFFIX,iadsdk.apple.com,文明
+  - DOMAIN-SUFFIX,ads.internal.unity3d.com,文明
+  - DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com,文明
+  - DOMAIN-SUFFIX,unityads.unity3d.com,文明
+# > Alibaba
+  - IP-CIDR,112.29.211.120/32,文明,no-resolve
+  - IP-CIDR,203.119.206.64/32,文明,no-resolve
+  - IP-CIDR,203.119.211.219/32,文明,no-resolve
+  - DOMAIN,amdc.m.taobao.com,文明
+  - DOMAIN,optimus-ads.amap.com,文明
+  - DOMAIN,optimus-ads.amap.com.w.alikunlun.com,文明
+  - DOMAIN,tunion-api.m.taobao.com,文明
+# > AutoHome
+  - DOMAIN,adproxy.autohome.com.cn,文明
+  - DOMAIN,rd.autohome.com.cn,文明
+  - DOMAIN,al.autohome.com.cn,文明
+  - DOMAIN,applogapi.autohome.com.cn,文明
+# (B)
+# > Baidu
+  - DOMAIN-SUFFIX,cpro.baidu.com,文明
+  - DOMAIN-SUFFIX,pos.baidu.com,文明
+  - DOMAIN,afd.baidu.com,文明
+  - DOMAIN,als.baidu.com,文明
+  - DOMAIN,duclick.baidu.com,文明
+  - DOMAIN,mobads.baidu.com,文明
+  - DOMAIN,mobads-logs.baidu.com,文明
+  - DOMAIN,nsclick.baidu.com,文明
+# > ByteDance
+  - DOMAIN,ad.toutiao.com,文明
+# > BitAuto
+  - DOMAIN,adx.yiche.com,文明
+  - DOMAIN,log.ycapp.yiche.com,文明
+# > bika
+  - DOMAIN,ads.wakamoment.tk,文明
+  - DOMAIN,ad-display.wikawika.xyz,文明
+# > 百词斩
+  - DOMAIN,advertise.baicizhan.com,文明
+  - DOMAIN,advertise.baicizhan.org,文明
+# (C)
+# > CNTV
+  - DOMAIN,galaxy.bjcathay.com,文明
+  - DOMAIN,mdrecv.app.cntvwb.cn,文明
+  - DOMAIN,sdapprecv.app.cntvwb.cn,文明
+  - DOMAIN,vdapprecv.app.cntvwb.cn,文明
+# > ChinaTelecom
+  - DOMAIN,ad.21cn.com,文明
+  - DOMAIN,ad.k.21cn.com,文明
+  - DOMAIN,admarket.21cn.com,文明
+  - DOMAIN,adshows.21cn.com,文明
+# > 车来了
+  - DOMAIN,atrace.chelaile.net.cn,文明
+  - DOMAIN,logs.chelaile.net.cn,文明
+# (G)
+# > Google
+  - DOMAIN-SUFFIX,doubleclick.net,文明
+  - DOMAIN-SUFFIX,googleadservices.com,文明
+  - DOMAIN-SUFFIX,googleadsserving.cn,文明
+  - DOMAIN-SUFFIX,googlesyndication.com,文明
+# (H)
+# > HunanTV
+  - DOMAIN-SUFFIX,da.mgtv.com,文明
+  - DOMAIN-SUFFIX,da.hunantv.com,文明
+# > Hupu
+  - DOMAIN,adx.hupu.com,文明
+  - DOMAIN,adx-api.hupu.com,文明
+  - DOMAIN,goblin.hupu.com,文明
+# (I)
+# > iQiyi
+  - DOMAIN,t7z.cupid.iqiyi.com,文明
+  - IP-CIDR,101.227.97.240/32,文明,no-resolve
+  - IP-CIDR,101.227.200.11/32,文明,no-resolve
+  - IP-CIDR,101.227.200.28/32,文明,no-resolve
+  - IP-CIDR,124.192.153.42/32,文明,no-resolve
+# > Ifeng
+  - DOMAIN-SUFFIX,deliver.ifeng.com,文明
+  - DOMAIN,api.newad.ifeng.com,文明
+  - DOMAIN,ifengad.3g.ifeng.com,文明
+# (K)
+# > KuGou and Kuwo
+  - DOMAIN,adserviceretry.kugou.com,文明
+  - DOMAIN,ads.service.kugou.com,文明
+  - DOMAIN,adsfile.bssdlbig.kugou.com,文明
+  - DOMAIN,g.koowo.com,文明
+  - DOMAIN,kgmobilestat.kugou.com,文明
+  - DOMAIN,kgmobilestatbak.kugou.com,文明
+  - DOMAIN,mobilelog.kugou.com,文明
+  - DOMAIN,mobilead.kuwo.cn,文明
+  - DOMAIN,rich.kuwo.cn,文明
+# > Kingsoft
+  - DOMAIN,ad-stat.ksosoft.com,文明
+  - DOMAIN,img.auction-ads.wpscdn.cn,文明
+  - DOMAIN,counter.kingsoft.com,文明
+  - DOMAIN,counter.ksosoft.com,文明
+  - DOMAIN,minfo.wps.cn,文明
+  - DOMAIN,mobad.ijinshan.com,文明
+  - DOMAIN,ups.ksmobile.net,文明
+  - DOMAIN,ws.ksmobile.net,文明
+# (L)
+# > Le
+  - DOMAIN-SUFFIX,webp2p.letv.com,文明
+  - DOMAIN,ark.letv.com,文明
+  - DOMAIN,emma-414870e223.huodonghezi.com,文明
+  - DOMAIN,g3.letv.com,文明
+  - DOMAIN,n.mark.letv.com,文明
+# > 乐播投屏
+  - DOMAIN,ad.hpplay.cn,文明
+  - DOMAIN,adcdn.hpplay.cn,文明
+  - DOMAIN,adeng.hpplay.cn,文明
+  - DOMAIN,rp.hpplay.cn,文明
+# (M)
+# > MI
+  - DOMAIN-SUFFIX,ad.intl.xiaomi.com,文明
+  - DOMAIN-SUFFIX,ad.xiaomi.com,文明
+  - DOMAIN-SUFFIX,admob.xiaomi.com,文明
+  - DOMAIN,adv.sec.intl.miui.com,文明
+  - DOMAIN,adv.sec.miui.com,文明
+# > 墨迹天气
+  - DOMAIN,ad.api.moji.com,文明
+  - DOMAIN,adlaunch.moji.com,文明
+  - DOMAIN,ads.mojicdn.com,文明
+  - DOMAIN,v1.log.moji.com,文明
+# (N)
+# > NetEase
+  - DOMAIN,ad.bn.netease.com,文明
+  - DOMAIN,ad.yixin.im,文明
+  - DOMAIN,admusicpic.music.126.net,文明
+  - DOMAIN,gorgon.youdao.com,文明
+  - DOMAIN,iadmat.nosdn.127.net,文明
+  - DOMAIN,iadmusicmat.music.126.net,文明
+  - DOMAIN,iadmusicmatvideo.music.126.net,文明
+  - DOMAIN,impservice.dictapp.youdao.com,文明
+  - DOMAIN,impservice.youdao.com,文明
+  - DOMAIN,log.yex.youdao.com,文明
+  - DOMAIN,log-yex.youdao.com,文明
+  - DOMAIN,n.3g.163.com,文明
+  - DOMAIN,nex.163.com,文明
+  - DOMAIN,yt-adp.nosdn.127.net,文明
+  - DOMAIN,yt-adp.ws.126.net,文明
+# (P)
+# > PPTV
+  - DOMAIN,ads.aplus.pptv.com,文明
+  - DOMAIN,ads.aplusapi.pptv.com,文明
+  - DOMAIN,asimgs.pplive.cn,文明
+  - DOMAIN,de.as.pptv.com,文明
+# > Photoable
+  - DOMAIN,regist.fotoable.com,文明
+  - DOMAIN,cdn.adapi.fotoable.com,文明
+# > PeanutWiFiMpass
+  - DOMAIN,adnew.wifi8.com,文明
+  - DOMAIN,adfile.wifi8.com,文明
+# (R)
+# > 人人影视字幕组
+  - DOMAIN,tu.cvnad.com,文明
+  - DOMAIN,tj.playcvn.com,文明
+# (S)
+# > Sina
+  - DOMAIN-SUFFIX,beacon.sina.com.cn,文明
+  - DOMAIN,adimg.vue.weibo.com,文明
+  - DOMAIN,u1.img.mobile.sina.cn,文明
+  - DOMAIN,sax.sina.com.cn,文明
+  - DOMAIN,saxs.sina.com.cn,文明
+  - DOMAIN,saxn.sina.com.cn,文明
+# > Sohu
+  - DOMAIN-SUFFIX,ad.sohu.com,文明
+  - DOMAIN-SUFFIX,ads.sohu.com,文明
+  - DOMAIN-SUFFIX,aty.sohu.com,文明
+  - DOMAIN,imp.optaim.com,文明
+  - DOMAIN,v2.reachmax.cn,文明
+  - DOMAIN,track.sohu.com,文明
+  - DOMAIN,hui.sohu.com,文明
+# (T)
+# > Tencent
+  - DOMAIN-SUFFIX,e.qq.com,文明
+  - DOMAIN-SUFFIX,gdt.qq.com,文明
+  - DOMAIN-SUFFIX,l.qq.com,文明
+  - DOMAIN,adsmind.apdcdn.tc.qq.com,文明
+  - DOMAIN,adsmind.gdtimg.com,文明
+  - DOMAIN,adsmind.tc.qq.com,文明
+  - DOMAIN,pgdt.gtimg.cn,文明
+  - DOMAIN,pgdt.gtimg.com,文明
+  - DOMAIN,pgdt.ugdtimg.com,文明
+  - DOMAIN,splashqqlive.gtimg.com,文明
+  - DOMAIN,wa.gtimg.com,文明
+  - DOMAIN,wxsnsdy.wxs.qq.com,文明
+  - DOMAIN,wxsnsdythumb.wxs.qq.com,文明
+# > The Paper
+  - DOMAIN,admonitor.thepaper.cn,文明
+  - DOMAIN,adpai.thepaper.cn,文明
+  - DOMAIN,imgadpai.thepaper.cn,文明
+# > Thunder
+  - DOMAIN,adsp.xunlei.com,文明
+  - DOMAIN,etl.xlmc.sandai.net,文明
+# > 同花顺
+  - DOMAIN,adm.10jqka.com.cn,文明
+  - DOMAIN,stat.10jqka.com.cn,文明
+# > 太平洋
+  - DOMAIN,ad-analysis.pconline.com.cn,文明
+  - DOMAIN,iad0ssl.pcauto.com.cn,文明
+  - DOMAIN,iad0ssl.pconline.com.cn,文明
+  - DOMAIN,imgad0.pcauto.com.cn,文明
+  - DOMAIN,imgad0.pconline.com.cn,文明
+  - DOMAIN,ivy.pchouse.com.cn,文明
+# (W)
+# > WiFi 万能钥匙
+  - DOMAIN,a.wkanx.com,文明
+  - DOMAIN,cwx.lianwangtech.com,文明
+  - DOMAIN,c1wx.lianwangtech.com,文明
+# (X)
+# > 喜马拉雅
+  - DOMAIN,ad.ximalaya.com,文明
+  - DOMAIN,adbs.ximalaya.com,文明
+  - DOMAIN,adse.ximalaya.com,文明
+  - DOMAIN,adse.wsa.ximalaya.com,文明
+  - DOMAIN,adbehavior.wsa.ximalaya.com,文明
+  - DOMAIN,adsebs.ximalaya.com,文明
+# > 小红书
+  - DOMAIN,ads-img-qc.xhscdn.com,文明
+  - DOMAIN,ads-video-qc.xhscdn.com,文明
+  - DOMAIN,t-ads.xiaohongshu.com,文明
+# (Y)
+# > Youku
+  - DOMAIN-SUFFIX,atm.youku.com,文明
+  - DOMAIN,ad.mobile.youku.com,文明
+  - DOMAIN,iyes.youku.com,文明
+# (Z)
+# > ZOL
+  - DOMAIN,apppv.zol.com.cn,文明
+  - DOMAIN,pvnapp.zol.com.cn,文明
+
 # AsianMedia.list
-  - DOMAIN-KEYWORD,bilibili,和谐
-  - DOMAIN-SUFFIX,acg.tv,和谐
-  - DOMAIN-SUFFIX,acgvideo.com,和谐
-  - DOMAIN-SUFFIX,b23.tv,和谐
-  - DOMAIN-SUFFIX,biliapi.com,和谐
-  - DOMAIN-SUFFIX,biliapi.net,和谐
-  - DOMAIN-SUFFIX,bilibili.com,和谐
-  - DOMAIN-SUFFIX,biligame.com,和谐
-  - DOMAIN-SUFFIX,biligame.net,和谐
-  - DOMAIN-SUFFIX,bilivideo.com,和谐
-  - DOMAIN-SUFFIX,hdslb.com,和谐
-  - DOMAIN-SUFFIX,im9.com,和谐
-  - DOMAIN,upos-hz-mirrorakam.akamaized.net,和谐
-  - DOMAIN-KEYWORD,qiyi,和谐
-  - DOMAIN-SUFFIX,qy.net,和谐
-  - IP-CIDR,101.227.0.0/16,和谐,no-resolve
-  - IP-CIDR,101.224.0.0/13,和谐,no-resolve
-  - IP-CIDR,119.176.0.0/12,和谐,no-resolve
-  - DOMAIN-SUFFIX,api.mob.app.letv.com,和谐
-  - DOMAIN-SUFFIX,vv.video.qq.com,和谐
-  - IP-CIDR,106.11.0.0/16,和谐,no-resolve
+# > Bilibili
+  - DOMAIN-KEYWORD,bilibili,民主
+  - DOMAIN-SUFFIX,acg.tv,民主
+  - DOMAIN-SUFFIX,acgvideo.com,民主
+  - DOMAIN-SUFFIX,b23.tv,民主
+  - DOMAIN-SUFFIX,biliapi.com,民主
+  - DOMAIN-SUFFIX,biliapi.net,民主
+  - DOMAIN-SUFFIX,bilibili.com,民主
+  - DOMAIN-SUFFIX,biligame.com,民主
+  - DOMAIN-SUFFIX,biligame.net,民主
+  - DOMAIN-SUFFIX,bilivideo.com,民主
+  - DOMAIN-SUFFIX,hdslb.com,民主
+  - DOMAIN-SUFFIX,im9.com,民主
+  - DOMAIN,upos-hz-mirrorakam.akamaized.net,民主
+# > IQIYI
+  - DOMAIN-KEYWORD,qiyi,民主
+  - DOMAIN-SUFFIX,qy.net,民主
+  - IP-CIDR,101.227.0.0/16,民主,no-resolve
+  - IP-CIDR,101.224.0.0/13,民主,no-resolve
+  - IP-CIDR,119.176.0.0/12,民主,no-resolve
+# > letv
+  - DOMAIN-SUFFIX,api.mob.app.letv.com,民主
+# > Tencent Video
+  - DOMAIN-SUFFIX,vv.video.qq.com,民主
+# > Youku
+  - IP-CIDR,106.11.0.0/16,民主,no-resolve
+
 # GlobalMedia.list
-  - DOMAIN-SUFFIX,deezer.com,自由
-  - DOMAIN-SUFFIX,dzcdn.net,自由
-  - DOMAIN-SUFFIX,kkbox.com,自由
-  - DOMAIN-SUFFIX,kkbox.com.tw,自由
-  - DOMAIN-SUFFIX,kfs.io,自由
-  - DOMAIN-SUFFIX,joox.com,自由
-  - DOMAIN-SUFFIX,pandora.com,自由
-  - DOMAIN-SUFFIX,p-cdn.us,自由
-  - DOMAIN-SUFFIX,sndcdn.com,自由
-  - DOMAIN-SUFFIX,soundcloud.com,自由
-  - DOMAIN-SUFFIX,pscdn.co,自由
-  - DOMAIN-SUFFIX,scdn.co,自由
-  - DOMAIN-SUFFIX,spotify.com,自由
-  - DOMAIN-SUFFIX,spoti.fi,自由
-  - DOMAIN-KEYWORD,spotify.com,自由
-  - DOMAIN-KEYWORD,-spotify-com,自由
-  - DOMAIN-SUFFIX,tidal.com,自由
-  - DOMAIN-SUFFIX,c4assets.com,自由
-  - DOMAIN-SUFFIX,channel4.com,自由
-  - DOMAIN-SUFFIX,abema.io,自由
-  - DOMAIN-SUFFIX,ameba.jp,自由
-  - DOMAIN-SUFFIX,abema.tv,自由
-  - DOMAIN-SUFFIX,hayabusa.io,自由
-  - DOMAIN,abematv.akamaized.net,自由
-  - DOMAIN,ds-linear-abematv.akamaized.net,自由
-  - DOMAIN,ds-vod-abematv.akamaized.net,自由
-  - DOMAIN,linear-abematv.akamaized.net,自由
-  - DOMAIN-SUFFIX,aiv-cdn.net,自由
-  - DOMAIN-SUFFIX,aiv-delivery.net,自由
-  - DOMAIN-SUFFIX,amazonvideo.com,自由
-  - DOMAIN-SUFFIX,primevideo.com,自由
-  - DOMAIN,avodmp4s3ww-a.akamaihd.net,自由
-  - DOMAIN,d25xi40x97liuc.cloudfront.net,自由
-  - DOMAIN,dmqdd6hw24ucf.cloudfront.net,自由
-  - DOMAIN,d22qjgkvxw22r6.cloudfront.net,自由
-  - DOMAIN,d1v5ir2lpwr8os.cloudfront.net,自由
-  - DOMAIN-KEYWORD,avoddashs,自由
-  - DOMAIN-SUFFIX,bahamut.com.tw,自由
-  - DOMAIN-SUFFIX,gamer.com.tw,自由
-  - DOMAIN,gamer-cds.cdn.hinet.net,自由
-  - DOMAIN,gamer2-cds.cdn.hinet.net,自由
-  - DOMAIN-SUFFIX,bbc.co.uk,自由
-  - DOMAIN-SUFFIX,bbci.co.uk,自由
-  - DOMAIN-KEYWORD,bbcfmt,自由
-  - DOMAIN-KEYWORD,uk-live,自由
-  - DOMAIN-SUFFIX,dazn.com,自由
-  - DOMAIN-SUFFIX,dazn-api.com,自由
-  - DOMAIN,d151l6v8er5bdm.cloudfront.net,自由
-  - DOMAIN-KEYWORD,voddazn,自由
-  - DOMAIN-SUFFIX,bamgrid.com,自由
-  - DOMAIN-SUFFIX,disney-plus.net,自由
-  - DOMAIN-SUFFIX,disneyplus.com,自由
-  - DOMAIN-SUFFIX,dssott.com,自由
-  - DOMAIN,cdn.registerdisney.go.com,自由
-  - DOMAIN-SUFFIX,encoretvb.com,自由
-  - DOMAIN,edge.api.brightcove.com,自由
-  - DOMAIN,bcbolt446c5271-a.akamaihd.net,自由
-  - DOMAIN-SUFFIX,fox.com,自由
-  - DOMAIN-SUFFIX,foxdcg.com,自由
-  - DOMAIN-SUFFIX,theplatform.com,自由
-  - DOMAIN-SUFFIX,uplynk.com,自由
-  - DOMAIN-SUFFIX,hbo.com,自由
-  - DOMAIN-SUFFIX,hbogo.com,自由
-  - DOMAIN-SUFFIX,hbonow.com,自由
-  - DOMAIN-SUFFIX,hbogoasia.com,自由
-  - DOMAIN-SUFFIX,hbogoasia.hk,自由
-  - DOMAIN,bcbolthboa-a.akamaihd.net,自由
-  - DOMAIN,players.brightcove.net,自由
-  - DOMAIN,s3-ap-southeast-1.amazonaws.com,自由
-  - DOMAIN,dai3fd1oh325y.cloudfront.net,自由
-  - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,自由
-  - DOMAIN,hboasia1-i.akamaihd.net,自由
-  - DOMAIN,hboasia2-i.akamaihd.net,自由
-  - DOMAIN,hboasia3-i.akamaihd.net,自由
-  - DOMAIN,hboasia4-i.akamaihd.net,自由
-  - DOMAIN,hboasia5-i.akamaihd.net,自由
-  - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,自由
-  - DOMAIN-SUFFIX,5itv.tv,自由
-  - DOMAIN-SUFFIX,ocnttv.com,自由
-  - DOMAIN-SUFFIX,hulu.com,自由
-  - DOMAIN-SUFFIX,huluim.com,自由
-  - DOMAIN-SUFFIX,hulustream.com,自由
-  - DOMAIN-SUFFIX,happyon.jp,自由
-  - DOMAIN-SUFFIX,hulu.jp,自由
-  - DOMAIN-SUFFIX,itv.com,自由
-  - DOMAIN-SUFFIX,itvstatic.com,自由
-  - DOMAIN,itvpnpmobile-a.akamaihd.net,自由
-  - DOMAIN-SUFFIX,kktv.com.tw,自由
-  - DOMAIN-SUFFIX,kktv.me,自由
-  - DOMAIN,kktv-theater.kk.stream,自由
-  - DOMAIN-SUFFIX,linetv.tw,自由
-  - DOMAIN,d3c7rimkq79yfu.cloudfront.net,自由
-  - DOMAIN-SUFFIX,litv.tv,自由
-  - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,自由
-  - DOMAIN-SUFFIX,channel5.com,自由
-  - DOMAIN-SUFFIX,my5.tv,自由
-  - DOMAIN,d349g9zuie06uo.cloudfront.net,自由
-  - DOMAIN-SUFFIX,mytvsuper.com,自由
-  - DOMAIN-SUFFIX,tvb.com,自由
-  - DOMAIN-SUFFIX,netflix.com,自由
-  - DOMAIN-SUFFIX,netflix.net,自由
-  - DOMAIN-SUFFIX,nflxext.com,自由
-  - DOMAIN-SUFFIX,nflximg.com,自由
-  - DOMAIN-SUFFIX,nflximg.net,自由
-  - DOMAIN-SUFFIX,nflxso.net,自由
-  - DOMAIN-SUFFIX,nflxvideo.net,自由
-  - DOMAIN-SUFFIX,netflixdnstest0.com,自由
-  - DOMAIN-SUFFIX,netflixdnstest1.com,自由
-  - DOMAIN-SUFFIX,netflixdnstest2.com,自由
-  - DOMAIN-SUFFIX,netflixdnstest3.com,自由
-  - DOMAIN-SUFFIX,netflixdnstest4.com,自由
-  - DOMAIN-SUFFIX,netflixdnstest5.com,自由
-  - DOMAIN-SUFFIX,netflixdnstest6.com,自由
-  - DOMAIN-SUFFIX,netflixdnstest7.com,自由
-  - DOMAIN-SUFFIX,netflixdnstest8.com,自由
-  - DOMAIN-SUFFIX,netflixdnstest9.com,自由
-  - IP-CIDR,23.246.0.0/18,自由,no-resolve
-  - IP-CIDR,37.77.184.0/21,自由,no-resolve
-  - IP-CIDR,45.57.0.0/17,自由,no-resolve
-  - IP-CIDR,64.120.128.0/17,自由,no-resolve
-  - IP-CIDR,66.197.128.0/17,自由,no-resolve
-  - IP-CIDR,108.175.32.0/20,自由,no-resolve
-  - IP-CIDR,192.173.64.0/18,自由,no-resolve
-  - IP-CIDR,198.38.96.0/19,自由,no-resolve
-  - IP-CIDR,198.45.48.0/20,自由,no-resolve
-  - DOMAIN-SUFFIX,dmc.nico,自由
-  - DOMAIN-SUFFIX,nicovideo.jp,自由
-  - DOMAIN-SUFFIX,nimg.jp,自由
-  - DOMAIN-SUFFIX,socdm.com,自由
-  - DOMAIN-SUFFIX,pbs.org,自由
-  - DOMAIN-SUFFIX,phncdn.com,自由
-  - DOMAIN-SUFFIX,pornhub.com,自由
-  - DOMAIN-SUFFIX,pornhubpremium.com,自由
-  - DOMAIN-SUFFIX,skyking.com.tw,自由
-  - DOMAIN,hamifans.emome.net,自由
-  - DOMAIN-SUFFIX,twitch.tv,自由
-  - DOMAIN-SUFFIX,twitchcdn.net,自由
-  - DOMAIN-SUFFIX,ttvnw.net,自由
-  - DOMAIN-SUFFIX,jtvnw.net,自由
-  - DOMAIN-SUFFIX,viu.com,自由
-  - DOMAIN-SUFFIX,viu.tv,自由
-  - DOMAIN,api.viu.now.com,自由
-  - DOMAIN,d1k2us671qcoau.cloudfront.net,自由
-  - DOMAIN,d2anahhhmp1ffz.cloudfront.net,自由
-  - DOMAIN,dfp6rglgjqszk.cloudfront.net,自由
-  - DOMAIN-SUFFIX,googlevideo.com,自由
-  - DOMAIN-SUFFIX,youtube.com,自由
-  - DOMAIN,youtubei.googleapis.com,自由
-# Apple.list
-  - DOMAIN-SUFFIX,aaplimg.com,平等
-  - DOMAIN-SUFFIX,apple.co,平等
-  - DOMAIN-SUFFIX,apple.com,平等
-  - DOMAIN-SUFFIX,apple-cloudkit.com,平等
-  - DOMAIN-SUFFIX,appstore.com,平等
-  - DOMAIN-SUFFIX,cdn-apple.com,平等
-  - DOMAIN-SUFFIX,crashlytics.com,平等
-  - DOMAIN-SUFFIX,icloud.com,平等
-  - DOMAIN-SUFFIX,icloud-content.com,平等
-  - DOMAIN-SUFFIX,me.com,平等
-  - DOMAIN-SUFFIX,mzstatic.com,平等
-  - DOMAIN,www-cdn.icloud.com.akadns.net,平等
-# Speedtest.list
-  - DOMAIN-SUFFIX,fast.com,公正
-  - DOMAIN-KEYWORD,speedtest,公正
-  - DOMAIN-SUFFIX,ooklaserver.net,公正
+# (Music)
+# > Deezer
+  - DOMAIN-SUFFIX,deezer.com,富强
+  - DOMAIN-SUFFIX,dzcdn.net,富强
+# > KKBOX
+  - DOMAIN-SUFFIX,kkbox.com,富强
+  - DOMAIN-SUFFIX,kkbox.com.tw,富强
+  - DOMAIN-SUFFIX,kfs.io,富强
+# > JOOX
+  - DOMAIN-SUFFIX,joox.com,富强
+# > Pandora
+  - DOMAIN-SUFFIX,pandora.com,富强
+# > SoundCloud
+  - DOMAIN-SUFFIX,p-cdn.us,富强
+  - DOMAIN-SUFFIX,sndcdn.com,富强
+  - DOMAIN-SUFFIX,soundcloud.com,富强
+# > Spotify
+  - DOMAIN-SUFFIX,pscdn.co,富强
+  - DOMAIN-SUFFIX,scdn.co,富强
+  - DOMAIN-SUFFIX,spotify.com,富强
+  - DOMAIN-SUFFIX,spoti.fi,富强
+  - DOMAIN-KEYWORD,spotify.com,富强
+  - DOMAIN-KEYWORD,-spotify-com,富强
+# > TIDAL
+  - DOMAIN-SUFFIX,tidal.com,富强
+# > YouTubeMusic
+# (Video)
+# > All4
+  - DOMAIN-SUFFIX,c4assets.com,富强
+  - DOMAIN-SUFFIX,channel4.com,富强
+# > AbemaTV
+  - DOMAIN-SUFFIX,abema.io,富强
+  - DOMAIN-SUFFIX,ameba.jp,富强
+  - DOMAIN-SUFFIX,abema.tv,富强
+  - DOMAIN-SUFFIX,hayabusa.io,富强
+  - DOMAIN,abematv.akamaized.net,富强
+  - DOMAIN,ds-linear-abematv.akamaized.net,富强
+  - DOMAIN,ds-vod-abematv.akamaized.net,富强
+  - DOMAIN,linear-abematv.akamaized.net,富强
+# > Amazon Prime Video
+  - DOMAIN-SUFFIX,aiv-cdn.net,富强
+  - DOMAIN-SUFFIX,aiv-delivery.net,富强
+  - DOMAIN-SUFFIX,amazonvideo.com,富强
+  - DOMAIN-SUFFIX,primevideo.com,富强
+  - DOMAIN,avodmp4s3ww-a.akamaihd.net,富强
+  - DOMAIN,d25xi40x97liuc.cloudfront.net,富强
+  - DOMAIN,dmqdd6hw24ucf.cloudfront.net,富强
+  - DOMAIN,d22qjgkvxw22r6.cloudfront.net,富强
+  - DOMAIN,d1v5ir2lpwr8os.cloudfront.net,富强
+  - DOMAIN-KEYWORD,avoddashs,富强
+# > Bahamut
+  - DOMAIN-SUFFIX,bahamut.com.tw,富强
+  - DOMAIN-SUFFIX,gamer.com.tw,富强
+  - DOMAIN,gamer-cds.cdn.hinet.net,富强
+  - DOMAIN,gamer2-cds.cdn.hinet.net,富强
+# > BBC iPlayer
+  - DOMAIN-SUFFIX,bbc.co.uk,富强
+  - DOMAIN-SUFFIX,bbci.co.uk,富强
+  - DOMAIN-KEYWORD,bbcfmt,富强
+  - DOMAIN-KEYWORD,uk-live,富强
+# > DAZN
+  - DOMAIN-SUFFIX,dazn.com,富强
+  - DOMAIN-SUFFIX,dazn-api.com,富强
+  - DOMAIN,d151l6v8er5bdm.cloudfront.net,富强
+  - DOMAIN-KEYWORD,voddazn,富强
+# > Disney+
+  - DOMAIN-SUFFIX,bamgrid.com,富强
+  - DOMAIN-SUFFIX,disney-plus.net,富强
+  - DOMAIN-SUFFIX,disneyplus.com,富强
+  - DOMAIN-SUFFIX,dssott.com,富强
+  - DOMAIN,cdn.registerdisney.go.com,富强
+# > encoreTVB
+  - DOMAIN-SUFFIX,encoretvb.com,富强
+  - DOMAIN,edge.api.brightcove.com,富强
+  - DOMAIN,bcbolt446c5271-a.akamaihd.net,富强
+# > FOX NOW
+  - DOMAIN-SUFFIX,fox.com,富强
+  - DOMAIN-SUFFIX,foxdcg.com,富强
+  - DOMAIN-SUFFIX,theplatform.com,富强
+  - DOMAIN-SUFFIX,uplynk.com,富强
+# > HBO NOW
+  - DOMAIN-SUFFIX,hbo.com,富强
+  - DOMAIN-SUFFIX,hbogo.com,富强
+  - DOMAIN-SUFFIX,hbonow.com,富强
+# > HBO GO HKG
+  - DOMAIN-SUFFIX,hbogoasia.com,富强
+  - DOMAIN-SUFFIX,hbogoasia.hk,富强
+  - DOMAIN,bcbolthboa-a.akamaihd.net,富强
+  - DOMAIN,players.brightcove.net,富强
+  - DOMAIN,s3-ap-southeast-1.amazonaws.com,富强
+  - DOMAIN,dai3fd1oh325y.cloudfront.net,富强
+  - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,富强
+  - DOMAIN,hboasia1-i.akamaihd.net,富强
+  - DOMAIN,hboasia2-i.akamaihd.net,富强
+  - DOMAIN,hboasia3-i.akamaihd.net,富强
+  - DOMAIN,hboasia4-i.akamaihd.net,富强
+  - DOMAIN,hboasia5-i.akamaihd.net,富强
+  - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,富强
+# > 华文电视
+  - DOMAIN-SUFFIX,5itv.tv,富强
+  - DOMAIN-SUFFIX,ocnttv.com,富强
+# > Hulu
+  - DOMAIN-SUFFIX,hulu.com,富强
+  - DOMAIN-SUFFIX,huluim.com,富强
+  - DOMAIN-SUFFIX,hulustream.com,富强
+# > Hulu(フールー)
+  - DOMAIN-SUFFIX,happyon.jp,富强
+  - DOMAIN-SUFFIX,hulu.jp,富强
+# > ITV
+  - DOMAIN-SUFFIX,itv.com,富强
+  - DOMAIN-SUFFIX,itvstatic.com,富强
+  - DOMAIN,itvpnpmobile-a.akamaihd.net,富强
+# > KKTV
+  - DOMAIN-SUFFIX,kktv.com.tw,富强
+  - DOMAIN-SUFFIX,kktv.me,富强
+  - DOMAIN,kktv-theater.kk.stream,富强
+# > Line TV
+  - DOMAIN-SUFFIX,linetv.tw,富强
+  - DOMAIN,d3c7rimkq79yfu.cloudfront.net,富强
+# > LiTV
+  - DOMAIN-SUFFIX,litv.tv,富强
+  - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,富强
+# > My5
+  - DOMAIN-SUFFIX,channel5.com,富强
+  - DOMAIN-SUFFIX,my5.tv,富强
+  - DOMAIN,d349g9zuie06uo.cloudfront.net,富强
+# > myTV SUPER
+  - DOMAIN-SUFFIX,mytvsuper.com,富强
+  - DOMAIN-SUFFIX,tvb.com,富强
+# > Netflix
+  - DOMAIN-SUFFIX,netflix.com,富强
+  - DOMAIN-SUFFIX,netflix.net,富强
+  - DOMAIN-SUFFIX,nflxext.com,富强
+  - DOMAIN-SUFFIX,nflximg.com,富强
+  - DOMAIN-SUFFIX,nflximg.net,富强
+  - DOMAIN-SUFFIX,nflxso.net,富强
+  - DOMAIN-SUFFIX,nflxvideo.net,富强
+  - DOMAIN-SUFFIX,netflixdnstest0.com,富强
+  - DOMAIN-SUFFIX,netflixdnstest1.com,富强
+  - DOMAIN-SUFFIX,netflixdnstest2.com,富强
+  - DOMAIN-SUFFIX,netflixdnstest3.com,富强
+  - DOMAIN-SUFFIX,netflixdnstest4.com,富强
+  - DOMAIN-SUFFIX,netflixdnstest5.com,富强
+  - DOMAIN-SUFFIX,netflixdnstest6.com,富强
+  - DOMAIN-SUFFIX,netflixdnstest7.com,富强
+  - DOMAIN-SUFFIX,netflixdnstest8.com,富强
+  - DOMAIN-SUFFIX,netflixdnstest9.com,富强
+  - IP-CIDR,23.246.0.0/18,富强,no-resolve
+  - IP-CIDR,37.77.184.0/21,富强,no-resolve
+  - IP-CIDR,45.57.0.0/17,富强,no-resolve
+  - IP-CIDR,64.120.128.0/17,富强,no-resolve
+  - IP-CIDR,66.197.128.0/17,富强,no-resolve
+  - IP-CIDR,108.175.32.0/20,富强,no-resolve
+  - IP-CIDR,192.173.64.0/18,富强,no-resolve
+  - IP-CIDR,198.38.96.0/19,富强,no-resolve
+  - IP-CIDR,198.45.48.0/20,富强,no-resolve
+# > niconico
+  - DOMAIN-SUFFIX,dmc.nico,富强
+  - DOMAIN-SUFFIX,nicovideo.jp,富强
+  - DOMAIN-SUFFIX,nimg.jp,富强
+  - DOMAIN-SUFFIX,socdm.com,富强
+# > PBS
+  - DOMAIN-SUFFIX,pbs.org,富强
+# > Pornhub
+  - DOMAIN-SUFFIX,phncdn.com,富强
+  - DOMAIN-SUFFIX,pornhub.com,富强
+  - DOMAIN-SUFFIX,pornhubpremium.com,富强
+# > 台湾好
+  - DOMAIN-SUFFIX,skyking.com.tw,富强
+  - DOMAIN,hamifans.emome.net,富强
+# > Twitch
+  - DOMAIN-SUFFIX,twitch.tv,富强
+  - DOMAIN-SUFFIX,twitchcdn.net,富强
+  - DOMAIN-SUFFIX,ttvnw.net,富强
+  - DOMAIN-SUFFIX,jtvnw.net,富强
+# > ViuTV
+  - DOMAIN-SUFFIX,viu.com,富强
+  - DOMAIN-SUFFIX,viu.tv,富强
+  - DOMAIN,api.viu.now.com,富强
+  - DOMAIN,d1k2us671qcoau.cloudfront.net,富强
+  - DOMAIN,d2anahhhmp1ffz.cloudfront.net,富强
+  - DOMAIN,dfp6rglgjqszk.cloudfront.net,富强
+# > YouTube
+  - DOMAIN-SUFFIX,googlevideo.com,富强
+  - DOMAIN-SUFFIX,youtube.com,富强
+  - DOMAIN,youtubei.googleapis.com,富强
+
+# > Apple.list
+  - DOMAIN-SUFFIX,aaplimg.com,民主
+  - DOMAIN-SUFFIX,apple.co,民主
+  - DOMAIN-SUFFIX,apple.com,民主
+  - DOMAIN-SUFFIX,apple-cloudkit.com,民主
+  - DOMAIN-SUFFIX,appstore.com,民主
+  - DOMAIN-SUFFIX,cdn-apple.com,民主
+  - DOMAIN-SUFFIX,crashlytics.com,民主
+  - DOMAIN-SUFFIX,icloud.com,民主
+  - DOMAIN-SUFFIX,icloud-content.com,民主
+  - DOMAIN-SUFFIX,me.com,民主
+  - DOMAIN-SUFFIX,mzstatic.com,民主
+  - DOMAIN,www-cdn.icloud.com.akadns.net,民主
+
+# > Speedtest.list
+# > Fast
+  - DOMAIN-SUFFIX,fast.com,民主
+# > Speedtest
+  - DOMAIN-KEYWORD,speedtest,民主
+  - DOMAIN-SUFFIX,ooklaserver.net,民主
+
 # Domestic.list
+# China Area Network
+# > 360
   - DOMAIN-SUFFIX,qhres.com,民主
   - DOMAIN-SUFFIX,qhimg.com,民主
+# > Akamai
   - DOMAIN-SUFFIX,akadns.net,民主
+# DOMAIN-SUFFIX,akamai.net
+# DOMAIN-SUFFIX,akamaiedge.net
+# DOMAIN-SUFFIX,akamaihd.net
+# DOMAIN-SUFFIX,akamaistream.net
   - DOMAIN-SUFFIX,akamaized.net,民主
+# > Alibaba
   - DOMAIN-SUFFIX,alibaba.com,民主
   - DOMAIN-SUFFIX,alicdn.com,民主
   - DOMAIN-SUFFIX,alikunlun.com,民主
@@ -855,6 +992,7 @@ Rule:
   - DOMAIN-SUFFIX,youku.com,民主
   - DOMAIN-SUFFIX,xiami.com,民主
   - DOMAIN-SUFFIX,xiami.net,民主
+# > Apple
   - DOMAIN-SUFFIX,aaplimg.com,民主
   - DOMAIN-SUFFIX,apple.co,民主
   - DOMAIN-SUFFIX,apple.com,民主
@@ -867,31 +1005,39 @@ Rule:
   - DOMAIN-SUFFIX,me.com,民主
   - DOMAIN-SUFFIX,mzstatic.com,民主
   - DOMAIN,www-cdn.icloud.com.akadns.net,民主
+# > Baidu
   - DOMAIN-SUFFIX,baidu.com,民主
   - DOMAIN-SUFFIX,baidubcr.com,民主
   - DOMAIN-SUFFIX,bdstatic.com,民主
   - DOMAIN-SUFFIX,yunjiasu-cdn.net,民主
+# > bilibili
   - DOMAIN-SUFFIX,acgvideo.com,民主
   - DOMAIN-SUFFIX,biliapi.com,民主
   - DOMAIN-SUFFIX,biliapi.net,民主
   - DOMAIN-SUFFIX,bilibili.com,民主
   - DOMAIN-SUFFIX,bilibili.tv,民主
   - DOMAIN-SUFFIX,hdslb.com,民主
+# > Blizzard
   - DOMAIN-SUFFIX,blizzard.com,民主
   - DOMAIN-SUFFIX,battle.net,民主
   - DOMAIN,blzddist1-a.akamaihd.net,民主
+# > ByteDance
   - DOMAIN-SUFFIX,feiliao.com,民主
   - DOMAIN-SUFFIX,pstatp.com,民主
   - DOMAIN-SUFFIX,snssdk.com,民主
   - DOMAIN-SUFFIX,iesdouyin.com,民主
   - DOMAIN-SUFFIX,toutiao.com,民主
+# > CCTV
   - DOMAIN-SUFFIX,cctv.com,民主
   - DOMAIN-SUFFIX,cctvpic.com,民主
   - DOMAIN-SUFFIX,livechina.com,民主
+# > ChinaNet
   - DOMAIN-SUFFIX,21cn.com,民主
+# > DiDi
   - DOMAIN-SUFFIX,didialift.com,民主
   - DOMAIN-SUFFIX,didiglobal.com,民主
   - DOMAIN-SUFFIX,udache.com,民主
+# > 蛋蛋赞
   - DOMAIN-SUFFIX,343480.com,民主
   - DOMAIN-SUFFIX,baduziyuan.com,民主
   - DOMAIN-SUFFIX,com-hs-hkdy.com,民主
@@ -899,26 +1045,33 @@ Rule:
   - DOMAIN-SUFFIX,dandanzan.com,民主
   - DOMAIN-SUFFIX,fjhps.com,民主
   - DOMAIN-SUFFIX,kuyunbo.club,民主
+# > HunanTV
   - DOMAIN-SUFFIX,hitv.com,民主
   - DOMAIN-SUFFIX,mgtv.com,民主
+# > iQiyi
   - DOMAIN-SUFFIX,iqiyi.com,民主
   - DOMAIN-SUFFIX,iqiyipic.com,民主
   - DOMAIN-SUFFIX,71.am.com,民主
+# > JD
   - DOMAIN-SUFFIX,jd.com,民主
   - DOMAIN-SUFFIX,jd.hk,民主
   - DOMAIN-SUFFIX,jdpay.com,民主
   - DOMAIN-SUFFIX,360buyimg.com,民主
+# > Kingsoft
   - DOMAIN-SUFFIX,iciba.com,民主
   - DOMAIN-SUFFIX,ksosoft.com,民主
+# > Meitu
   - DOMAIN-SUFFIX,meitu.com,民主
   - DOMAIN-SUFFIX,meitudata.com,民主
   - DOMAIN-SUFFIX,meitustat.com,民主
   - DOMAIN-SUFFIX,meipai.com,民主
+# > MI
   - DOMAIN-SUFFIX,duokan.com,民主
   - DOMAIN-SUFFIX,mi-img.com,民主
   - DOMAIN-SUFFIX,miui.com,民主
   - DOMAIN-SUFFIX,miwifi.com,民主
   - DOMAIN-SUFFIX,xiaomi.com,民主
+# > Microsoft
   - DOMAIN-SUFFIX,microsoft.com,民主
   - DOMAIN-SUFFIX,msecnd.net,民主
   - DOMAIN-SUFFIX,office365.com,民主
@@ -928,6 +1081,7 @@ Rule:
   - DOMAIN-SUFFIX,windows.com,民主
   - DOMAIN-SUFFIX,windowsupdate.com,民主
   - DOMAIN,officecdn-microsoft-com.akamaized.net,民主
+# > NetEase
   - DOMAIN-SUFFIX,163.com,民主
   - DOMAIN-SUFFIX,126.net,民主
   - DOMAIN-SUFFIX,127.net,民主
@@ -935,16 +1089,20 @@ Rule:
   - DOMAIN-SUFFIX,lofter.com,民主
   - DOMAIN-SUFFIX,netease.com,民主
   - DOMAIN-SUFFIX,ydstatic.com,民主
+# > Sina
   - DOMAIN-SUFFIX,sina.com,民主
   - DOMAIN-SUFFIX,weibo.com,民主
   - DOMAIN-SUFFIX,weibocdn.com,民主
+# > Sohu
   - DOMAIN-SUFFIX,sohu.com,民主
   - DOMAIN-SUFFIX,sohucs.com,民主
   - DOMAIN-SUFFIX,sohu-inc.com,民主
   - DOMAIN-SUFFIX,v-56.com,民主
+# > Sogo
   - DOMAIN-SUFFIX,sogo.com,民主
   - DOMAIN-SUFFIX,sogou.com,民主
   - DOMAIN-SUFFIX,sogoucdn.com,民主
+# > Steam
   - DOMAIN-SUFFIX,steampowered.com,民主
   - DOMAIN-SUFFIX,steam-chat.com,民主
   - DOMAIN-SUFFIX,steamgames.com,民主
@@ -953,6 +1111,7 @@ Rule:
   - DOMAIN-SUFFIX,steamstatic.com,民主
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,民主
   - DOMAIN-SUFFIX,steamstat.us,民主
+# > Tencent
   - DOMAIN-SUFFIX,gtimg.com,民主
   - DOMAIN-SUFFIX,idqqimg.com,民主
   - DOMAIN-SUFFIX,igamecj.com,民主
@@ -964,6 +1123,7 @@ Rule:
   - DOMAIN-SUFFIX,tencent-cloud.net,民主
   - DOMAIN-SUFFIX,tenpay.com,民主
   - DOMAIN,file-igamecj.akamaized.net,民主
+# > YYeTs
   - DOMAIN-SUFFIX,jstucdn.com,民主
   - DOMAIN-SUFFIX,zimuzu.io,民主
   - DOMAIN-SUFFIX,zimuzu.tv,民主
@@ -971,6 +1131,7 @@ Rule:
   - DOMAIN-SUFFIX,zmzapi.com,民主
   - DOMAIN-SUFFIX,zmzapi.net,民主
   - DOMAIN-SUFFIX,zmzfile.com,民主
+# > Content Delivery Network
   - DOMAIN-SUFFIX,ccgslb.com,民主
   - DOMAIN-SUFFIX,ccgslb.net,民主
   - DOMAIN-SUFFIX,chinanetcenter.com,民主
@@ -978,14 +1139,18 @@ Rule:
   - DOMAIN-SUFFIX,ourdvs.com,民主
   - DOMAIN-SUFFIX,staticdn.net,民主
   - DOMAIN-SUFFIX,wangsu.com,民主
+# > IP Query
   - DOMAIN-SUFFIX,ipip.net,民主
   - DOMAIN-SUFFIX,ip.la,民主
   - DOMAIN-SUFFIX,ip-cdn.com,民主
   - DOMAIN-SUFFIX,ipv6-test.com,民主
   - DOMAIN-SUFFIX,test-ipv6.com,民主
   - DOMAIN-SUFFIX,whatismyip.com,民主
+# > Speed Test
+# DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,netspeedtestmaster.com,民主
   - DOMAIN,speedtest.macpaw.com,民主
+# > Private Tracker
   - DOMAIN-SUFFIX,awesome-hd.me,民主
   - DOMAIN-SUFFIX,broadcasthe.net,民主
   - DOMAIN-SUFFIX,chdbits.co,民主
@@ -1009,6 +1174,7 @@ Rule:
   - DOMAIN-SUFFIX,springsunday.net,民主
   - DOMAIN-SUFFIX,tjupt.org,民主
   - DOMAIN-SUFFIX,totheglory.im,民主
+# > Scholar
   - DOMAIN-SUFFIX,acm.org,民主
   - DOMAIN-SUFFIX,acs.org,民主
   - DOMAIN-SUFFIX,aip.org,民主
@@ -1065,6 +1231,7 @@ Rule:
   - DOMAIN-SUFFIX,wiley.com,民主
   - DOMAIN-SUFFIX,worldbank.org,民主
   - DOMAIN-SUFFIX,worldscientific.com,民主
+# > Other
   - DOMAIN-SUFFIX,cn,民主
   - DOMAIN-SUFFIX,17jita.com,民主
   - DOMAIN-SUFFIX,360in.com,民主
@@ -1178,6 +1345,8 @@ Rule:
   - DOMAIN-SUFFIX,zhuihd.com,民主
   - DOMAIN,download.jetbrains.com,民主
   - DOMAIN,images-cn.ssl-images-amazon.com,民主
+
+# > LAN
   - DOMAIN,localhost,民主
   - IP-CIDR,0.0.0.0/8,民主,no-resolve
   - IP-CIDR,10.0.0.0/8,民主,no-resolve
@@ -1195,7 +1364,10 @@ Rule:
   - IP-CIDR,224.0.0.0/4,民主,no-resolve
   - IP-CIDR,240.0.0.0/4,民主,no-resolve
   - IP-CIDR,255.255.255.255/32,民主,no-resolve
+
 # Global.list
+# (DNS Cache Pollution Protection)
+# > Google
   - DOMAIN-SUFFIX,ampproject.org,富强
   - DOMAIN-SUFFIX,appspot.com,富强
   - DOMAIN-SUFFIX,blogger.com,富强
@@ -1206,8 +1378,10 @@ Rule:
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,富强
   - DOMAIN-KEYWORD,google,富强
   - DOMAIN-KEYWORD,blogspot,富强
+# > Microsoft
   - DOMAIN-SUFFIX,onedrive.live.com,富强
   - DOMAIN-SUFFIX,xboxlive.com,富强
+# > Facebook
   - DOMAIN-SUFFIX,cdninstagram.com,富强
   - DOMAIN-SUFFIX,fb.com,富强
   - DOMAIN-SUFFIX,fb.me,富强
@@ -1233,6 +1407,7 @@ Rule:
   - IP-CIDR,54.173.34.141/32,富强,no-resolve
   - IP-CIDR,54.235.23.242/32,富强,no-resolve
   - IP-CIDR,169.45.248.118/32,富强,no-resolve
+# > Twitter
   - DOMAIN-SUFFIX,pscp.tv,富强
   - DOMAIN-SUFFIX,periscope.tv,富强
   - DOMAIN-SUFFIX,t.co,富强
@@ -1241,6 +1416,7 @@ Rule:
   - DOMAIN-SUFFIX,twitpic.com,富强
   - DOMAIN-SUFFIX,vine.co,富强
   - DOMAIN-KEYWORD,twitter,富强
+# > Telegram
   - DOMAIN-SUFFIX,t.me,富强
   - DOMAIN-SUFFIX,tdesktop.com,富强
   - DOMAIN-SUFFIX,telegra.ph,富强
@@ -1252,6 +1428,8 @@ Rule:
   - IP-CIDR,91.108.16.0/22,富强,no-resolve
   - IP-CIDR,91.108.56.0/22,富强,no-resolve
   - IP-CIDR,149.154.160.0/20,富强,no-resolve
+ - IP-CIDR6,2001:67c:4e8::/48,富强,no-resolve
+# > Line
   - DOMAIN-SUFFIX,line.me,富强
   - DOMAIN-SUFFIX,line-apps.com,富强
   - DOMAIN-SUFFIX,line-scdn.net,富强
@@ -1260,6 +1438,7 @@ Rule:
   - IP-CIDR,125.209.208.0/20,富强,no-resolve
   - IP-CIDR,147.92.128.0/17,富强,no-resolve
   - IP-CIDR,203.104.144.0/21,富强,no-resolve
+# > Other
   - DOMAIN-SUFFIX,4shared.com,富强
   - DOMAIN-SUFFIX,520cc.cc,富强
   - DOMAIN-SUFFIX,881903.com,富强
@@ -1569,6 +1748,8 @@ Rule:
   - DOMAIN-KEYWORD,pinterest,富强
   - DOMAIN-KEYWORD,porn,富强
   - DOMAIN-KEYWORD,wikileaks,富强
+
+# (Region-Restricted Access Denied)
   - DOMAIN-SUFFIX,apartmentratings.com,富强
   - DOMAIN-SUFFIX,apartments.com,富强
   - DOMAIN-SUFFIX,bankmobilevibe.com,富强
@@ -1616,14 +1797,25 @@ Rule:
   - DOMAIN-SUFFIX,vsco.co,富强
   - DOMAIN-SUFFIX,xfinity.com,富强
   - DOMAIN-SUFFIX,zattoo.com,富强
+
+# (The Most Popular Sites)
+# > Apple
+# >> TestFlight
   - DOMAIN,testflight.apple.com,富强
+# >> Apple URL Shortener
   - DOMAIN-SUFFIX,appsto.re,富强
+# >> iBooks Store download
   - DOMAIN,books.itunes.apple.com,富强
+# >> iTunes Store Moveis Trailers
   - DOMAIN,hls.itunes.apple.com,富强
+# >> App Store Preview
   - DOMAIN,apps.apple.com,富强
   - DOMAIN,itunes.apple.com,富强
+# >> Spotlight
   - DOMAIN,api-glb-sea.smoot.apple.com,富强
+# >> Dictionary
   - DOMAIN,lookup-api.apple.com,富强
+# > Google
   - DOMAIN-SUFFIX,abc.xyz,富强
   - DOMAIN-SUFFIX,android.com,富强
   - DOMAIN-SUFFIX,androidify.com,富强
@@ -1669,6 +1861,8 @@ Rule:
   - DOMAIN-SUFFIX,youtu.be,富强
   - DOMAIN-SUFFIX,yt.be,富强
   - DOMAIN-SUFFIX,ytimg.com,富强
+# > Microsoft
+# >> Microsoft OneDrive
   - DOMAIN-SUFFIX,1drv.com,富强
   - DOMAIN-SUFFIX,1drv.ms,富强
   - DOMAIN-SUFFIX,blob.core.windows.net,富强
@@ -1677,6 +1871,7 @@ Rule:
   - DOMAIN-SUFFIX,storage.live.com,富强
   - DOMAIN-SUFFIX,storage.msn.com,富强
   - DOMAIN,oneclient.sfx.ms,富强
+# > Other
   - DOMAIN-SUFFIX,0rz.tw,富强
   - DOMAIN-SUFFIX,4bluestones.biz,富强
   - DOMAIN-SUFFIX,9bis.net,富强
@@ -1737,6 +1932,7 @@ Rule:
   - DOMAIN-SUFFIX,yimg.com,富强
   - DOMAIN,api.steampowered.com,富强
   - DOMAIN,store.steampowered.com,富强
+
 
   - GEOIP,CN,民主
   - MATCH,富强

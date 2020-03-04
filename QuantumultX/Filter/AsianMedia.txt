@@ -14,7 +14,6 @@ host-suffix, bilivideo.com, 和谐
 host-suffix, hdslb.com, 和谐
 host-suffix, im9.com, 和谐
 host, upos-hz-mirrorakam.akamaized.net, 和谐
-
 # > IQIYI
 user-agent, QIYI*, 和谐
 user-agent, iQiYi*, 和谐
@@ -23,16 +22,12 @@ host-suffix, qy.net, 和谐
 ip-cidr, 101.227.0.0/16, 和谐
 ip-cidr, 101.224.0.0/13, 和谐
 ip-cidr, 119.176.0.0/12, 和谐
-
 # > letv
 host-suffix, api.mob.app.letv.com, 和谐
-
 # > MOO
 user-agent, MOO*, 和谐
 user-agent, TencentMidasConnect*, 和谐
-
 # > Tencent Video
 host-suffix, vv.video.qq.com, 和谐
-
 # > Youku
 ip-cidr, 106.11.0.0/16, 和谐
