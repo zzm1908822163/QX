@@ -166,7 +166,6 @@ host-suffix, tenpay.com, 民主
 host, file-igamecj.akamaized.net, 民主
 # > YYeTs
 user-agent, YYeTs*, 民主
-host-suffix, jstucdn.com, 民主
 host-suffix, zimuzu.io, 民主
 host-suffix, zimuzu.tv, 民主
 host-suffix, zmz2019.com, 民主
