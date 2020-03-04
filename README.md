@@ -49,7 +49,7 @@ Surge4 | [iOS](https://github.com/eHpo1/Rules/blob/master/Surge4/Main.conf) | [�
 >需打开MITM功能，然后安装并信任证书
 
 * Clash
-    * 暂时只能通过iOS [快捷指令](https://www.icloud.com/shortcuts/4d40ed6458e5466e812c1d116e54bbb6) 转换托管链接（支持筛选名称关键字）如果您有更好办法请联系我。
+    * 暂时只能通过iOS [快捷指令](https://www.icloud.com/shortcuts/c9ac70515c4c4947838a34f5279142a0) 转换托管链接（支持筛选名称关键字）如果您有更好办法请联系我。
 * Loon
     * 将规则文本`[Remote Proxy]`中的`https://www.example.com/example.txt`替换为您的订阅链接（两处）。
 * QuantumultX
