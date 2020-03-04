@@ -3,8 +3,8 @@ No Ad Rule
 </h1>
 <p align="center">
 <sup>
-     Design for<i> Clash / Loon / QuantumultX / Shadowrocket / Surge  </i>.
-     <br> Maintained by <b>eHpo</b>.
+     Design for<i> Clash / Loon / QuantumultX / Shadowrocket / Surge  </i>
+     <br> Maintained by <b>eHpo</b>
 </sup>
 <br>
 </p>
