@@ -1640,15 +1640,13 @@ Rule:
   - DOMAIN-SUFFIX,miwifi.com,民主
   - DOMAIN-SUFFIX,xiaomi.com,民主
 # > Microsoft
-  - DOMAIN-SUFFIX,microsoft.com,民主
-  - DOMAIN-SUFFIX,msecnd.net,民主
-  - DOMAIN-SUFFIX,office365.com,民主
+  - DOMAIN-SUFFIX,azure.cn,民主
+  - DOMAIN-SUFFIX,hotmail.com,民主
+  - DOMAIN-SUFFIX,msn.com,民主
   - DOMAIN-SUFFIX,outlook.com,民主
-  - DOMAIN-SUFFIX,s-microsoft.com,民主
-  - DOMAIN-SUFFIX,visualstudio.com,民主
   - DOMAIN-SUFFIX,windows.com,民主
+  - DOMAIN-SUFFIX,windows.net,民主
   - DOMAIN-SUFFIX,windowsupdate.com,民主
-  - DOMAIN,officecdn-microsoft-com.akamaized.net,民主
 # > NetEase
   - DOMAIN-SUFFIX,163.com,民主
   - DOMAIN-SUFFIX,126.net,民主

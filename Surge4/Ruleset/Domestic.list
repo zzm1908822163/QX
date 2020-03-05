@@ -108,15 +108,13 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,xiaomi.com
 # > Microsoft
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,msecnd.net
-DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,azure.cn
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,s-microsoft.com
-DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,windowsupdate.com
-DOMAIN,officecdn-microsoft-com.akamaized.net
 # > NetEase
 USER-AGENT,NeteaseMusic*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
