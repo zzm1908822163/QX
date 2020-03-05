@@ -17,6 +17,7 @@ dns:
     - 1.2.4.8
     - 119.29.29.29
     - 101.101.101.101
+    - 223.5.5.5
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
