@@ -384,6 +384,7 @@ host-suffix, zhimg.com, 民主
 host-suffix, zhuihd.com, 民主
 host, download.jetbrains.com, 民主
 host, images-cn.ssl-images-amazon.com, 民主
+host, safebrowsing.googleapis.com, 民主
 
 # > LAN
 host, localhost, 民主

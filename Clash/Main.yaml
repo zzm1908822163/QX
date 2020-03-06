@@ -1910,6 +1910,7 @@ Rule:
   - DOMAIN-SUFFIX,zhuihd.com,民主
   - DOMAIN,download.jetbrains.com,民主
   - DOMAIN,images-cn.ssl-images-amazon.com,民主
+  - DOMAIN,safebrowsing.googleapis.com,民主
 
 # > LAN
   - DOMAIN,localhost,民主

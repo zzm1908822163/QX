@@ -384,6 +384,7 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhuihd.com
 DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
+DOMAIN,safebrowsing.googleapis.com
 
 # > LAN
 DOMAIN,localhost
