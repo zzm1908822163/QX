@@ -1613,6 +1613,11 @@ Rule:
   - DOMAIN-SUFFIX,dandanzan.com,民主
   - DOMAIN-SUFFIX,fjhps.com,民主
   - DOMAIN-SUFFIX,kuyunbo.club,民主
+# > Google
+  - DOMAIN-SUFFIX,googletraveladservices.com,民主
+  - DOMAIN,dl.google.com,民主
+  - DOMAIN,mtalk.google.com,民主
+  - DOMAIN,safebrowsing.googleapis.com,民主
 # > HunanTV
   - DOMAIN-SUFFIX,hitv.com,民主
   - DOMAIN-SUFFIX,mgtv.com,民主
@@ -1689,6 +1694,9 @@ Rule:
   - DOMAIN-SUFFIX,tencent-cloud.net,民主
   - DOMAIN-SUFFIX,tenpay.com,民主
   - DOMAIN,file-igamecj.akamaized.net,民主
+# > Umeng
+  - DOMAIN,msg.umeng.com,民主
+  - DOMAIN,msg.umengcloud.com,民主
 # > YYeTs
   - DOMAIN-SUFFIX,zimuzu.io,民主
   - DOMAIN-SUFFIX,zimuzu.tv,民主
@@ -1908,9 +1916,9 @@ Rule:
   - DOMAIN-SUFFIX,zhihu.com,民主
   - DOMAIN-SUFFIX,zhimg.com,民主
   - DOMAIN-SUFFIX,zhuihd.com,民主
+  - DOMAIN,analytics.strava.com,民主
   - DOMAIN,download.jetbrains.com,民主
   - DOMAIN,images-cn.ssl-images-amazon.com,民主
-  - DOMAIN,safebrowsing.googleapis.com,民主
 
 # > LAN
   - DOMAIN,localhost,民主

@@ -506,6 +506,9 @@ hostname = *.amemv.com, *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-off
 ^https?:\/\/api\.catch\.gift\/api\/v\d\/pagead\/ url reject-200
 # > 萤石云视频
 ^https?:\/\/i\.ys7\.com\/api\/ads url reject-200
+# > 阅达教育
+^https?:\/\/www\.hxeduonline\.com\/mobileapi2\/index\.php\?act=index&op=interdict url reject-200
+^https?:\/\/www\.hxeduonline\.com\/mobileapi2\/index\.php\?act=index&op=advert url reject-200
 # > 运动世界
 ^https?:\/\/.+\.iydsj\.com\/api\/.+\/ad url reject-200
 # > 一点万象

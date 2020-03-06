@@ -436,6 +436,9 @@ URL-REGEX,^https?:\/\/m\.yap\.yahoo\.com\/v\d{2}\/getAds\.do
 URL-REGEX,^https?:\/\/api\.catch\.gift\/api\/v\d\/pagead\/
 # > 萤石云视频
 URL-REGEX,^https?:\/\/i\.ys7\.com\/api\/ads
+# > 阅达教育
+URL-REGEX,^https?:\/\/www\.hxeduonline\.com\/mobileapi2\/index\.php\?act=index&op=interdict
+URL-REGEX,^https?:\/\/www\.hxeduonline\.com\/mobileapi2\/index\.php\?act=index&op=advert
 # > 运动世界
 URL-REGEX,^https?:\/\/.+\.iydsj\.com\/api\/.+\/ad
 # > 一点万象
