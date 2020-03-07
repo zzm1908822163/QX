@@ -489,8 +489,8 @@ hostname = *.amemv.com, *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-off
 # > 小猿搜题
 ^https?:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d url reject-200
 # > 雪球
-^https?:\/\/101\.201\.175\.228\/ads\/display url reject-200
-^https?:\/\/(101\.201\.175\.228|182\.92\.251\.113)\/promotion\/(feed_)?display url reject-200
+^https?:\/\/api\.xueqiu\.com\/ads\/display url reject-200
+^https?:\/\/api\.xueqiu\.com\/promotion\/(feed_)?display url reject-200
 # > 迅游加速器
 ^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/configs\/(splash_ad|ad_urls) url reject-200
 ^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/ads\/ url reject-200
