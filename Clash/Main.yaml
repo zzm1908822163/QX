@@ -1238,7 +1238,6 @@ Rule:
   - DOMAIN-SUFFIX,worldbank.org,民主
   - DOMAIN-SUFFIX,worldscientific.com,民主
 # > Other
-  - DOMAIN-SUFFIX,cn,民主
   - DOMAIN-SUFFIX,17jita.com,民主
   - DOMAIN-SUFFIX,360in.com,民主
   - DOMAIN-SUFFIX,51ym.me,民主
@@ -1352,25 +1351,6 @@ Rule:
   - DOMAIN,analytics.strava.com,民主
   - DOMAIN,download.jetbrains.com,民主
   - DOMAIN,images-cn.ssl-images-amazon.com,民主
-
-# > LAN
-  - DOMAIN,localhost,民主
-  - IP-CIDR,0.0.0.0/8,民主,no-resolve
-  - IP-CIDR,10.0.0.0/8,民主,no-resolve
-  - IP-CIDR,100.64.0.0/10,民主,no-resolve
-  - IP-CIDR,127.0.0.0/8,民主,no-resolve
-  - IP-CIDR,169.254.0.0/16,民主,no-resolve
-  - IP-CIDR,172.16.0.0/12,民主,no-resolve
-  - IP-CIDR,192.0.0.0/24,民主,no-resolve
-  - IP-CIDR,192.0.2.0/24,民主,no-resolve
-  - IP-CIDR,192.168.0.0/16,民主,no-resolve
-  - IP-CIDR,192.88.99.0/24,民主,no-resolve
-  - IP-CIDR,198.18.0.0/15,民主,no-resolve
-  - IP-CIDR,198.51.100.0/24,民主,no-resolve
-  - IP-CIDR,203.0.113.0/24,民主,no-resolve
-  - IP-CIDR,224.0.0.0/4,民主,no-resolve
-  - IP-CIDR,240.0.0.0/4,民主,no-resolve
-  - IP-CIDR,255.255.255.255/32,民主,no-resolve
 
 # Global.list
 # (DNS Cache Pollution Protection)
@@ -1938,6 +1918,28 @@ Rule:
   - DOMAIN-SUFFIX,yimg.com,富强
   - DOMAIN,api.steampowered.com,富强
   - DOMAIN,store.steampowered.com,富强
-
+  
+# Region.list
+  - DOMAIN-SUFFIX,cn,民主
+  - DOMAIN-SUFFIX,xn--fiqs8s,民主
   - GEOIP,CN,民主
+# > LAN
+  - DOMAIN,localhost,民主
+  - IP-CIDR,0.0.0.0/8,民主
+  - IP-CIDR,10.0.0.0/8,民主
+  - IP-CIDR,100.64.0.0/10,民主
+  - IP-CIDR,127.0.0.0/8,民主
+  - IP-CIDR,169.254.0.0/16,民主
+  - IP-CIDR,172.16.0.0/12,民主
+  - IP-CIDR,192.0.0.0/24,民主
+  - IP-CIDR,192.0.2.0/24,民主
+  - IP-CIDR,192.168.0.0/16,民主
+  - IP-CIDR,192.88.99.0/24,民主
+  - IP-CIDR,198.18.0.0/15,民主
+  - IP-CIDR,198.51.100.0/24,民主
+  - IP-CIDR,203.0.113.0/24,民主
+  - IP-CIDR,224.0.0.0/4,民主
+  - IP-CIDR,240.0.0.0/4,民主
+  - IP-CIDR,255.255.255.255/32,民主
+
   - MATCH,富强

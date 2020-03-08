@@ -1,0 +1,22 @@
+# Region.list
+host-suffix, cn, 民主
+host-suffix, xn--fiqs8s, 民主
+geoip, cn, 民主
+# > LAN
+host, localhost, 民主
+ip-cidr, 0.0.0.0/8, 民主
+ip-cidr, 10.0.0.0/8, 民主
+ip-cidr, 100.64.0.0/10, 民主
+ip-cidr, 127.0.0.0/8, 民主
+ip-cidr, 169.254.0.0/16, 民主
+ip-cidr, 172.16.0.0/12, 民主
+ip-cidr, 192.0.0.0/24, 民主
+ip-cidr, 192.0.2.0/24, 民主
+ip-cidr, 192.168.0.0/16, 民主
+ip-cidr, 192.88.99.0/24, 民主
+ip-cidr, 198.18.0.0/15, 民主
+ip-cidr, 198.51.100.0/24, 民主
+ip-cidr, 203.0.113.0/24, 民主
+ip-cidr, 224.0.0.0/4, 民主
+ip-cidr, 240.0.0.0/4, 民主
+ip-cidr, 255.255.255.255/32, 民主

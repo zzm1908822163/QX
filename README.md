@@ -84,6 +84,8 @@ Surge4 | [iOS](https://github.com/eHpo1/Rules/blob/master/Surge4/Main.conf) | [�
     * 亚洲媒体 / 国际媒体
 * Domestic.list / Global.list
     * 国内 / 国际常用网页
+* Region.list
+	* LAN / GeoIP,CN
 * /Sub
     * 分站细化规则
 
