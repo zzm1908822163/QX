@@ -157,18 +157,14 @@ ip-cidr, 222.73.156.235/32, 文明
 
 # Malware 恶意网站
 # > 快压
-# https://zhuanlan.zhihu.com/p/39534279
 host-suffix, kuaizip.com, 文明
 # > MacKeeper
-# https://www.lizhi.io/blog/40002904
 host-suffix, mackeeper.com, 文明
 host-suffix, zryydi.com, 文明
 # > Adobe Flash China Special Edition
-# https://www.zhihu.com/question/281163698/answer/441388130
 host-suffix, flash.cn, 文明
 host, geo2.adobe.com, 文明
 # > C&J Marketing 思杰马克丁软件
-# https://www.zhihu.com/question/46746200
 host-suffix, 4009997658.com, 文明
 host-suffix, abbyychina.com, 文明
 host-suffix, bartender.cc, 文明
@@ -227,9 +223,8 @@ host-suffix, zbrushcn.com, 文明
 host-suffix, zhzzx.com, 文明
 
 # Advertising 广告
-# > General
+# > Alliance
 host-keyword, adservice, 文明
-
 host-suffix, adcolony.com, 文明
 host-suffix, adinall.com, 文明
 host-suffix, admaster.com.cn, 文明
@@ -591,6 +586,8 @@ host, t-ads.xiaohongshu.com, 文明
 host-suffix, atm.youku.com, 文明
 host, ad.mobile.youku.com, 文明
 host, iyes.youku.com, 文明
+# > YouTube++
+host, ehg-youtube.hitbox.com,文明
 # (Z)
 # > ZOL
 host, apppv.zol.com.cn, 文明

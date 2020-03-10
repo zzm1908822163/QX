@@ -157,18 +157,14 @@ IP-CIDR,222.73.156.235/32,no-resolve
 
 # Malware 恶意网站
 # > 快压
-# https://zhuanlan.zhihu.com/p/39534279
 DOMAIN-SUFFIX,kuaizip.com
 # > MacKeeper
-# https://www.lizhi.io/blog/40002904
 DOMAIN-SUFFIX,mackeeper.com
 DOMAIN-SUFFIX,zryydi.com
 # > Adobe Flash China Special Edition
-# https://www.zhihu.com/question/281163698/answer/441388130
 DOMAIN-SUFFIX,flash.cn
 DOMAIN,geo2.adobe.com
 # > C&J Marketing 思杰马克丁软件
-# https://www.zhihu.com/question/46746200
 DOMAIN-SUFFIX,4009997658.com
 DOMAIN-SUFFIX,abbyychina.com
 DOMAIN-SUFFIX,bartender.cc
@@ -227,9 +223,8 @@ DOMAIN-SUFFIX,zbrushcn.com
 DOMAIN-SUFFIX,zhzzx.com
 
 # Advertising 广告
-# > General
+# > Alliance
 DOMAIN-KEYWORD,adservice
-
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adinall.com
 DOMAIN-SUFFIX,admaster.com.cn
@@ -591,6 +586,8 @@ DOMAIN,t-ads.xiaohongshu.com
 DOMAIN-SUFFIX,atm.youku.com
 DOMAIN,ad.mobile.youku.com
 DOMAIN,iyes.youku.com
+# > YouTube++
+DOMAIN,ehg-youtube.hitbox.com
 # (Z)
 # > ZOL
 DOMAIN,apppv.zol.com.cn
