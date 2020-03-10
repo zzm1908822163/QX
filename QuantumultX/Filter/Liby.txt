@@ -244,6 +244,7 @@ host-suffix, appier.net, 文明
 host-suffix, applift.com, 文明
 host-suffix, applovin.com, 文明
 host-suffix, applvn.com, 文明
+host-suffix, appsflyer.com, 文明
 host-suffix, apsalar.com, 文明
 host-suffix, apxadtracking.net, 文明
 host-suffix, axonix.com, 文明
