@@ -167,6 +167,10 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN,file-igamecj.akamaized.net
+# > ulike
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,faceu.mobi
+DOMAIN-SUFFIX,ibytedtos.com
 # > Umeng
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com

@@ -167,6 +167,10 @@ host-suffix, tencent.com, 民主
 host-suffix, tencent-cloud.net, 民主
 host-suffix, tenpay.com, 民主
 host, file-igamecj.akamaized.net, 民主
+# > ulike
+host-suffix, byteoversea.com, 民主
+host-suffix, faceu.mobi, 民主
+host-suffix, ibytedtos.com, 民主
 # > Umeng
 host, msg.umeng.com, 民主
 host, msg.umengcloud.com, 民主

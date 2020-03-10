@@ -1125,6 +1125,10 @@ Rule:
   - DOMAIN-SUFFIX,tencent-cloud.net,民主
   - DOMAIN-SUFFIX,tenpay.com,民主
   - DOMAIN,file-igamecj.akamaized.net,民主
+# > ulike
+  - DOMAIN-SUFFIX,byteoversea.com,民主
+  - DOMAIN-SUFFIX,faceu.mobi,民主
+  - DOMAIN-SUFFIX,ibytedtos.com,民主
 # > Umeng
   - DOMAIN,msg.umeng.com,民主
   - DOMAIN,msg.umengcloud.com,民主
