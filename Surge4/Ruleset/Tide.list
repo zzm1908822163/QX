@@ -151,8 +151,8 @@ URL-REGEX,^https?:\/\/m\.ibuscloud.com\/v2\/app\/getStartPage
 URL-REGEX,^https?:\/\/smkmp\.96225.com\/smkcenter\/ad/
 # > 虎扑
 URL-REGEX,^https?:\/\/games\.mobileapi\.hupu\.com\/.+\/(interfaceAdMonitor|interfaceAd)\/
-URL-REGEX,^https?:\/\/business\.msstatic\.com\/advertiser\/
 # > 虎牙
+URL-REGEX,^https?:\/\/business\.msstatic\.com\/advertiser\/
 URL-REGEX,^https?:\/\/cdnfile1\.msstatic\.com\/cdnfile\/appad\/resource
 # > 韩剧社
 URL-REGEX,^https?:\/\/47\.97\.20\.12\/ad\/
@@ -460,13 +460,12 @@ URL-REGEX,^https?:\/\/imeclient\.openspeech\.cn\/adservice\/
 URL-REGEX,^https?:\/\/a\.qiumibao\.com\/activities\/config\.php
 URL-REGEX,^https?:\/\/.+\/allOne\.php\?ad_name
 # > 知乎
-URL-REGEX,https?:\/\/www\.zhihu\.com\/api\/v4\/mcn\/
-URL-REGEX,https?:\/\/api\.zhihu\.com\/(ab|adx|drama|fringe|zst|commercial|ad-style-service|market\/popover|search\/(top|tab|preset)|.*(guide|recommendations|extended|featured-comment-ad))
+URL-REGEX,https?:\/\/www\.zhihu\.com\/api\/v4\/creator\/
+URL-REGEX,https?:\/\/api\.zhihu\.com\/(ab|adx|drama|zst|ad-style-service|market\/popover|search\/(top|tab|preset)|.*(guide|recommendations|extended|featured-comment-ad))
 URL-REGEX,^https?:\/\/www\.zhihu\.com\/api\/v4\/community-ad\/
 URL-REGEX,^https?:\/\/api\.zhihu\.com\/(launch|real_time)
 URL-REGEX,^https?:\/\/api\.zhihu\.com\/commercial_api\/(launch|real_time)
 URL-REGEX,^https?:\/\/api\.zhihu\.com\/fringe\/ad
-URL-REGEX,^https?:\/\/api\.zhihu\.com\/ad-
 # > 追书神器
 URL-REGEX,^https?:\/\/(api|b)\.zhuishushenqi\.com\/advert
 URL-REGEX,^https?:\/\/api\.zhuishushenqi\.com\/splashes\/ios

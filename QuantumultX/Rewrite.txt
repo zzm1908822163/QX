@@ -221,8 +221,8 @@ hostname = *.amemv.com, *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-off
 ^https?:\/\/smkmp\.96225.com\/smkcenter\/ad/ url reject-200
 # > 虎扑
 ^https?:\/\/games\.mobileapi\.hupu\.com\/.+\/(interfaceAdMonitor|interfaceAd)\/ url reject-200
-^https?:\/\/business\.msstatic\.com\/advertiser\/ url reject-200
 # > 虎牙
+^https?:\/\/business\.msstatic\.com\/advertiser\/ url reject-200
 ^https?:\/\/cdnfile1\.msstatic\.com\/cdnfile\/appad\/resource url reject-200
 # > 韩剧社
 ^https?:\/\/47\.97\.20\.12\/ad\/ url reject-200
@@ -530,13 +530,12 @@ hostname = *.amemv.com, *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-off
 ^https?:\/\/a\.qiumibao\.com\/activities\/config\.php url reject-200
 ^https?:\/\/.+\/allOne\.php\?ad_name url reject-200
 # > 知乎
-https?:\/\/www\.zhihu\.com\/api\/v4\/mcn\/ url reject-200
-https?:\/\/api\.zhihu\.com\/(ab|adx|drama|fringe|zst|commercial|ad-style-service|market\/popover|search\/(top|tab|preset)|.*(guide|recommendations|extended|featured-comment-ad)) url reject-200
+^https?:\/\/www\.zhihu\.com\/api\/v4\/creator\/ url reject-200
+^https?:\/\/api\.zhihu\.com\/(ab|adx|drama|zst|ad-style-service|market\/popover|search\/(top|tab|preset)|.*(guide|recommendations|extended|featured-comment-ad)) url reject-200
 ^https?:\/\/www\.zhihu\.com\/api\/v4\/community-ad\/ url reject-200
 ^https?:\/\/api\.zhihu\.com\/(launch|real_time) url reject-200
 ^https?:\/\/api\.zhihu\.com\/commercial_api\/(launch|real_time) url reject-200
 ^https?:\/\/api\.zhihu\.com\/fringe\/ad url reject-200
-^https?:\/\/api\.zhihu\.com\/ad- url reject-200
 # > 追书神器
 ^https?:\/\/(api|b)\.zhuishushenqi\.com\/advert url reject-200
 ^https?:\/\/api\.zhuishushenqi\.com\/splashes\/ios url reject-200
