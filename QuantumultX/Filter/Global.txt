@@ -11,6 +11,10 @@ host-suffix, gvt3.com, 富强
 host-suffix, xn--ngstr-lra8j.com, 富强
 host-keyword, google, 富强
 host-keyword, blogspot, 富强
+# > PayPal
+user-agent, PayPal*, 富强
+host-suffix, paypal.com, 富强
+host-suffix, paypalobjects.com, 富强
 # > Microsoft
 host-suffix, onedrive.live.com, 富强
 host-suffix, xboxlive.com, 富强

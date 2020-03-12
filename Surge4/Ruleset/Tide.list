@@ -194,6 +194,7 @@ URL-REGEX,^https?:\/\/service\.iciba\.com\/popo\/open\/screens\/v\d\?adjson
 # K
 # > Keep
 URL-REGEX,^https?:\/\/api\.gotokeep\.com\/ads
+URL-REGEX,^https?://static1.keepcdn.com/.+\d{3}x\d{4}
 # > 快看漫画
 URL-REGEX,^https?:\/\/api\.kkmh\.com\/.+(ad|advertisement)\/
 # > 酷我 (122.14.246.33,175.102.178.52)

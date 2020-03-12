@@ -541,7 +541,6 @@ Rule:
   - DOMAIN-SUFFIX,ad.xiaomi.com,文明
   - DOMAIN-SUFFIX,admob.xiaomi.com,文明
   - DOMAIN,adv.sec.intl.miui.com,文明
-  - DOMAIN,adv.sec.miui.com,文明
 # > 墨迹天气
   - DOMAIN,ad.api.moji.com,文明
   - DOMAIN,adlaunch.moji.com,文明
@@ -1225,6 +1224,7 @@ Rule:
   - DOMAIN-SUFFIX,huya.com,民主
   - DOMAIN-SUFFIX,infinitynewtab.com,民主
   - DOMAIN-SUFFIX,ithome.com,民主
+  - DOMAIN-SUFFIX,iyingdi.com,民主
   - DOMAIN-SUFFIX,java.com,民主
   - DOMAIN-SUFFIX,jidian.im,民主
   - DOMAIN-SUFFIX,kaiyanapp.com,民主
@@ -1246,8 +1246,6 @@ Rule:
   - DOMAIN-SUFFIX,nim-lang-cn.org,民主
   - DOMAIN-SUFFIX,nvidia.com,民主
   - DOMAIN-SUFFIX,oracle.com,民主
-  - DOMAIN-SUFFIX,paypal.com,民主
-  - DOMAIN-SUFFIX,paypalobjects.com,民主
   - DOMAIN-SUFFIX,qdaily.com,民主
   - DOMAIN-SUFFIX,qidian.com,民主
   - DOMAIN-SUFFIX,qyer.com,民主
@@ -1299,6 +1297,9 @@ Rule:
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,富强
   - DOMAIN-KEYWORD,google,富强
   - DOMAIN-KEYWORD,blogspot,富强
+# > PayPal
+  - DOMAIN-SUFFIX,paypal.com,富强
+  - DOMAIN-SUFFIX,paypalobjects.com,富强
 # > Microsoft
   - DOMAIN-SUFFIX,onedrive.live.com,富强
   - DOMAIN-SUFFIX,xboxlive.com,富强

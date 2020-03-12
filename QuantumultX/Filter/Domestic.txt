@@ -336,6 +336,7 @@ host-suffix, huxiucdn.com, 民主
 host-suffix, huya.com, 民主
 host-suffix, infinitynewtab.com, 民主
 host-suffix, ithome.com, 民主
+host-suffix, iyingdi.com, 民主
 host-suffix, java.com, 民主
 host-suffix, jidian.im, 民主
 host-suffix, kaiyanapp.com, 民主
@@ -357,8 +358,6 @@ host-suffix, myzaker.com, 民主
 host-suffix, nim-lang-cn.org, 民主
 host-suffix, nvidia.com, 民主
 host-suffix, oracle.com, 民主
-host-suffix, paypal.com, 民主
-host-suffix, paypalobjects.com, 民主
 host-suffix, qdaily.com, 民主
 host-suffix, qidian.com, 民主
 host-suffix, qyer.com, 民主

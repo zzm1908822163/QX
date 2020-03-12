@@ -410,7 +410,6 @@ host-suffix, ad.intl.xiaomi.com, 文明
 host-suffix, ad.xiaomi.com, 文明
 host-suffix, admob.xiaomi.com, 文明
 host, adv.sec.intl.miui.com, 文明
-host, adv.sec.miui.com, 文明
 # > 墨迹天气
 host, ad.api.moji.com, 文明
 host, adlaunch.moji.com, 文明
