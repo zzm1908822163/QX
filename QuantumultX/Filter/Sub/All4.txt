@@ -1,4 +1,4 @@
 # > All4
 user-agent, All4*, 富强
-host, c4assets.com, 富强
-host, channel4.com, 富强
+host-suffix, c4assets.com, 富强
+host-suffix, channel4.com, 富强
