@@ -472,6 +472,7 @@ host-suffix, l.qq.com, 文明
 host, adsmind.apdcdn.tc.qq.com, 文明
 host, adsmind.gdtimg.com, 文明
 host, adsmind.tc.qq.com, 文明
+host, btrace.qq.com, 文明
 host, pgdt.gtimg.cn, 文明
 host, pgdt.gtimg.com, 文明
 host, pgdt.ugdtimg.com, 文明
