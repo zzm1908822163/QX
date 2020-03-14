@@ -94,7 +94,7 @@ URL-REGEX,^https?:\/\/.+\/V\d\/splash\/getSplashV\d\.action
 URL-REGEX,^https?:\/\/g\.cdn\.pengpengla\.com\/starfantuan\/boot-screen-info\/
 
 # D
-# > 豆瓣 (154.8.131.* 自签证书不可用)
+# > 豆瓣
 URL-REGEX,^https?:\/\/api\.douban\.com\/v\d\/app_ads\/
 # > 斗鱼
 URL-REGEX,^https?:\/\/rtbapi\.douyucdn\.cn\/japi\/sign\/app\/getinfo
@@ -114,9 +114,8 @@ URL-REGEX,^https?:\/\/www\.didapinche\.com\/app\/adstat\/
 URL-REGEX,^https?:\/\/api\.gaoqingdianshi\.com\/api\/v\d\/ad\/
 
 # E
-# > 艺龙 (123.59.31.1,119.18.193.135)
-# (仅 Surge 可用因其支持 force-http-engine-hosts)
-URL-REGEX,^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/(adgateway|adv)\/
+# > 艺龙
+URL-REGEX,^https?:\/\/(119\.18\.193\.135|123\.59\.31\.1)\/ad(gateway|v)\/
 # > e代驾
 URL-REGEX,^https?:\/\/pic\.edaijia\.cn\/adsplash\/
 
@@ -198,8 +197,7 @@ URL-REGEX,^https?:\/\/api\.gotokeep\.com\/ads
 URL-REGEX,^https?:\/\/static1\.keepcdn\.com\/.+\d{3}x\d{4}
 # > 快看漫画
 URL-REGEX,^https?:\/\/api\.kkmh\.com\/.+(ad|advertisement)\/
-# > 酷我 (122.14.246.33,175.102.178.52)
-# (仅 Surge 可用因其支持 force-http-engine-hosts)
+# > 酷我
 URL-REGEX,^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/MobileAdServer\/
 URL-REGEX,^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/EcomResourceServer\/AdPlayPage\/adinfo
 # > 看理想

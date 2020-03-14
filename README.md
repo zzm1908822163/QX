@@ -27,7 +27,7 @@ No Ad Rule
     * 法治 / 爱国 / 敬业 / 诚信 / 友善
 * [使用方法](#使用方法)
 * [关于](#关于)
-* [鸣谢](#鸣谢)
+* [鸣谢](#特别鸣谢)
 * [License](#License)
 
 -------
@@ -93,16 +93,26 @@ Surge4 | [iOS](https://github.com/eHpo1/Rules/blob/master/Surge4/Main.conf) | [�
 
 ## 关于
 
-* 本项目早期基于ConnersHua去广告规则，参考众多大佬的项目拼凑而成。致力于打造无广告、简洁、舒适的环境。
+* 本项目早期基于 [***ConnersHua***](https://github.com/ConnersHua) 去广告规则，参考众多大佬的项目拼凑而成。致力于打造无广告、简洁、舒适的环境。
 * 如果你发现规则有需要改进的地方请通过`Github`  **提交 Issue** 的方式对项目进行补充完善。
 
 -------
 
-## 鸣谢
-
-* [ConnersHua](https://github.com/ConnersHua)
+## 特别鸣谢
+* 众多帮助我与项目成长完善的人
+* [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR)
+* [Choler](https://github.com/Choler)
+* [***ConnersHua***](https://github.com/ConnersHua)
+* [gaoyifan](https://github.com/gaoyifan)
+* [GeQ1an](https://github.com/GeQ1an)
+* [h2y](https://github.com/h2y)
 * [Hackl0us](https://github.com/Hackl0us)
+* [langkhach270389](https://github.com/langkhach270389)
 * [lhie1](https://github.com/lhie1)
+* [neoFelhz](https://github.com/neoFelhz)
+* [NobyDa](https://github.com/NobyDa)
+* [onewayticket255](https://github.com/onewayticket255)
+* [yichahucha](https://github.com/yichahucha)
 
 -------
 
