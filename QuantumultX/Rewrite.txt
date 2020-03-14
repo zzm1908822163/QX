@@ -25,7 +25,7 @@ hostname = *.amemv.com, *.googlevideo.com, *.iydsj.com, *.k.sohu.com, *.kakamobi
 # > Fake Website Made By C&J Marketing
 ^https?:\/\/(www.)?abbyychina\.com\/ url 302 https://www.abbyy.cn/
 ^https?:\/\/(www.)?bartender\.cc\/ url 302 https://www.macbartender.com/
-^https?:\/\/(www.)?(betterzipcn|betterzip)\.(com|net)\/ url 302 https://macitbetter.com/
+^https?:\/\/(www.)?betterzip(cn)?\.(com|net)\/ url 302 https://macitbetter.com/
 ^https?:\/\/(www.)?beyondcompare\.cc\/ url 302 https://www.scootersoftware.com/
 ^https?:\/\/(www.)?bingdianhuanyuan\.cn\/ url 302 https://www.faronics.com/zh-hans/products/deep-freeze
 ^https?:\/\/(www.)?chemdraw\.com\.cn\/ url 302 https://www.perkinelmer.com.cn/

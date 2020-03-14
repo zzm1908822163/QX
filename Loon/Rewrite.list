@@ -15,7 +15,7 @@
 # > Fake Website Made By C&J Marketing
 ^https?:\/\/(www.)?abbyychina\.com\/ https://www.abbyy.cn/ 302
 ^https?:\/\/(www.)?bartender\.cc\/ https://www.macbartender.com/ 302
-^https?:\/\/(www.)?betterzi(pcn)?\.(com|net)\/ https://macitbetter.com/ 302
+^https?:\/\/(www.)?betterzip(cn)?\.(com|net)\/ https://macitbetter.com/ 302
 ^https?:\/\/(www.)?beyondcompare\.cc\/ https://www.scootersoftware.com/ 302
 ^https?:\/\/(www.)?bingdianhuanyuan\.cn\/ https://www.faronics.com/zh-hans/products/deep-freeze 302
 ^https?:\/\/(www.)?chemdraw\.com\.cn\/ https://www.perkinelmer.com.cn/ 302
