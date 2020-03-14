@@ -672,8 +672,6 @@ Rule:
   - DOMAIN,www-cdn.icloud.com.akadns.net,和谐
 
 # Speedtest.list
-# > Fast
-  - DOMAIN-SUFFIX,fast.com,自由
 # > Speedtest
   - DOMAIN-KEYWORD,speedtest,自由
   - DOMAIN-SUFFIX,ooklaserver.net,自由
@@ -687,6 +685,7 @@ Rule:
   - DOMAIN-SUFFIX,biliapi.com,平等
   - DOMAIN-SUFFIX,biliapi.net,平等
   - DOMAIN-SUFFIX,bilibili.com,平等
+  - DOMAIN-SUFFIX,bilibili.tv,平等
   - DOMAIN-SUFFIX,biligame.com,平等
   - DOMAIN-SUFFIX,biligame.net,平等
   - DOMAIN-SUFFIX,bilivideo.com,平等
@@ -695,6 +694,7 @@ Rule:
   - DOMAIN,upos-hz-mirrorakam.akamaized.net,平等
 # > IQIYI
   - DOMAIN-KEYWORD,qiyi,平等
+  - DOMAIN-SUFFIX,71.am.com,平等
   - DOMAIN-SUFFIX,qy.net,平等
   - IP-CIDR,101.227.0.0/16,平等,no-resolve
   - IP-CIDR,101.224.0.0/13,平等,no-resolve
@@ -923,31 +923,11 @@ Rule:
   - DOMAIN-SUFFIX,youku.com,民主
   - DOMAIN-SUFFIX,xiami.com,民主
   - DOMAIN-SUFFIX,xiami.net,民主
-# > Apple
-  - DOMAIN-SUFFIX,aaplimg.com,民主
-  - DOMAIN-SUFFIX,apple.co,民主
-  - DOMAIN-SUFFIX,apple.com,民主
-  - DOMAIN-SUFFIX,apple-cloudkit.com,民主
-  - DOMAIN-SUFFIX,appstore.com,民主
-  - DOMAIN-SUFFIX,cdn-apple.com,民主
-  - DOMAIN-SUFFIX,crashlytics.com,民主
-  - DOMAIN-SUFFIX,icloud.com,民主
-  - DOMAIN-SUFFIX,icloud-content.com,民主
-  - DOMAIN-SUFFIX,me.com,民主
-  - DOMAIN-SUFFIX,mzstatic.com,民主
-  - DOMAIN,www-cdn.icloud.com.akadns.net,民主
 # > Baidu
   - DOMAIN-SUFFIX,baidu.com,民主
   - DOMAIN-SUFFIX,baidubcr.com,民主
   - DOMAIN-SUFFIX,bdstatic.com,民主
   - DOMAIN-SUFFIX,yunjiasu-cdn.net,民主
-# > bilibili
-  - DOMAIN-SUFFIX,acgvideo.com,民主
-  - DOMAIN-SUFFIX,biliapi.com,民主
-  - DOMAIN-SUFFIX,biliapi.net,民主
-  - DOMAIN-SUFFIX,bilibili.com,民主
-  - DOMAIN-SUFFIX,bilibili.tv,民主
-  - DOMAIN-SUFFIX,hdslb.com,民主
 # > Blizzard
   - DOMAIN-SUFFIX,blizzard.com,民主
   - DOMAIN-SUFFIX,battle.net,民主
@@ -984,10 +964,6 @@ Rule:
 # > HunanTV
   - DOMAIN-SUFFIX,hitv.com,民主
   - DOMAIN-SUFFIX,mgtv.com,民主
-# > iQiyi
-  - DOMAIN-SUFFIX,iqiyi.com,民主
-  - DOMAIN-SUFFIX,iqiyipic.com,民主
-  - DOMAIN-SUFFIX,71.am.com,民主
 # > JD
   - DOMAIN-SUFFIX,jd.com,民主
   - DOMAIN-SUFFIX,jd.hk,民主
@@ -1086,10 +1062,6 @@ Rule:
   - DOMAIN-SUFFIX,ipv6-test.com,民主
   - DOMAIN-SUFFIX,test-ipv6.com,民主
   - DOMAIN-SUFFIX,whatismyip.com,民主
-# > Speed Test
-# DOMAIN-SUFFIX,speedtest.net
-  - DOMAIN-SUFFIX,netspeedtestmaster.com,民主
-  - DOMAIN,speedtest.macpaw.com,民主
 # > Private Tracker
   - DOMAIN-SUFFIX,awesome-hd.me,民主
   - DOMAIN-SUFFIX,broadcasthe.net,民主

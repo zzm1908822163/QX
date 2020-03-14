@@ -8,6 +8,7 @@ host-suffix, b23.tv, 平等
 host-suffix, biliapi.com, 平等
 host-suffix, biliapi.net, 平等
 host-suffix, bilibili.com, 平等
+host-suffix, bilibili.tv, 平等
 host-suffix, biligame.com, 平等
 host-suffix, biligame.net, 平等
 host-suffix, bilivideo.com, 平等
@@ -18,6 +19,7 @@ host, upos-hz-mirrorakam.akamaized.net, 平等
 user-agent, QIYI*, 平等
 user-agent, iQiYi*, 平等
 host-keyword, qiyi, 平等
+host-suffix, 71.am.com, 平等
 host-suffix, qy.net, 平等
 ip-cidr, 101.227.0.0/16, 平等
 ip-cidr, 101.224.0.0/13, 平等

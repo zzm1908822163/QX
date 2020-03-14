@@ -6,6 +6,7 @@ host-suffix, b23.tv, 民主
 host-suffix, biliapi.com, 民主
 host-suffix, biliapi.net, 民主
 host-suffix, bilibili.com, 民主
+host-suffix, bilibili.tv, 民主
 host-suffix, biligame.com, 民主
 host-suffix, biligame.net, 民主
 host-suffix, bilivideo.com, 民主

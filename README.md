@@ -39,7 +39,7 @@ No Ad Rule
 Clash | [Windows](https://github.com/eHpo1/Rules/blob/master/Clash/Main.yaml) | [官方](https://github.com/Dreamacro/clash/blob/master/README.md)
 Loon | [iOS](https://github.com/eHpo1/Rules/blob/master/Loon/Main.conf) | [官方](https://github.com/Loon0x00/LoonManual)
 QuantumultX | [iOS](https://github.com/eHpo1/Rules/blob/master/QuantumultX/Main.conf) | [官方](https://github.com/crossutility/Quantumult-X)
-Shadowrocket | [iOS](https://github.com/eHpo1/Rules/blob/master/Shadowrocket/Main.conf) | 暂无
+Shadowrocket | [iOS](https://github.com/eHpo1/Rules/blob/master/Shadowrocket/Main.conf) | [官方](https://github.com/Shadowrocket)
 Surge4 | [iOS](https://github.com/eHpo1/Rules/blob/master/Surge4/Main.conf) | [官方](https://manual.nssurge.com)
 
 -------
