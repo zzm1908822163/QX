@@ -184,6 +184,8 @@ IP-CIDR,108.175.32.0/20,no-resolve
 IP-CIDR,192.173.64.0/18,no-resolve
 IP-CIDR,198.38.96.0/19,no-resolve
 IP-CIDR,198.45.48.0/20,no-resolve
+# >> Fast
+DOMAIN-SUFFIX,fast.com
 # > niconico
 USER-AGENT,Niconico*
 DOMAIN-SUFFIX,dmc.nico
@@ -195,6 +197,7 @@ USER-AGENT,PBS*
 DOMAIN-SUFFIX,pbs.org
 # > Pornhub
 DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
 # > 台湾好

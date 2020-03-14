@@ -184,6 +184,8 @@ ip-cidr, 108.175.32.0/20, 公正
 ip-cidr, 192.173.64.0/18, 公正
 ip-cidr, 198.38.96.0/19, 公正
 ip-cidr, 198.45.48.0/20, 公正
+# >> Fast
+host-suffix, fast.com, 公正
 # > niconico
 user-agent, Niconico*, 公正
 host-suffix, dmc.nico, 公正
@@ -195,6 +197,7 @@ user-agent, PBS*, 公正
 host-suffix, pbs.org, 公正
 # > Pornhub
 host-suffix, phncdn.com, 公正
+host-suffix, phprcdn.com, 公正
 host-suffix, pornhub.com, 公正
 host-suffix, pornhubpremium.com, 公正
 # > 台湾好

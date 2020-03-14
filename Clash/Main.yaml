@@ -863,6 +863,8 @@ Rule:
   - IP-CIDR,192.173.64.0/18,公正,no-resolve
   - IP-CIDR,198.38.96.0/19,公正,no-resolve
   - IP-CIDR,198.45.48.0/20,公正,no-resolve
+# >> Fast
+  - DOMAIN-SUFFIX,fast.com,公正
 # > niconico
   - DOMAIN-SUFFIX,dmc.nico,公正
   - DOMAIN-SUFFIX,nicovideo.jp,公正
@@ -872,6 +874,7 @@ Rule:
   - DOMAIN-SUFFIX,pbs.org,公正
 # > Pornhub
   - DOMAIN-SUFFIX,phncdn.com,公正
+  - DOMAIN-SUFFIX,phprcdn.com, 公正
   - DOMAIN-SUFFIX,pornhub.com,公正
   - DOMAIN-SUFFIX,pornhubpremium.com,公正
 # > 台湾好

@@ -17,10 +17,10 @@ obj = {
   level: 3,
   privilege: [
     { spid: "data_recover", times: 0, expire_time: 2524650109 },
-    { spid: "ocr", times: 0, expire_time: 1631619709 },
-    { spid: "pdf2doc", times: 0, expire_time: 1631619709 },
+    { spid: "ocr", times: 0, expire_time: 2524650109 },
+    { spid: "pdf2doc", times: 0, expire_time: 2524650109 },
     { spid: "pdf_merge", times: 0, expire_time: 2524650109 },
-    { spid: "pdf_sign", times: 0, expire_time: 1631619709 },
+    { spid: "pdf_sign", times: 0, expire_time: 2524650109 },
     { spid: "pdf_split", times: 0, expire_time: 2524650109 }
   ],
   result: "ok",
