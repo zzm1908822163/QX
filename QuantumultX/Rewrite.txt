@@ -224,6 +224,8 @@ hostname = *.amemv.com, *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-off
 # > 虎牙
 ^https?:\/\/business\.msstatic\.com\/advertiser\/ url reject-200
 ^https?:\/\/cdnfile1\.msstatic\.com\/cdnfile\/appad\/resource url reject-200
+# > 华住会
+^https?:\/\/ws-www\.hantinghotels\.com\/app_h5\/Images\/NewIndexImg\/.+_plus\.jpg url reject-200
 # > 韩剧社
 ^https?:\/\/47\.97\.20\.12\/ad\/ url reject-200
 # > 火猫

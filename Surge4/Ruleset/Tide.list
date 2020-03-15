@@ -154,6 +154,8 @@ URL-REGEX,^https?:\/\/games\.mobileapi\.hupu\.com\/.+\/(interfaceAdMonitor|inter
 # > 虎牙
 URL-REGEX,^https?:\/\/business\.msstatic\.com\/advertiser\/
 URL-REGEX,^https?:\/\/cdnfile1\.msstatic\.com\/cdnfile\/appad\/resource
+# > 华住会
+URL-REGEX,^https?:\/\/ws-www\.hantinghotels\.com\/app_h5\/Images\/NewIndexImg\/.+_plus\.jpg
 # > 韩剧社
 URL-REGEX,^https?:\/\/47\.97\.20\.12\/ad\/
 # > 火猫
