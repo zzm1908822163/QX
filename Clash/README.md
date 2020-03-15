@@ -1,8 +1,6 @@
-<p>
 <h1 align="center">
 No Ad Rule
 </h1>
-</p>
 <p align="center">
 <sup>
 Maintained by <b>eHpo</b>

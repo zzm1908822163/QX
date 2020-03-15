@@ -1,8 +1,6 @@
-<p>
 <h1 align="center">
 No Ad Rule
 </h1>
-</p>
 <p align="center">
 <sup>
 Maintained by <b>eHpo</b>
@@ -20,24 +18,19 @@ Maintained by <b>eHpo</b>
     * QuantumultX
     * Shadowrocket
     * Surge4
-
 * [策略组说明](#策略组)
     * 富强 / 民主 / 文明
     * 和谐 / 自由
     * 平等 / 公正
     * 法治 / 爱国 / 敬业 / 诚信 / 友善
-
 * [List说明](#List)
     * Liby / Tide
     * AsianMedia / GlobalMedia
     * Domestic / Global
     * Region
     * /Sub
-
 * [关于](#关于)
-
 * [鸣谢](#特别鸣谢)
-
 * [License](#License)
 
 -------

@@ -1,8 +1,6 @@
-<p>
 <h1 align="center">
 No Ad Rule
 </h1>
-</p>
 <p align="center">
 <sup>
 Maintained by <b>eHpo</b>
@@ -25,6 +23,8 @@ Maintained by <b>eHpo</b>
 
 更多支持请查看 [Loon官方说明](https://github.com/Loon0x00/LoonManual)
 
+>如果您觉得策略组不合口味可以直接订阅相应的 [List](#List)
+
 -------
 
 ## 策略组
@@ -40,8 +40,6 @@ Maintained by <b>eHpo</b>
 
 * 法治 / 爱国 / 敬业 / 诚信 / 友善
     * 科学分类
-
->如果您觉得策略组不合口味可以直接订阅相应的list
 
 -------
 
