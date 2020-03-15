@@ -367,7 +367,6 @@ host-suffix, ronghub.com, 民主
 host-suffix, ruguoapp.com, 民主
 host-suffix, s-reader.com, 民主
 host-suffix, sankuai.com, 民主
-host-suffix, scomper.me, 民主
 host-suffix, seafile.com, 民主
 host-suffix, sm.ms, 民主
 host-suffix, smzdm.com, 民主

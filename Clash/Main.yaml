@@ -16,7 +16,6 @@ dns:
   default-nameserver:
     - 1.2.4.8
     - 119.29.29.29
-    - 101.101.101.101
     - 223.5.5.5
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
@@ -26,12 +25,11 @@ dns:
   nameserver:
     - 1.2.4.8
     - 119.29.29.29
-    - 101.101.101.101
+    - 223.5.5.5
   fallback:
     - https://dns.google/dns-query
     - https://cloudflare-dns.com/dns-query
     - https://dns.rubyfish.cn/dns-query
-    - https://dns.twnic.tw/dns-query
   fallback-filter:
     geoip: true
     ipcidr:
@@ -39,13 +37,13 @@ dns:
 
 Proxy:
   - name: "1"
-    type: ss
+    type: 0000
     server: 0.0.0.0
-    port: 
-    cipher: chacha20-ietf-poly1305
-    password: 000
-    udp: true
-    obfs: tls
+    port: 0000
+    cipher: 0000
+    password: 0000
+    udp: 0000
+    obfs: 0000
     obfs-host: 0.0.0.0
 Proxy Group:
   - name: "富强"
@@ -1227,7 +1225,6 @@ Rule:
   - DOMAIN-SUFFIX,ruguoapp.com,民主
   - DOMAIN-SUFFIX,s-reader.com,民主
   - DOMAIN-SUFFIX,sankuai.com,民主
-  - DOMAIN-SUFFIX,scomper.me,民主
   - DOMAIN-SUFFIX,seafile.com,民主
   - DOMAIN-SUFFIX,sm.ms,民主
   - DOMAIN-SUFFIX,smzdm.com,民主
