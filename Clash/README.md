@@ -1,22 +1,22 @@
+<p>
 <h1 align="center">
-No Ad Rule 
+No Ad Rule
 </h1>
+</p>
 <p align="center">
 <sup>
-     Design for<i> Clash / Loon / QuantumultX / Shadowrocket / Surge  </i>
-     <br> Maintained by <b>eHpo</b>
+Maintained by <b>eHpo</b>
 </sup>
-<br>
 </p>
 
 
 ## 使用方法
 
-暂时只能通过iOS [快捷指令](https://www.icloud.com/shortcuts/c9ac70515c4c4947838a34f5279142a0) 转换托管链接（能够筛选4个名称关键字）如果您有更好办法请联系我。  
+暂时只能通过iOS [快捷指令](https://www.icloud.com/shortcuts/7a3207925fae482aa7c22d5e7d6814d5) 转换托管链接（能够筛选4个名称关键字）如果您有更好办法请联系我。  
 
-更多支持请查看Clash [官方说明](https://github.com/Dreamacro/clash/blob/master/README.md)
+![Clash快捷指令](https://github.com/eHpo1/Rules/raw/master/.img/clashkjzl.JPG)
 
-![Clash快捷指令]()
+更多支持请查看 [Clash官方说明](https://github.com/Dreamacro/clash/blob/master/README.md)
 
 -------
 
@@ -36,10 +36,10 @@ No Ad Rule
 
 -------
 
-## List
+## 包含的List
 
 * Liby.list
-    * 通过域名 / IP去广告，洁净护色。
+    * 通过域名 / IP去广告，洁净护色
 
 * AsianMedia.list / GlobalMedia.list
     * 亚洲媒体 / 国际媒体
@@ -53,5 +53,7 @@ No Ad Rule
 -------
 
 <h3 align="center">
-<p>感谢围观<br>祝您心明眼亮</b></p>
+<p>感谢围观
+<br>祝您心明眼亮</b>
+</p>
 </h3>

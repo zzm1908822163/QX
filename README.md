@@ -1,9 +1,11 @@
+<p>
 <h1 align="center">
 No Ad Rule
 </h1>
+</p>
 <p align="center">
 <sup>
-     Maintained by <b>eHpo</b>
+Maintained by <b>eHpo</b>
 </sup>
 </p>
 
@@ -44,13 +46,13 @@ No Ad Rule
 
 >需要一定动手能力，如果您有不明白的地方可以详细查看工具的官方说明。
 
-工具 | 配置说明文档 | 使用方法点击查看详情
+| 工具 | 配置说明文档 | 使用方法点击查看详情 |
 | :-: | :-: | :-: |
-Clash | [官方](https://github.com/Dreamacro/clash/blob/master/README.md) | [详请](https://github.com/eHpo1/Rules/blob/master/Clash/README.md)
-Loon | [官方](https://github.com/Loon0x00/LoonManual) | [详请](https://github.com/eHpo1/Rules/blob/master/Loon/README.md)
-QuantumultX | [官方](https://github.com/crossutility/Quantumult-X)  | [详请](https://github.com/eHpo1/Rules/blob/master/QuantumultX/README.md)
-Shadowrocket | [官方](https://github.com/Shadowrocket)  | [详请](https://github.com/eHpo1/Rules/blob/master/Shadowrocket/README.md)
-Surge4 | [官方](https://manual.nssurge.com)  | [详请](https://github.com/eHpo1/Rules/blob/master/Surge4/README.md)
+| Clash | [官方](https://github.com/Dreamacro/clash/blob/master/README.md) | [详请](https://github.com/eHpo1/Rules/blob/master/Clash/README.md) |
+| Loon | [官方](https://github.com/Loon0x00/LoonManual) | [详请](https://github.com/eHpo1/Rules/blob/master/Loon/README.md) |
+| QuantumultX | [官方](https://github.com/crossutility/Quantumult-X) | [详请](https://github.com/eHpo1/Rules/blob/master/QuantumultX/README.md) |
+| Shadowrocket | [官方](https://github.com/Shadowrocket) | [详请](https://github.com/eHpo1/Rules/blob/master/Shadowrocket/README.md) |
+| Surge4 | [官方](https://manual.nssurge.com) | [详请](https://github.com/eHpo1/Rules/blob/master/Surge4/README.md) |
    
 -------
 
@@ -98,7 +100,7 @@ Surge4 | [官方](https://manual.nssurge.com)  | [详请](https://github.com/eHp
 
 * 本项目早期基于 [***ConnersHua***](https://github.com/ConnersHua) 去广告规则，参考众多大佬的项目拼凑而成。致力于打造无广告、简洁、舒适的环境。
 
-* 如果您发现项目有需要改进的地方请通过**提交 Issue** 的方式对项目进行补充完善。
+* 如果您发现项目有需要改进的地方请通过 **提交Issue** 的方式对项目进行补充完善。
 
 -------
 
@@ -134,5 +136,7 @@ Surge4 | [官方](https://manual.nssurge.com)  | [详请](https://github.com/eHp
 -------
 
 <h3 align="center">
-<p>感谢围观<br>祝您心明眼亮</b></p>
+<p>感谢围观
+<br>祝您心明眼亮</b>
+</p>
 </h3>
