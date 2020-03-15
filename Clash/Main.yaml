@@ -844,25 +844,21 @@ Rule:
   - DOMAIN-SUFFIX,nflximg.net,公正
   - DOMAIN-SUFFIX,nflxso.net,公正
   - DOMAIN-SUFFIX,nflxvideo.net,公正
-  - DOMAIN-SUFFIX,netflixdnstest0.com,公正
-  - DOMAIN-SUFFIX,netflixdnstest1.com,公正
-  - DOMAIN-SUFFIX,netflixdnstest2.com,公正
-  - DOMAIN-SUFFIX,netflixdnstest3.com,公正
-  - DOMAIN-SUFFIX,netflixdnstest4.com,公正
-  - DOMAIN-SUFFIX,netflixdnstest5.com,公正
-  - DOMAIN-SUFFIX,netflixdnstest6.com,公正
-  - DOMAIN-SUFFIX,netflixdnstest7.com,公正
-  - DOMAIN-SUFFIX,netflixdnstest8.com,公正
-  - DOMAIN-SUFFIX,netflixdnstest9.com,公正
-  - IP-CIDR,23.246.0.0/18,公正,no-resolve
-  - IP-CIDR,37.77.184.0/21,公正,no-resolve
-  - IP-CIDR,45.57.0.0/17,公正,no-resolve
-  - IP-CIDR,64.120.128.0/17,公正,no-resolve
-  - IP-CIDR,66.197.128.0/17,公正,no-resolve
-  - IP-CIDR,108.175.32.0/20,公正,no-resolve
-  - IP-CIDR,192.173.64.0/18,公正,no-resolve
-  - IP-CIDR,198.38.96.0/19,公正,no-resolve
-  - IP-CIDR,198.45.48.0/20,公正,no-resolve
+  - IP-CIDR,8.41.4.0/24,公正
+  - IP-CIDR,23.246.0.0/18,公正
+  - IP-CIDR,37.77.184.0/21,公正
+  - IP-CIDR,45.57.0.0/17,公正
+  - IP-CIDR,64.120.128.0/17,公正
+  - IP-CIDR,66.197.128.0/17,公正
+  - IP-CIDR,69.53.224.0/19,公正
+  - IP-CIDR,108.175.32.0/20,公正
+  - IP-CIDR,185.2.220.0/22,公正
+  - IP-CIDR,185.9.188.0/22,公正
+  - IP-CIDR,192.173.64.0/18,公正
+  - IP-CIDR,198.38.96.0/19,公正
+  - IP-CIDR,198.45.48.0/20,公正
+  - IP-CIDR,207.45.72.0/22,公正
+  - IP-CIDR,208.75.76.0/22,公正
 # >> Fast
   - DOMAIN-SUFFIX,fast.com,公正
 # > niconico
@@ -1836,22 +1832,22 @@ Rule:
   - GEOIP,CN,民主
 # > LAN
   - DOMAIN,localhost,民主
-  - IP-CIDR,0.0.0.0/8,民主
-  - IP-CIDR,10.0.0.0/8,民主
-  - IP-CIDR,100.64.0.0/10,民主
-  - IP-CIDR,127.0.0.0/8,民主
-  - IP-CIDR,169.254.0.0/16,民主
-  - IP-CIDR,172.16.0.0/12,民主
-  - IP-CIDR,192.0.0.0/24,民主
-  - IP-CIDR,192.0.2.0/24,民主
-  - IP-CIDR,192.168.0.0/16,民主
-  - IP-CIDR,192.88.99.0/24,民主
-  - IP-CIDR,198.18.0.0/15,民主
-  - IP-CIDR,198.51.100.0/24,民主
-  - IP-CIDR,203.0.113.0/24,民主
-  - IP-CIDR,224.0.0.0/4,民主
-  - IP-CIDR,240.0.0.0/4,民主
-  - IP-CIDR,255.255.255.255/32,民主
+  - IP-CIDR,0.0.0.0/8,民主,no-resolve
+  - IP-CIDR,10.0.0.0/8,民主,no-resolve
+  - IP-CIDR,100.64.0.0/10,民主,no-resolve
+  - IP-CIDR,127.0.0.0/8,民主,no-resolve
+  - IP-CIDR,169.254.0.0/16,民主,no-resolve
+  - IP-CIDR,172.16.0.0/12,民主,no-resolve
+  - IP-CIDR,192.0.0.0/24,民主,no-resolve
+  - IP-CIDR,192.0.2.0/24,民主,no-resolve
+  - IP-CIDR,192.168.0.0/16,民主,no-resolve
+  - IP-CIDR,192.88.99.0/24,民主,no-resolve
+  - IP-CIDR,198.18.0.0/15,民主,no-resolve
+  - IP-CIDR,198.51.100.0/24,民主,no-resolve
+  - IP-CIDR,203.0.113.0/24,民主,no-resolve
+  - IP-CIDR,224.0.0.0/4,民主,no-resolve
+  - IP-CIDR,240.0.0.0/4,民主,no-resolve
+  - IP-CIDR,255.255.255.255/32,民主,no-resolve
 
   - MATCH,富强
   
