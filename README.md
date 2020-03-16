@@ -10,7 +10,7 @@ Maintained by <b>eHpo</b>
 
 ## 简介
 
-适合有一定基础能力的人员，配置文件中的策略组并不重要。
+适合有一定基础的人员。
 
 * [适用](#适用)
     * Clash
@@ -18,7 +18,6 @@ Maintained by <b>eHpo</b>
     * QuantumultX
     * Shadowrocket
     * Surge4
-* [策略组说明](#策略组)
 * [List说明](#List)
     * Liby / Tide
     * /Sub
@@ -42,12 +41,6 @@ Maintained by <b>eHpo</b>
 | QuantumultX | [官方](https://github.com/crossutility/Quantumult-X) | [详请](https://github.com/eHpo1/Rules/blob/master/QuantumultX/README.md) |
 | Shadowrocket | [官方](https://github.com/Shadowrocket) | [详请](https://github.com/eHpo1/Rules/blob/master/Shadowrocket/README.md) |
 | Surge4 | [官方](https://manual.nssurge.com) | [详请](https://github.com/eHpo1/Rules/blob/master/Surge4/README.md) |
-   
--------
-
-## 策略组
-
->如果您觉得策略组不合口味可以直接订阅相应的list
 
 -------
 
