@@ -21,10 +21,10 @@ Maintained by <b>eHpo</b>
 * [策略组说明](#策略组)
 * [List说明](#List)
     * Liby / Tide
+    * /Sub
     * AsianMedia / GlobalMedia
     * Domestic / Global
     * Region
-    * /Sub
 * [关于](#关于)
 * [鸣谢](#特别鸣谢)
 * [License](#License)

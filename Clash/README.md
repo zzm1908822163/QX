@@ -24,7 +24,7 @@ Maintained by <b>eHpo</b>
     * 通过域名 / IP去广告
     
 * /Sub
-    *默认Apple.list与Speedtest.list
+    * 默认Apple.list与Speedtest.list
 
 * AsianMedia.list / GlobalMedia.list
     * 亚洲媒体 / 国际媒体

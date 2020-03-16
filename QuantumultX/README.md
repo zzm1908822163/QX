@@ -28,10 +28,10 @@ Maintained by <b>eHpo</b>
     * 通过域名 / IP去广告，洁净护色  
 	  `https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Filter/Liby.txt`  
 
-* Rewrite.txt
-	* URL重写包含 Tide.list  
-	  `https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Rewrite.txt`  
-
+* /Sub
+    * 分站细化规则  
+	  https://github.com/eHpo1/Rules/tree/master/QuantumultX/Filter/Sub  
+	  
 * AsianMedia.list / GlobalMedia.list
     * 亚洲媒体 / 国际媒体  
 	  `https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Filter/AsianMedia.txt`  
@@ -46,9 +46,9 @@ Maintained by <b>eHpo</b>
 	* LAN / GeoIP,CN  
 	  `https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Filter/Region.txt`  
 
-* /Sub
-    * 分站细化规则  
-	  https://github.com/eHpo1/Rules/tree/master/QuantumultX/Filter/Sub  
+* Rewrite.txt
+	* URL重写包含 Tide.list  
+	  `https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Rewrite.txt`  
 
 -------
 
