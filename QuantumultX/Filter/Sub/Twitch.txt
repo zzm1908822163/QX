@@ -1,5 +1,5 @@
 # > Twitch
-host-suffix, twitch.tv, 富强
-host-suffix, twitchcdn.net, 富强
-host-suffix, ttvnw.net, 富强
-host-suffix, jtvnw.net, 富强
+host-suffix, twitch.tv, Global
+host-suffix, twitchcdn.net, Global
+host-suffix, ttvnw.net, Global
+host-suffix, jtvnw.net, Global

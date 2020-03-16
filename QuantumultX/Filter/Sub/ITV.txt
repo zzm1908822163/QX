@@ -1,5 +1,5 @@
 # > ITV
-user-agent, ITV_Player*, 富强
-host-suffix, itv.com, 富强
-host-suffix, itvstatic.com, 富强
-host, itvpnpmobile-a.akamaihd.net, 富强
+user-agent, ITV_Player*, Global
+host-suffix, itv.com, Global
+host-suffix, itvstatic.com, Global
+host, itvpnpmobile-a.akamaihd.net, Global

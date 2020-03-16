@@ -12,20 +12,20 @@ Maintained by <b>eHpo</b>
 
 >需打开MITM功能，然后安装并信任证书
 
-暂时只能通过手动替换规则文本`[server_remote]`中的`https://www.example.com/example`替换为您的订阅链接（五处）。
+通过手动替换规则文本`[server_remote]`中的`https://www.example.com/example`替换为您的订阅链接（五处）。
 
 ![QuantumultX文本编辑](https://github.com/eHpo1/Rules/raw/master/.img/qxbj.JPG)
 
 更多支持请查看 [QuantumultX官方说明](https://github.com/crossutility/Quantumult-X)
 
->如果您觉得策略组不合口味可以直接订阅相应的 [List](#List)
+>还可以直接订阅相应的 [List](#List)
 
 -------
 
 ## List
 
 * Liby.list
-    * 通过域名 / IP去广告，洁净护色  
+    * 通过域名 / IP去广告 
 	  `https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Filter/Liby.txt`  
 
 * /Sub
@@ -47,7 +47,7 @@ Maintained by <b>eHpo</b>
 	  `https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Filter/Region.txt`  
 
 * Rewrite.txt
-	* URL重写包含 Tide.list  
+	* URL重写（包含 Tide.list）  
 	  `https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Rewrite.txt`  
 
 -------

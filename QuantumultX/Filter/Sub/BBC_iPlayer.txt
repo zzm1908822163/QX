@@ -1,6 +1,6 @@
 # > BBC iPlayer
-user-agent, BBCiPlayer*, 富强
-host-suffix, bbc.co.uk, 富强
-host-suffix, bbci.co.uk, 富强
-host-keyword, bbcfmt, 富强
-host-keyword, uk-live, 富强
+user-agent, BBCiPlayer*, Global
+host-suffix, bbc.co.uk, Global
+host-suffix, bbci.co.uk, Global
+host-keyword, bbcfmt, Global
+host-keyword, uk-live, Global

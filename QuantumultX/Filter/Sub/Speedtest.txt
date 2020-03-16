@@ -1,5 +1,5 @@
 # > Fast
-host-suffix, fast.com, 自由
+host-suffix, fast.com, Speedtest
 # > Speedtest
-host-keyword, speedtest, 自由
-host-suffix, ooklaserver.net, 自由
+host-keyword, speedtest, Speedtest
+host-suffix, ooklaserver.net, Speedtest

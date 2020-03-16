@@ -1,4 +1,4 @@
 # > LineTV
-user-agent, LINE%20TV*, 富强
-host-suffix, linetv.tw, 富强
-host, d3c7rimkq79yfu.cloudfront.net, 富强
+user-agent, LINE%20TV*, Global
+host-suffix, linetv.tw, Global
+host, d3c7rimkq79yfu.cloudfront.net, Global

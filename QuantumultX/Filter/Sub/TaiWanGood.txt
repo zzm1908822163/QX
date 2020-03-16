@@ -1,4 +1,4 @@
 # > 台湾好
-user-agent, TaiwanGood*, 富强
-host-suffix, skyking.com.tw, 富强
-host, hamifans.emome.net, 富强
+user-agent, TaiwanGood*, Global
+host-suffix, skyking.com.tw, Global
+host, hamifans.emome.net, Global

@@ -10,10 +10,6 @@ Maintained by <b>eHpo</b>
 
 ## 使用方法
 
-暂时只能通过iOS [快捷指令](https://www.icloud.com/shortcuts/7a3207925fae482aa7c22d5e7d6814d5) 转换托管链接（筛选4个名称关键字）。
-
-![Clash快捷指令](https://github.com/eHpo1/Rules/raw/master/.img/clashkjzl.JPG)
-
 更多支持请查看 [Clash官方说明](https://github.com/Dreamacro/clash/blob/master/README.md)
 
 -------

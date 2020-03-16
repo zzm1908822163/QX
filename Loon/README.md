@@ -23,7 +23,7 @@ Maintained by <b>eHpo</b>
 
 更多支持请查看 [Loon官方说明](https://github.com/Loon0x00/LoonManual)
 
->如果您觉得策略组不合口味可以直接订阅相应的 [List](#List)
+>还可以直接订阅相应的 [List](#List)
 
 -------
 

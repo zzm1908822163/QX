@@ -1,5 +1,5 @@
 # > HBO NOW
-user-agent, HBO%20NOW*, 富强
-host-suffix, hbo.com, 富强
-host-suffix, hbogo.com, 富强
-host-suffix, hbonow.com, 富强
+user-agent, HBO%20NOW*, Global
+host-suffix, hbo.com, Global
+host-suffix, hbogo.com, Global
+host-suffix, hbonow.com, Global

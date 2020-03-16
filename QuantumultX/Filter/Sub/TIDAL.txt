@@ -1,3 +1,3 @@
 # > TIDAL
-user-agent, TIDAL*dia, 富强
-host-suffix, tidal.comdia, 富强
+user-agent, TIDAL*dia, Global
+host-suffix, tidal.comdia, Global

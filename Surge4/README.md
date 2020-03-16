@@ -12,13 +12,13 @@ Maintained by <b>eHpo</b>
 
 >需打开MITM功能，然后安装并信任证书
 
-通过iOS [快捷指令](https://www.icloud.com/shortcuts/e50ad80e4acb4a25b0aca7ba2c32de1c) 转换托管链接（能够筛选4个名称关键字），生成的六个文件全部保存在Surge目录下。
+通过iOS [快捷指令](https://www.icloud.com/shortcuts/fad5d1773abc4d97ad201b3c0a4eb6cd) 转换托管链接（筛选4个名称关键词），生成的六个文件全部保存在Surge目录下。
 
 ![Surge快捷指令](https://github.com/eHpo1/Rules/raw/master/.img/surgekjzl.JPG)
 
 更多支持请查看 [Surge官方说明](https://manual.nssurge.com)
 
->如果您觉得策略组不合口味可以直接订阅相应的 [List](#List)
+>还可以直接订阅相应的 [List](#List)
 
 -------
 

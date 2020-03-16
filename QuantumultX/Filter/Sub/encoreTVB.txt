@@ -1,5 +1,5 @@
 # > encoreTVB
-user-agent, encoreTVB*, 富强
-host-suffix, encoretvb.com, 富强
-host, edge.api.brightcove.com, 富强
-host, bcbolt446c5271-a.akamaihd.net, 富强
+user-agent, encoreTVB*, Global
+host-suffix, encoretvb.com, Global
+host, edge.api.brightcove.com, Global
+host, bcbolt446c5271-a.akamaihd.net, Global
