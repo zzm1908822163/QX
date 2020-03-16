@@ -155,7 +155,7 @@ URL-REGEX,^https?:\/\/games\.mobileapi\.hupu\.com\/.+\/(interfaceAdMonitor|inter
 URL-REGEX,^https?:\/\/business\.msstatic\.com\/advertiser\/
 URL-REGEX,^https?:\/\/cdnfile1\.msstatic\.com\/cdnfile\/appad\/resource
 # > 华住会
-URL-REGEX,^https?:\/\/ws-www\.hantinghotels\.com\/app_h5\/Images\/NewIndexImg\/.+_plus\.jpg
+URL-REGEX,^https?:\/\/appapi\.huazhu\.com:\d{4}\/client\/app\/getAppStartPage\/
 # > 韩剧社
 URL-REGEX,^https?:\/\/47\.97\.20\.12\/ad\/
 # > 火猫
@@ -438,7 +438,7 @@ URL-REGEX,^https?:\/\/api\.catch\.gift\/api\/v\d\/pagead\/
 # > 萤石云视频
 URL-REGEX,^https?:\/\/i\.ys7\.com\/api\/ads
 # > 阅达教育
-URL-REGEX,^https?:\/\/www\.hxeduonline\.com\/mobileapi2\/index\.php\?act=index&op=(interdict|advert)
+URL-REGEX,^https?:\/\/www\.hxeduonline\.com\/mobileapi2\/index\.php\?act=index&op=interdict
 # > 运动世界
 URL-REGEX,^https?:\/\/.+\.iydsj\.com\/api\/.+\/ad
 # > 一点万象
