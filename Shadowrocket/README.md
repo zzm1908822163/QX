@@ -21,10 +21,13 @@ Maintained by <b>eHpo</b>
 ## 包含的List
 
 * Liby.list
-    * 通过域名 / IP去广告，洁净护色。
+    * 通过域名 / IP去广告
 
 * Tide.list
-    * 通过中间人攻击使用正则表达式实现对广告的精准打击，用汰渍没污渍。
+    * 通过中间人攻击使用正则表达式实现对广告的精准打击
+
+* /Sub
+    * 默认Apple.list与Speedtest.list
 
 * AsianMedia.list / GlobalMedia.list
     * 亚洲媒体 / 国际媒体

@@ -27,31 +27,19 @@ Maintained by <b>eHpo</b>
 
 -------
 
-## 策略组
-
-* 富强 / 民主 / 文明
-    * 默认代理 / 直连 / 拦截
-
-* 和谐 / 自由
-    * 分站细化规则（默认Apple / Speedtest）
-
-* 平等 / 公正
-    * 亚洲媒体 / 国际媒体
-
-* 法治 / 爱国 / 敬业 / 诚信 / 友善
-    * 科学分类
-
--------
-
 ## List
 
 * Liby.list
-    * 通过域名 / IP去广告，洁净护色  
+    * 通过域名 / IP去广告  
 	  `https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Liby.list`  
 
 * Tide.list
-    * 通过中间人攻击使用正则表达式实现对广告的精准打击，用汰渍没污渍  
+    * 通过中间人攻击使用正则表达式实现对广告的精准打击  
 	  `https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Tide.list`  
+	  
+* /Sub
+    * 分站细化规则  
+	  https://github.com/eHpo1/Rules/tree/master/Surge4/Ruleset/Sub  
 
 * AsianMedia.list / GlobalMedia.list
     * 亚洲媒体 / 国际媒体  
@@ -66,10 +54,6 @@ Maintained by <b>eHpo</b>
 * Region.list
 	* LAN / GeoIP,CN  
 	  `https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Region.list`  
-
-* /Sub
-    * 分站细化规则  
-	  https://github.com/eHpo1/Rules/tree/master/Surge4/Ruleset/Sub  
 
 -------
 

@@ -10,7 +10,7 @@ Maintained by <b>eHpo</b>
 
 ## 使用方法
 
-暂时只能通过iOS [快捷指令](https://www.icloud.com/shortcuts/7a3207925fae482aa7c22d5e7d6814d5) 转换托管链接（能够筛选4个名称关键字）如果您有更好办法请联系我。  
+暂时只能通过iOS [快捷指令](https://www.icloud.com/shortcuts/7a3207925fae482aa7c22d5e7d6814d5) 转换托管链接（筛选4个名称关键字）。
 
 ![Clash快捷指令](https://github.com/eHpo1/Rules/raw/master/.img/clashkjzl.JPG)
 
@@ -18,26 +18,13 @@ Maintained by <b>eHpo</b>
 
 -------
 
-## 策略组
-
-* 富强 / 民主 / 文明
-    * 默认代理 / 直连 / 拦截
-
-* 和谐 / 自由
-    * 分站细化规则（默认Apple / Speedtest）
-
-* 平等 / 公正
-    * 亚洲媒体 / 国际媒体
-
-* 法治 / 爱国 / 敬业 / 诚信 / 友善
-    * 科学分类
-
--------
-
 ## 包含的List
 
 * Liby.list
-    * 通过域名 / IP去广告，洁净护色
+    * 通过域名 / IP去广告
+    
+* /Sub
+    *默认Apple.list与Speedtest.list
 
 * AsianMedia.list / GlobalMedia.list
     * 亚洲媒体 / 国际媒体

@@ -183,6 +183,9 @@ host-suffix, appsflyer.com, 文明
 host-suffix, apsalar.com, 文明
 host-suffix, apxadtracking.net, 文明
 host-suffix, axonix.com, 文明
+# Baidu
+host, hm.baidu.com, 文明
+host, pos.baidu.com, 文明
 host-suffix, bayimob.com, 文明
 host-suffix, bjvvqu.cn, 文明
 host-suffix, bulldogcpi.com, 文明
@@ -240,12 +243,18 @@ host-suffix, smartadserver.com, 文明
 host-suffix, smartnews-ads.com, 文明
 host-suffix, supersonic.com, 文明
 host-suffix, supersonicads.com, 文明
+# > Tencent
+host, ios.bugly.qq.com, 文明
+host, pingma.qq.com, 文明
 host-suffix, tagtic.cn, 文明
 host-suffix, tanv.com, 文明
 host-suffix, tanx.com, 文明
 host-suffix, tapjoy.com, 文明
 host-suffix, trafficjunky.net, 文明
 host-suffix, turn.com, 文明
+# > Umeng
+host-suffix, umeng.com,文明
+host-suffix, umengcloud.com,文明
 host-suffix, uri6.com, 文明
 host-suffix, vidoomy.com, 文明
 host-suffix, vungle.com, 文明
@@ -300,13 +309,13 @@ host-suffix, ads.internal.unity3d.com, 文明
 host-suffix, ads.prd.ie.internal.unity3d.com, 文明
 host-suffix, unityads.unity3d.com, 文明
 # > Alibaba
-ip-cidr, 112.29.211.120/32, 文明
-ip-cidr, 203.119.206.64/32, 文明
-ip-cidr, 203.119.211.219/32, 文明
 host, amdc.m.taobao.com, 文明
 host, optimus-ads.amap.com, 文明
 host, optimus-ads.amap.com.w.alikunlun.com, 文明
 host, tunion-api.m.taobao.com, 文明
+ip-cidr, 112.29.211.120/32, 文明
+ip-cidr, 203.119.206.64/32, 文明
+ip-cidr, 203.119.211.219/32, 文明
 # > AutoHome
 host, adproxy.autohome.com.cn, 文明
 host, rd.autohome.com.cn, 文明
@@ -522,6 +531,8 @@ host, iyes.youku.com, 文明
 # > YouTube++
 host, ehg-youtube.hitbox.com,文明
 # (Z)
+# > 知到      
+host, app-advertise.zhihuishu.com, 文明
 # > ZOL
 host, apppv.zol.com.cn, 文明
 host, pvnapp.zol.com.cn, 文明

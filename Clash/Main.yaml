@@ -149,6 +149,9 @@ Rule:
   - DOMAIN-SUFFIX,aiclk.com,文明
   - DOMAIN-SUFFIX,akuai.top,文明
   - DOMAIN-SUFFIX,atplay.cn,文明
+# Baidu
+  - DOMAIN,hm.baidu.com,文明
+  - DOMAIN,pos.baidu.com,文明
   - DOMAIN-SUFFIX,baiwanchuangyi.com,文明
   - DOMAIN-SUFFIX,beerto.cn,文明
   - DOMAIN-SUFFIX,beilamusi.com,文明
@@ -369,12 +372,18 @@ Rule:
   - DOMAIN-SUFFIX,smartnews-ads.com,文明
   - DOMAIN-SUFFIX,supersonic.com,文明
   - DOMAIN-SUFFIX,supersonicads.com,文明
+# > Tencent
+  - DOMAIN,ios.bugly.qq.com,文明
+  - DOMAIN,pingma.qq.com,文明
   - DOMAIN-SUFFIX,tagtic.cn,文明
   - DOMAIN-SUFFIX,tanv.com,文明
   - DOMAIN-SUFFIX,tanx.com,文明
   - DOMAIN-SUFFIX,tapjoy.com,文明
   - DOMAIN-SUFFIX,trafficjunky.net,文明
   - DOMAIN-SUFFIX,turn.com,文明
+# > Umeng
+  - DOMAIN-SUFFIX,umeng.com,文明
+  - DOMAIN-SUFFIX,umengcloud.com,文明
   - DOMAIN-SUFFIX,uri6.com,文明
   - DOMAIN-SUFFIX,vidoomy.com,文明
   - DOMAIN-SUFFIX,vungle.com,文明
@@ -429,13 +438,13 @@ Rule:
   - DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com,文明
   - DOMAIN-SUFFIX,unityads.unity3d.com,文明
 # > Alibaba
-  - IP-CIDR,112.29.211.120/32,文明,no-resolve
-  - IP-CIDR,203.119.206.64/32,文明,no-resolve
-  - IP-CIDR,203.119.211.219/32,文明,no-resolve
   - DOMAIN,amdc.m.taobao.com,文明
   - DOMAIN,optimus-ads.amap.com,文明
   - DOMAIN,optimus-ads.amap.com.w.alikunlun.com,文明
   - DOMAIN,tunion-api.m.taobao.com,文明
+  - IP-CIDR,112.29.211.120/32,文明,no-resolve
+  - IP-CIDR,203.119.206.64/32,文明,no-resolve
+  - IP-CIDR,203.119.211.219/32,文明,no-resolve
 # > AutoHome
   - DOMAIN,adproxy.autohome.com.cn,文明
   - DOMAIN,rd.autohome.com.cn,文明
@@ -651,6 +660,8 @@ Rule:
 # > YouTube++
   - DOMAIN,ehg-youtube.hitbox.com,文明
 # (Z)
+# > 知到
+  - DOMAIN,app-advertise.zhihuishu.com,文明
 # > ZOL
   - DOMAIN,apppv.zol.com.cn,文明
   - DOMAIN,pvnapp.zol.com.cn,文明
@@ -1034,9 +1045,6 @@ Rule:
   - DOMAIN-SUFFIX,byteoversea.com,民主
   - DOMAIN-SUFFIX,faceu.mobi,民主
   - DOMAIN-SUFFIX,ibytedtos.com,民主
-# > Umeng
-  - DOMAIN,msg.umeng.com,民主
-  - DOMAIN,msg.umengcloud.com,民主
 # > YYeTs
   - DOMAIN-SUFFIX,zimuzu.io,民主
   - DOMAIN-SUFFIX,zimuzu.tv,民主

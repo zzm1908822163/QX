@@ -10,7 +10,7 @@ Maintained by <b>eHpo</b>
 
 ## 简介
 
-在党的新时代思想指导下维护去广告规则，为全面建成无广告环境努力奋斗。
+适合有一定基础能力的人员，配置文件中的策略组并不重要。
 
 * [适用](#适用)
     * Clash
@@ -19,10 +19,6 @@ Maintained by <b>eHpo</b>
     * Shadowrocket
     * Surge4
 * [策略组说明](#策略组)
-    * 富强 / 民主 / 文明
-    * 和谐 / 自由
-    * 平等 / 公正
-    * 法治 / 爱国 / 敬业 / 诚信 / 友善
 * [List说明](#List)
     * Liby / Tide
     * AsianMedia / GlobalMedia
@@ -51,18 +47,6 @@ Maintained by <b>eHpo</b>
 
 ## 策略组
 
-* 富强 / 民主 / 文明
-    * 默认代理 / 直连 / 拦截
-
-* 和谐 / 自由
-    * 分站细化规则（默认Apple / Speedtest）
-
-* 平等 / 公正
-    * 亚洲媒体 / 国际媒体
-
-* 法治 / 爱国 / 敬业 / 诚信 / 友善
-    * 科学分类
-
 >如果您觉得策略组不合口味可以直接订阅相应的list
 
 -------
@@ -75,6 +59,9 @@ Maintained by <b>eHpo</b>
 * Tide.list
     * 通过中间人攻击使用正则表达式实现对广告的精准打击，用汰渍没污渍。
 
+* /Sub
+    * 分站细化规则
+
 * AsianMedia.list / GlobalMedia.list
     * 亚洲媒体 / 国际媒体
 
@@ -83,9 +70,6 @@ Maintained by <b>eHpo</b>
 
 * Region.list
 	* LAN / GeoIP,CN
-
-* /Sub
-    * 分站细化规则
 
 -------
 

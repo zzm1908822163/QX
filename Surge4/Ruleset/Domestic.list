@@ -171,9 +171,6 @@ DOMAIN,file-igamecj.akamaized.net
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,faceu.mobi
 DOMAIN-SUFFIX,ibytedtos.com
-# > Umeng
-DOMAIN,msg.umeng.com
-DOMAIN,msg.umengcloud.com
 # > YYeTs
 USER-AGENT,YYeTs*
 DOMAIN-SUFFIX,zimuzu.io

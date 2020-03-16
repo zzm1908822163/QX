@@ -183,6 +183,9 @@ DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,apsalar.com
 DOMAIN-SUFFIX,apxadtracking.net
 DOMAIN-SUFFIX,axonix.com
+# Baidu
+DOMAIN,hm.baidu.com
+DOMAIN,pos.baidu.com
 DOMAIN-SUFFIX,bayimob.com
 DOMAIN-SUFFIX,bjvvqu.cn
 DOMAIN-SUFFIX,bulldogcpi.com
@@ -240,12 +243,18 @@ DOMAIN-SUFFIX,smartadserver.com
 DOMAIN-SUFFIX,smartnews-ads.com
 DOMAIN-SUFFIX,supersonic.com
 DOMAIN-SUFFIX,supersonicads.com
+# > Tencent
+DOMAIN,ios.bugly.qq.com
+DOMAIN,pingma.qq.com
 DOMAIN-SUFFIX,tagtic.cn
 DOMAIN-SUFFIX,tanv.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tapjoy.com
 DOMAIN-SUFFIX,trafficjunky.net
 DOMAIN-SUFFIX,turn.com
+# > Umeng
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,uri6.com
 DOMAIN-SUFFIX,vidoomy.com
 DOMAIN-SUFFIX,vungle.com
@@ -300,13 +309,13 @@ DOMAIN-SUFFIX,ads.internal.unity3d.com
 DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
 # > Alibaba
-IP-CIDR,112.29.211.120/32,no-resolve
-IP-CIDR,203.119.206.64/32,no-resolve
-IP-CIDR,203.119.211.219/32,no-resolve
 DOMAIN,amdc.m.taobao.com
 DOMAIN,optimus-ads.amap.com
 DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 DOMAIN,tunion-api.m.taobao.com
+IP-CIDR,112.29.211.120/32,no-resolve
+IP-CIDR,203.119.206.64/32,no-resolve
+IP-CIDR,203.119.211.219/32,no-resolve
 # > AutoHome
 DOMAIN,adproxy.autohome.com.cn
 DOMAIN,rd.autohome.com.cn
@@ -522,6 +531,8 @@ DOMAIN,iyes.youku.com
 # > YouTube++
 DOMAIN,ehg-youtube.hitbox.com
 # (Z)
+# > 知到
+DOMAIN,app-advertise.zhihuishu.com
 # > ZOL
 DOMAIN,apppv.zol.com.cn
 DOMAIN,pvnapp.zol.com.cn
