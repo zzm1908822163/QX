@@ -395,9 +395,6 @@ URL-REGEX,^https?:\/\/nochange\.ggsafe\.com\/ad\/
 URL-REGEX,^https?:\/\/thor\.weidian\.com\/ares\/home\.splash\/
 # > 华尔街见闻
 URL-REGEX,^https?:\/\/api\.wallstreetcn\.com\/apiv\d\/advertising\/
-# > 威锋
-URL-REGEX,^https?:\/\/api\.feng\.com\/v\d\/advertisement\/.*Claunch
-URL-REGEX,^https?:\/\/api\.feng\.com\/v1\/advertisement\/advList
 
 # X
 # > 新浪
