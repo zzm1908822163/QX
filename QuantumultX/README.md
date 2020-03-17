@@ -12,7 +12,10 @@ Maintained by <b>eHpo</b>
 
 >需打开MITM功能，然后安装并信任证书
 
-通过手动替换规则文本`[server_remote]`中的`https://www.example.com/example`替换为您的订阅链接（五处）。
+1. 下载配置文件  
+   `https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Main.conf`
+
+2. 替换配置文本`[server_remote]`中的`https://www.example.com/example`替换为您的订阅链接（五处）
 
 ![QuantumultX文本编辑](https://github.com/eHpo1/Rules/raw/master/.img/qxbj.JPG)
 
