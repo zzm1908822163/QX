@@ -13,7 +13,7 @@ Maintained by <b>eHpo</b>
 >需打开MITM功能，然后安装并信任证书
 
 添加远程配置  
-`https://raw.githubusercontent.com/eHpo1/Rules/master/Shadowrocket/Main.conf`
+<https://raw.githubusercontent.com/eHpo1/Rules/master/Shadowrocket/Main.conf>
 
 更多支持请查看 [Shadowrocket官方说明](https://github.com/Shadowrocket)
 

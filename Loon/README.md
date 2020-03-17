@@ -13,11 +13,11 @@ Maintained by <b>eHpo</b>
 >需打开MITM功能，然后安装并信任证书
 
 1. 从URL下载配置文件  
-   `https://raw.githubusercontent.com/eHpo1/Rules/master/Loon/Main.conf`
+   <https://raw.githubusercontent.com/eHpo1/Rules/master/Loon/Main.conf>
 
-2. 将配置文本`[Remote Proxy]`中的`https://www.example.com/example.txt`替换为您的订阅链接（两处）
+2. 继续编辑，将配置文本`[Remote Proxy]`中的`https://www.example.com/example1.txt`替换为您的订阅链接
  
-   ![Loon订阅](https://github.com/eHpo1/Rules/raw/master/.img/loondy.JPG)
+   ![Loon编辑](https://github.com/eHpo1/Rules/raw/master/.img/loonbj.JPG)
 
 3. 将配置文本`[Remote Filter]`中的四个`关键词`（各两处）替换为您所需的
 
