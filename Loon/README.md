@@ -10,8 +10,6 @@ Maintained by <b>eHpo</b>
 
 ## 使用方法
 
->需打开MITM功能，然后安装并信任证书
-
 1. 从URL下载配置文件  
    <https://raw.githubusercontent.com/eHpo1/Rules/master/Loon/Main.conf>
 
