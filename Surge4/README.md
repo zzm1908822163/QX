@@ -10,9 +10,11 @@ Maintained by <b>eHpo</b>
 
 ## 使用方法
 
->需打开MITM功能，然后安装并信任证书
+1. 开启Surge配置同步 - iCloud同步
 
-通过iOS [快捷指令](https://www.icloud.com/shortcuts/6130b2e96e2c4b4280f1015ca47dd724) 转换托管链接（筛选4个名称关键词），生成的六个文件全部保存在Surge目录下。
+2. 通过iOS [快捷指令](https://www.icloud.com/shortcuts/6130b2e96e2c4b4280f1015ca47dd724) 转换托管链接（筛选4个名称关键词），生成的六个文件全部保存在iCloud的Surge目录下。
+
+3. Surge首页 - 打开MitM开关 - 安装证书；然后到系统设置已下载描述文件 - 安装；最后系统设置 - 通用 - 关于本机 - 证书信任设置，信任刚才安装的证书
 
 ![Surge快捷指令](https://github.com/eHpo1/Rules/raw/master/.img/surgekjzl.JPG)
 
@@ -34,7 +36,7 @@ Maintained by <b>eHpo</b>
 
 * /Sub
     * 分站细化规则  
-	  https://github.com/eHpo1/Rules/tree/master/Surge4/Ruleset/Sub  
+	  <https://github.com/eHpo1/Rules/tree/master/Surge4/Ruleset/Sub>  
 
 * AsianMedia.list / GlobalMedia.list
     * 亚洲媒体 / 国际媒体  

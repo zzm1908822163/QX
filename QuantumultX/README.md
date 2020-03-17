@@ -19,6 +19,8 @@ Maintained by <b>eHpo</b>
 
 ![QuantumultX编辑](https://github.com/eHpo1/Rules/raw/master/.img/qxbj.JPG)
 
+3. 编辑配置 - HTPPS解密 - 打开开关 - 证书授权 - 密码右边感叹号 - 安装证书；然后到系统设置已下载描述文件 - 安装；最后系统设置 - 通用 - 关于本机 - 证书信任设置，信任刚才安装的证书
+
 更多支持请查看 [QuantumultX官方说明](https://github.com/crossutility/Quantumult-X)
 
 >还可以直接订阅相应的 [List](#List)
@@ -33,7 +35,7 @@ Maintained by <b>eHpo</b>
 
 * /Sub
     * 分站细化规则  
-	  https://github.com/eHpo1/Rules/tree/master/QuantumultX/Filter/Sub  
+	  <https://github.com/eHpo1/Rules/tree/master/QuantumultX/Filter/Sub>  
 	  
 * AsianMedia.list / GlobalMedia.list
     * 亚洲媒体 / 国际媒体  
