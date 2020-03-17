@@ -21,7 +21,7 @@ Maintained by <b>eHpo</b>
 
    ![Loon筛选](https://github.com/eHpo1/Rules/raw/master/.img/loonsx.JPG)
 
-4. 打开Loon的MITM开关 - 证书管理 - 安装CA证书；然后到系统设置已下载描述文件 - 安装；最后系统设置 - 通用 - 关于本机 - 证书信任设置，信任刚才安装的证书
+4. 打开Loon的MITM开关 - 证书管理 - 安装CA证书；然后到系统设置 - 已下载描述文件 - 安装；最后系统设置 - 通用 - 关于本机 - 证书信任设置，信任刚才安装的证书
 
 更多支持请查看 [Loon官方说明](https://github.com/Loon0x00/LoonManual)
 
