@@ -185,7 +185,7 @@ host-suffix, apxadtracking.net, AdBlock
 host-suffix, axonix.com, AdBlock
 # Baidu
 host, hm.baidu.com, AdBlock
-host, pos.baidu.com, AdBlock
+host-suffix, pos.baidu.com, AdBlock
 host-suffix, bayimob.com, AdBlock
 host-suffix, bjvvqu.cn, AdBlock
 host-suffix, bulldogcpi.com, AdBlock
@@ -298,7 +298,6 @@ host, mopnativeadv.037201.com, AdBlock
 host, nativeadv.dftoutiao.com, AdBlock
 host, oset-api.open-adx.com, AdBlock
 host, sdkauth.hpplay.cn, AdBlock
-host, sf3-ttcdn-tos.pstatp.com, AdBlock
 
 # (0~9)
 # > 58 同城
@@ -324,7 +323,6 @@ host, applogapi.autohome.com.cn, AdBlock
 # (B)
 # > Baidu
 host-suffix, cpro.baidu.com, AdBlock
-host-suffix, pos.baidu.com, AdBlock
 host, afd.baidu.com, AdBlock
 host, als.baidu.com, AdBlock
 host, duclick.baidu.com, AdBlock
@@ -533,6 +531,9 @@ host, ehg-youtube.hitbox.com,AdBlock
 # (Z)
 # > 知到      
 host, app-advertise.zhihuishu.com, AdBlock
+# > 字节跳动
+host, sf3-ttcdn-tos.pstatp.com, AdBlock
+host, sf6-ttcdn-tos.pstatp.com, AdBlock
 # > ZOL
 host, apppv.zol.com.cn, AdBlock
 host, pvnapp.zol.com.cn, AdBlock

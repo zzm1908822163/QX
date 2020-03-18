@@ -185,7 +185,7 @@ DOMAIN-SUFFIX,apxadtracking.net
 DOMAIN-SUFFIX,axonix.com
 # Baidu
 DOMAIN,hm.baidu.com
-DOMAIN,pos.baidu.com
+DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN-SUFFIX,bayimob.com
 DOMAIN-SUFFIX,bjvvqu.cn
 DOMAIN-SUFFIX,bulldogcpi.com
@@ -298,7 +298,6 @@ DOMAIN,mopnativeadv.037201.com
 DOMAIN,nativeadv.dftoutiao.com
 DOMAIN,oset-api.open-adx.com
 DOMAIN,sdkauth.hpplay.cn
-DOMAIN,sf3-ttcdn-tos.pstatp.com
 
 # (0~9)
 # > 58 同城
@@ -324,7 +323,6 @@ DOMAIN,applogapi.autohome.com.cn
 # (B)
 # > Baidu
 DOMAIN-SUFFIX,cpro.baidu.com
-DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN,afd.baidu.com
 DOMAIN,als.baidu.com
 DOMAIN,duclick.baidu.com
@@ -533,6 +531,9 @@ DOMAIN,ehg-youtube.hitbox.com
 # (Z)
 # > 知到
 DOMAIN,app-advertise.zhihuishu.com
+# > 字节跳动
+DOMAIN,sf3-ttcdn-tos.pstatp.com
+DOMAIN,sf6-ttcdn-tos.pstatp.com
 # > ZOL
 DOMAIN,apppv.zol.com.cn
 DOMAIN,pvnapp.zol.com.cn

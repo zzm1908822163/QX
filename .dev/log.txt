@@ -5,6 +5,10 @@ hostname: *.googlevideo.com
 regex: ^https?:\/\/.+\.googlevideo\.com\/.+(&oad|ctier)
 tips: 解析域名会导致Premium会员无法正常使用，我们选择了去除解析保留正则。
 
+# I
+# > Instagram
+tips:无法解析所有域名
+
 # Y
 # > 阅达教育
 hostname: www.hxeduonline.com

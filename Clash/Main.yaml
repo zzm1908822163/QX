@@ -149,9 +149,6 @@ Rule:
   - DOMAIN-SUFFIX,aiclk.com,AdBlock
   - DOMAIN-SUFFIX,akuai.top,AdBlock
   - DOMAIN-SUFFIX,atplay.cn,AdBlock
-# Baidu
-  - DOMAIN,hm.baidu.com,AdBlock
-  - DOMAIN,pos.baidu.com,AdBlock
   - DOMAIN-SUFFIX,baiwanchuangyi.com,AdBlock
   - DOMAIN-SUFFIX,beerto.cn,AdBlock
   - DOMAIN-SUFFIX,beilamusi.com,AdBlock
@@ -315,6 +312,9 @@ Rule:
   - DOMAIN-SUFFIX,apsalar.com,AdBlock
   - DOMAIN-SUFFIX,apxadtracking.net,AdBlock
   - DOMAIN-SUFFIX,axonix.com,AdBlock
+# Baidu
+  - DOMAIN,hm.baidu.com,AdBlock
+  - DOMAIN-SUFFIX,pos.baidu.com,AdBlock
   - DOMAIN-SUFFIX,bayimob.com,AdBlock
   - DOMAIN-SUFFIX,bjvvqu.cn,AdBlock
   - DOMAIN-SUFFIX,bulldogcpi.com,AdBlock
@@ -427,7 +427,6 @@ Rule:
   - DOMAIN,nativeadv.dftoutiao.com,AdBlock
   - DOMAIN,oset-api.open-adx.com,AdBlock
   - DOMAIN,sdkauth.hpplay.cn,AdBlock
-  - DOMAIN,sf3-ttcdn-tos.pstatp.com,AdBlock
 
 # (0~9)
 # > 58 同城
@@ -453,7 +452,6 @@ Rule:
 # (B)
 # > Baidu
   - DOMAIN-SUFFIX,cpro.baidu.com,AdBlock
-  - DOMAIN-SUFFIX,pos.baidu.com,AdBlock
   - DOMAIN,afd.baidu.com,AdBlock
   - DOMAIN,als.baidu.com,AdBlock
   - DOMAIN,duclick.baidu.com,AdBlock
@@ -662,6 +660,9 @@ Rule:
 # (Z)
 # > 知到
   - DOMAIN,app-advertise.zhihuishu.com,AdBlock
+# > 字节跳动
+  - DOMAIN,sf3-ttcdn-tos.pstatp.com,AdBlock
+  - DOMAIN,sf6-ttcdn-tos.pstatp.com,AdBlock
 # > ZOL
   - DOMAIN,apppv.zol.com.cn,AdBlock
   - DOMAIN,pvnapp.zol.com.cn,AdBlock
