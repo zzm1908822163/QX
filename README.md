@@ -8,9 +8,12 @@ Maintained by <b>eHpo</b>
 </p>
 
 
+
 ## 简介
 
-为去广告而努力奋斗，简约、极致。适合有一定基础的人员。
+为去广告而努力奋斗，简约、极致。
+主要维护 **Liby** 与 **Tide** 两个规则片段。
+适合有一定基础的人员。
 
 * [适用](#适用)
     * Clash
@@ -24,11 +27,14 @@ Maintained by <b>eHpo</b>
     * AsianMedia / GlobalMedia
     * Domestic / Global
     * Region
+* [常见问题](Q&A)
 * [关于](#关于)
 * [鸣谢](#特别鸣谢)
 * [License](#License)
 
+
 -------
+
 
 ## 适用
 
@@ -42,29 +48,50 @@ Maintained by <b>eHpo</b>
 | Shadowrocket | [官方](https://github.com/Shadowrocket) | [详请](https://github.com/eHpo1/Rules/blob/master/Shadowrocket/README.md) |
 | Surge4 | [官方](https://manual.nssurge.com) | [详请](https://github.com/eHpo1/Rules/blob/master/Surge4/README.md) |
 
+
 -------
+
 
 ## List
 
-* Liby.list
-    * 通过域名 / IP去广告
+### Liby.list
+* 通过域名 / IP去广告
 
-* Tide.list
-    * 通过中间人攻击使用正则表达式实现对广告的精准打击
+### Tide.list
+* 通过中间人攻击使用正则表达式实现对广告的精准打击
 
-* /Sub
-    * 分站细化规则
+### /Sub
+* 分站细化规则
 
-* AsianMedia.list / GlobalMedia.list
-    * 亚洲媒体 / 国际媒体
+### AsianMedia.list / GlobalMedia.list
+* 亚洲媒体 / 国际媒体
 
-* Domestic.list / Global.list
-    * 国内 / 国际常用网页
+### Domestic.list / Global.list
+* 国内 / 国际常用网页
 
-* Region.list
-	* LAN / GeoIP,CN
+### Region.list
+* LAN / GeoIP,CN
+
 
 -------
+
+
+## Q&A
+
+### 怎么使用？
+> ……我们也不知道。
+
+### 为什么使用了规则还是有广告？
+> 1. 检查证书文件有没有正确安装、信任，这个对于使用效果很关键。或者是应用在屏蔽之前就已经缓存好了广告，解决办法是清除缓存或者卸载重装应用。
+> 2. 可能去除广告会与正常功能冲突或者无法彻底屏蔽，发现有这类问题的应用我们都详细记载在了 [log](https://raw.githubusercontent.com/eHpo1/Rules/master/.dev/log.txt) 文件里，可以查阅一下。
+> 3. 规则在更新广告也在更新，精力有限，新出现的广告可能还没有来得及屏蔽，可以反馈给我们。
+
+### 好像CA证书是很重要的东西，信任后会不会有危害？
+> CA证书的确不能盲目信任，但我们可以保证我们完全不会对您进行任何不利的操作，软件也是仅对 HTTPS 流量进行解密，可放心使用。如果还是不放心的话可自行生成一份证书文件信任，效果是一样的。
+
+
+-------
+
 
 ## 关于
 
@@ -72,11 +99,13 @@ Maintained by <b>eHpo</b>
 
 * 如果您发现项目有需要改进的地方请通过 **提交Issue** 的方式对项目进行补充完善。
 
+
 -------
+
 
 ## 特别鸣谢
 
-* 众多帮助我与项目成长完善的人
+* 众多帮助我们与项目成长完善的人
 * [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR)
 * [Choler](https://github.com/Choler)
 * [***ConnersHua***](https://github.com/ConnersHua)
@@ -91,7 +120,9 @@ Maintained by <b>eHpo</b>
 * [onewayticket255](https://github.com/onewayticket255)
 * [yichahucha](https://github.com/yichahucha)
 
+
 -------
+
 
 ## License
 
@@ -103,7 +134,10 @@ Maintained by <b>eHpo</b>
 
 * 可使用、复制、修改、合并、散布、再许可本项目及项目的副本。禁商用。
 
+
 -------
+
+
 
 <h3 align="center">
 <p>感谢围观
