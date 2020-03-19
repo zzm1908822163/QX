@@ -255,6 +255,7 @@ host-suffix, turn.com, AdBlock
 # > Umeng
 host-suffix, umeng.com,AdBlock
 host-suffix, umengcloud.com,AdBlock
+host-suffix, umsns.com, AdBlock
 host-suffix, uri6.com, AdBlock
 host-suffix, vidoomy.com, AdBlock
 host-suffix, vungle.com, AdBlock
@@ -298,6 +299,8 @@ host, mopnativeadv.037201.com, AdBlock
 host, nativeadv.dftoutiao.com, AdBlock
 host, oset-api.open-adx.com, AdBlock
 host, sdkauth.hpplay.cn, AdBlock
+# Common
+host-suffix, mob.com, AdBlock
 
 # (0~9)
 # > 58 同城

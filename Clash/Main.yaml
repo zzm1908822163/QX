@@ -384,6 +384,7 @@ Rule:
 # > Umeng
   - DOMAIN-SUFFIX,umeng.com,AdBlock
   - DOMAIN-SUFFIX,umengcloud.com,AdBlock
+  - DOMAIN-SUFFIX,umsns.com,AdBlock
   - DOMAIN-SUFFIX,uri6.com,AdBlock
   - DOMAIN-SUFFIX,vidoomy.com,AdBlock
   - DOMAIN-SUFFIX,vungle.com,AdBlock
@@ -427,7 +428,9 @@ Rule:
   - DOMAIN,nativeadv.dftoutiao.com,AdBlock
   - DOMAIN,oset-api.open-adx.com,AdBlock
   - DOMAIN,sdkauth.hpplay.cn,AdBlock
-
+# Common
+  - DOMAIN-SUFFIX,mob.com,AdBlock
+  
 # (0~9)
 # > 58 同城
 # (A)
@@ -1245,6 +1248,7 @@ Rule:
   - DOMAIN-SUFFIX,tianyancha.com,Domestic
   - DOMAIN-SUFFIX,udacity.com,Domestic
   - DOMAIN-SUFFIX,uning.com,Domestic
+  - DOMAIN-SUFFIX,v2ex.com,Domestic
   - DOMAIN-SUFFIX,vmware.com,Domestic
   - DOMAIN-SUFFIX,weather.com,Domestic
   - DOMAIN-SUFFIX,weico.cc,Domestic

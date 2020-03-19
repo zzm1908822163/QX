@@ -255,6 +255,7 @@ DOMAIN-SUFFIX,turn.com
 # > Umeng
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,umsns.com
 DOMAIN-SUFFIX,uri6.com
 DOMAIN-SUFFIX,vidoomy.com
 DOMAIN-SUFFIX,vungle.com
@@ -298,6 +299,8 @@ DOMAIN,mopnativeadv.037201.com
 DOMAIN,nativeadv.dftoutiao.com
 DOMAIN,oset-api.open-adx.com
 DOMAIN,sdkauth.hpplay.cn
+# Common
+DOMAIN-SUFFIX,mob.com
 
 # (0~9)
 # > 58 同城
