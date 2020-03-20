@@ -126,6 +126,7 @@ Proxy Group:
     type: select
     proxies:
       - 1
+
 Rule:
 # Liby.list
 # Internet Service Providers Hijacking 运营商劫持
@@ -284,8 +285,27 @@ Rule:
   - IP-CIDR,220.115.251.25/32,AdBlock,no-resolve
   - IP-CIDR,222.73.156.235/32,AdBlock,no-resolve
 
+# Analytics 数据收集
+# >> Umeng
+  - DOMAIN-SUFFIX,umeng.com,AdBlock
+  - DOMAIN-SUFFIX,umengcloud.com,AdBlock
+  - DOMAIN-SUFFIX,umsns.com,AdBlock
+# > Appsflyer
+  - DOMAIN-SUFFIX,appsflyer.com,AdBlock
+# > Baidu
+  - DOMAIN,hpd.baidu.com,AdBlock
+  - DOMAIN,hm.baidu.com,AdBlock
+  - DOMAIN-SUFFIX,pos.baidu.com,AdBlock
+# > crashlytics
+  - DOMAIN-SUFFIX,crashlytics.com,AdBlock
+# > Tencent
+  - DOMAIN,ios.bugly.qq.com,AdBlock
+  - DOMAIN,pingma.qq.com,AdBlock
+# > Other
+  - DOMAIN-SUFFIX,mob.com,AdBlock
+
 # Advertising 广告
-# > Alliance
+# > General
   - DOMAIN-KEYWORD,adservice,AdBlock
   - DOMAIN-SUFFIX,ad.cmvideo.cn,AdBlock
   - DOMAIN-SUFFIX,ad.daum.net,AdBlock
@@ -308,13 +328,9 @@ Rule:
   - DOMAIN-SUFFIX,applift.com,AdBlock
   - DOMAIN-SUFFIX,applovin.com,AdBlock
   - DOMAIN-SUFFIX,applvn.com,AdBlock
-  - DOMAIN-SUFFIX,appsflyer.com,AdBlock
   - DOMAIN-SUFFIX,apsalar.com,AdBlock
   - DOMAIN-SUFFIX,apxadtracking.net,AdBlock
   - DOMAIN-SUFFIX,axonix.com,AdBlock
-# Baidu
-  - DOMAIN,hm.baidu.com,AdBlock
-  - DOMAIN-SUFFIX,pos.baidu.com,AdBlock
   - DOMAIN-SUFFIX,bayimob.com,AdBlock
   - DOMAIN-SUFFIX,bjvvqu.cn,AdBlock
   - DOMAIN-SUFFIX,bulldogcpi.com,AdBlock
@@ -372,19 +388,12 @@ Rule:
   - DOMAIN-SUFFIX,smartnews-ads.com,AdBlock
   - DOMAIN-SUFFIX,supersonic.com,AdBlock
   - DOMAIN-SUFFIX,supersonicads.com,AdBlock
-# > Tencent
-  - DOMAIN,ios.bugly.qq.com,AdBlock
-  - DOMAIN,pingma.qq.com,AdBlock
   - DOMAIN-SUFFIX,tagtic.cn,AdBlock
   - DOMAIN-SUFFIX,tanv.com,AdBlock
   - DOMAIN-SUFFIX,tanx.com,AdBlock
   - DOMAIN-SUFFIX,tapjoy.com,AdBlock
   - DOMAIN-SUFFIX,trafficjunky.net,AdBlock
   - DOMAIN-SUFFIX,turn.com,AdBlock
-# > Umeng
-  - DOMAIN-SUFFIX,umeng.com,AdBlock
-  - DOMAIN-SUFFIX,umengcloud.com,AdBlock
-  - DOMAIN-SUFFIX,umsns.com,AdBlock
   - DOMAIN-SUFFIX,uri6.com,AdBlock
   - DOMAIN-SUFFIX,vidoomy.com,AdBlock
   - DOMAIN-SUFFIX,vungle.com,AdBlock
@@ -428,9 +437,7 @@ Rule:
   - DOMAIN,nativeadv.dftoutiao.com,AdBlock
   - DOMAIN,oset-api.open-adx.com,AdBlock
   - DOMAIN,sdkauth.hpplay.cn,AdBlock
-# Common
-  - DOMAIN-SUFFIX,mob.com,AdBlock
-  
+
 # (0~9)
 # > 58 同城
 # (A)
@@ -680,7 +687,6 @@ Rule:
   - DOMAIN-SUFFIX,apple-cloudkit.com,Apple
   - DOMAIN-SUFFIX,appstore.com,Apple
   - DOMAIN-SUFFIX,cdn-apple.com,Apple
-  - DOMAIN-SUFFIX,crashlytics.com,Apple
   - DOMAIN-SUFFIX,icloud.com,Apple
   - DOMAIN-SUFFIX,icloud-content.com,Apple
   - DOMAIN-SUFFIX,me.com,Apple

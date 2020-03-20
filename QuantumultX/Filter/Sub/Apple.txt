@@ -5,7 +5,6 @@ host-suffix, apple.com, Apple
 host-suffix, apple-cloudkit.com, Apple
 host-suffix, appstore.com, Apple
 host-suffix, cdn-apple.com, Apple
-host-suffix, crashlytics.com, Apple
 host-suffix, icloud.com, Apple
 host-suffix, icloud-content.com, Apple
 host-suffix, me.com, Apple
