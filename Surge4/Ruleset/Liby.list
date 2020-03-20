@@ -155,8 +155,27 @@ IP-CIDR,211.161.101.106/32,no-resolve
 IP-CIDR,220.115.251.25/32,no-resolve
 IP-CIDR,222.73.156.235/32,no-resolve
 
+# Analytics 数据收集
+# >> Umeng
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,umsns.com
+# > Appsflyer
+DOMAIN-SUFFIX,appsflyer.com
+# > Baidu
+DOMAIN,hpd.baidu.com
+DOMAIN,hm.baidu.com
+DOMAIN-SUFFIX,pos.baidu.com
+# > crashlytics
+DOMAIN-SUFFIX,crashlytics.com
+# > Tencent
+DOMAIN,ios.bugly.qq.com
+DOMAIN,pingma.qq.com
+# > Other
+DOMAIN-SUFFIX,mob.com
+
 # Advertising 广告
-# > Alliance
+# > General
 DOMAIN-KEYWORD,adservice
 DOMAIN-SUFFIX,ad.cmvideo.cn
 DOMAIN-SUFFIX,ad.daum.net
@@ -179,13 +198,9 @@ DOMAIN-SUFFIX,appier.net
 DOMAIN-SUFFIX,applift.com
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,applvn.com
-DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,apsalar.com
 DOMAIN-SUFFIX,apxadtracking.net
 DOMAIN-SUFFIX,axonix.com
-# Baidu
-DOMAIN,hm.baidu.com
-DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN-SUFFIX,bayimob.com
 DOMAIN-SUFFIX,bjvvqu.cn
 DOMAIN-SUFFIX,bulldogcpi.com
@@ -243,19 +258,12 @@ DOMAIN-SUFFIX,smartadserver.com
 DOMAIN-SUFFIX,smartnews-ads.com
 DOMAIN-SUFFIX,supersonic.com
 DOMAIN-SUFFIX,supersonicads.com
-# > Tencent
-DOMAIN,ios.bugly.qq.com
-DOMAIN,pingma.qq.com
 DOMAIN-SUFFIX,tagtic.cn
 DOMAIN-SUFFIX,tanv.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tapjoy.com
 DOMAIN-SUFFIX,trafficjunky.net
 DOMAIN-SUFFIX,turn.com
-# > Umeng
-DOMAIN-SUFFIX,umeng.com
-DOMAIN-SUFFIX,umengcloud.com
-DOMAIN-SUFFIX,umsns.com
 DOMAIN-SUFFIX,uri6.com
 DOMAIN-SUFFIX,vidoomy.com
 DOMAIN-SUFFIX,vungle.com
@@ -299,8 +307,6 @@ DOMAIN,mopnativeadv.037201.com
 DOMAIN,nativeadv.dftoutiao.com
 DOMAIN,oset-api.open-adx.com
 DOMAIN,sdkauth.hpplay.cn
-# Common
-DOMAIN-SUFFIX,mob.com
 
 # (0~9)
 # > 58 同城
