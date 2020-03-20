@@ -619,6 +619,9 @@ Rule:
   - DOMAIN,wa.gtimg.com,AdBlock
   - DOMAIN,wxsnsdy.wxs.qq.com,AdBlock
   - DOMAIN,wxsnsdythumb.wxs.qq.com,AdBlock
+# >> 体育
+  - DOMAIN,dp3.qq.com,AdBlock
+  - DOMAIN,lives.l.qq.com,AdBlock
 # > The Paper
   - DOMAIN,admonitor.thepaper.cn,AdBlock
   - DOMAIN,adpai.thepaper.cn,AdBlock

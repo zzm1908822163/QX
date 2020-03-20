@@ -490,6 +490,9 @@ host, splashqqlive.gtimg.com, AdBlock
 host, wa.gtimg.com, AdBlock
 host, wxsnsdy.wxs.qq.com, AdBlock
 host, wxsnsdythumb.wxs.qq.com, AdBlock
+# >>体育
+host, dp3.qq.com, AdBlock
+host, lives.l.qq.com, AdBlock
 # > The Paper
 host, admonitor.thepaper.cn, AdBlock
 host, adpai.thepaper.cn, AdBlock
