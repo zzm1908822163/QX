@@ -80,6 +80,8 @@ URL-REGEX,^https?:\/\/cntv\.hls\.cdn\.myqcloud\.com\/.+\?maxbr=850
 URL-REGEX,^https?:\/\/asp\.cntv\.myalicdn\.com\/.+\?maxbr=850
 URL-REGEX,^https?:\/\/www\.cntv\.cn\/nettv\/adp\/
 URL-REGEX,^https?:\/\/v\.cctv\.com\/.+850
+# > CSDN
+URL-REGEX,^https:\/\/gw\.csdn\.net\/cms-app\/v2\/home_page\/open_advertisement
 # > 车来了
 URL-REGEX,^https?:\/\/api\.chelaile\.net\.cn\/adpub\/
 # URL-REGEX,^https?:\/\/(api|atrace)\.chelaile\.net\.cn\/adpub\/
