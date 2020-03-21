@@ -460,6 +460,11 @@ DOMAIN,cdn.adapi.fotoable.com
 # > PeanutWiFiMpass
 DOMAIN,adnew.wifi8.com
 DOMAIN,adfile.wifi8.com
+# (Q)
+# > 汽车之家
+DIMAIN,adproxy.autohome.com.cn
+IP-CIDR,103.75.152.210/32,no-resolve
+IP-CIDR,103.75.153.3/32,no-resolve
 # (R)
 # > 人人影视字幕组
 DOMAIN,tu.cvnad.com

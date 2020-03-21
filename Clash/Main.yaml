@@ -578,6 +578,11 @@ Rule:
   - DOMAIN,nex.163.com,AdBlock
   - DOMAIN,yt-adp.nosdn.127.net,AdBlock
   - DOMAIN,yt-adp.ws.126.net,AdBlock
+# (Q)
+# > 汽车之家
+  - DIMAIN,adproxy.autohome.com.cn,AdBlock
+  - IP-CIDR,103.75.152.210/32,AdBlock,no-resolve
+  - IP-CIDR,103.75.153.3/32,AdBlock,no-resolve
 # (P)
 # > PPTV
   - DOMAIN,ads.aplus.pptv.com,AdBlock

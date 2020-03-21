@@ -31,6 +31,8 @@ URL-REGEX,^https?:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/
 URL-REGEX,^https?:\/\/.+\.mp4\?ccode=0902
 URL-REGEX,^https?:\/\/.+\.mp4\?sid=
 URL-REGEX,^https?:\/\/vali\.cp31\.ott\.cibntv\.net\/youku\/.+\.mp4\?sid=
+# >> 手机天猫
+URL-REGEX,^https:\/\/gw\.alicdn\.com\/tfs\/TB1_.+750-\d{4} url reject-200
 # > AcFun
 URL-REGEX,^https?:\/\/aes\.acfun\.cn\/s\?adzones
 # > 爱回收

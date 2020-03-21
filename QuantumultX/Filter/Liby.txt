@@ -460,6 +460,11 @@ host, cdn.adapi.fotoable.com, AdBlock
 # > PeanutWiFiMpass
 host, adnew.wifi8.com, AdBlock
 host, adfile.wifi8.com, AdBlock
+# (Q)
+# > 汽车之家
+host, adproxy.autohome.com.cn, AdBlock
+ip-cidr, 103.75.152.210/32, AdBlock
+ip-cidr, 103.75.153.3/32, AdBlock
 # (R)
 # > 人人影视字幕组
 host, tu.cvnad.com, AdBlock
