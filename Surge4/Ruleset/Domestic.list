@@ -80,6 +80,8 @@ DOMAIN-SUFFIX,czybjz.com
 DOMAIN-SUFFIX,dandanzan.com
 DOMAIN-SUFFIX,fjhps.com
 DOMAIN-SUFFIX,kuyunbo.club
+# > Gameloft
+DOMAIN-SUFFIX,gameloft.com
 # > Google
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN,dl.google.com
@@ -100,6 +102,9 @@ DOMAIN-SUFFIX,360buyimg.com
 # > Kingsoft
 DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,ksosoft.com
+# > 漫画柜
+DOMAIN-SUFFIX,hamreus.com
+DOMAIN-SUFFIX,manhuagui.com
 # > Meitu
 DOMAIN-SUFFIX,meitu.com
 DOMAIN-SUFFIX,meitudata.com
@@ -119,6 +124,7 @@ DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,sharepoint.com
 # > NetEase
 USER-AGENT,NeteaseMusic*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*

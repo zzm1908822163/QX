@@ -982,6 +982,8 @@ Rule:
   - DOMAIN-SUFFIX,dandanzan.com,Domestic
   - DOMAIN-SUFFIX,fjhps.com,Domestic
   - DOMAIN-SUFFIX,kuyunbo.club,Domestic
+# > Gameloft
+  - DOMAIN-SUFFIX,gameloft.com,Domestic
 # > Google
   - DOMAIN-SUFFIX,googletraveladservices.com,Domestic
   - DOMAIN,dl.google.com,Domestic
@@ -998,6 +1000,9 @@ Rule:
 # > Kingsoft
   - DOMAIN-SUFFIX,iciba.com,Domestic
   - DOMAIN-SUFFIX,ksosoft.com,Domestic
+# > 漫画柜
+  - DOMAIN-SUFFIX,hamreus.com,Domestic
+  - DOMAIN-SUFFIX,manhuagui.com,Domestic
 # > Meitu
   - DOMAIN-SUFFIX,meitu.com,Domestic
   - DOMAIN-SUFFIX,meitudata.com,Domestic
@@ -1017,6 +1022,7 @@ Rule:
   - DOMAIN-SUFFIX,windows.com,Domestic
   - DOMAIN-SUFFIX,windows.net,Domestic
   - DOMAIN-SUFFIX,windowsupdate.com,Domestic
+  - DOMAIN-SUFFIX,sharepoint.com,Domestic
 # > NetEase
   - DOMAIN-SUFFIX,163.com,Domestic
   - DOMAIN-SUFFIX,126.net,Domestic
@@ -1287,6 +1293,7 @@ Rule:
   - DOMAIN-SUFFIX,appspot.com,Global
   - DOMAIN-SUFFIX,blogger.com,Global
   - DOMAIN-SUFFIX,getoutline.org,Global
+  - DOMAIN-SUFFIX,googleapis.cn,Global
   - DOMAIN-SUFFIX,gvt0.com,Global
   - DOMAIN-SUFFIX,gvt1.com,Global
   - DOMAIN-SUFFIX,gvt3.com,Global

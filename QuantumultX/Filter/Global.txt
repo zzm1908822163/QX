@@ -5,6 +5,7 @@ host-suffix, ampproject.org, Global
 host-suffix, appspot.com, Global
 host-suffix, blogger.com, Global
 host-suffix, getoutline.org, Global
+host-suffix, googleapis.cn, Global
 host-suffix, gvt0.com, Global
 host-suffix, gvt1.com, Global
 host-suffix, gvt3.com, Global

@@ -81,6 +81,8 @@ host-suffix, czybjz.com, Domestic
 host-suffix, dandanzan.com, Domestic
 host-suffix, fjhps.com, Domestic
 host-suffix, kuyunbo.club, Domestic
+# > Gameloft
+host-suffix, gameloft.com, Domestic
 # > Google
 host-suffix, googletraveladservices.com, Domestic
 host, dl.google.com, Domestic
@@ -101,6 +103,9 @@ host-suffix, 360buyimg.com, Domestic
 # > Kingsoft
 host-suffix, iciba.com, Domestic
 host-suffix, ksosoft.com, Domestic
+# > 漫画柜
+host-suffix, hamreus.com, Domestic
+host-suffix, manhuagui.com, Domestic
 # > Meitu
 host-suffix, meitu.com, Domestic
 host-suffix, meitudata.com, Domestic
@@ -120,6 +125,7 @@ host-suffix, outlook.com, Domestic
 host-suffix, windows.com, Domestic
 host-suffix, windows.net, Domestic
 host-suffix, windowsupdate.com, Domestic
+host-suffix, sharepoint.com, Domestic
 # > NetEase
 user-agent, NeteaseMusic*, Domestic
 user-agent, %E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*, Domestic
