@@ -12,14 +12,17 @@ URL-REGEX,^https?:\/\/app\.58\.com\/api\/log\/
 URL-REGEX,^https?:\/\/.+\.58cdn\.com\.cn\/brandads\/
 
 # A
-# > 阿里巴巴
+# > 阿里
 URL-REGEX,^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.tmall\.wireless
+# >> 1688
 URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alibaba\.advertisementservice\.getadv
-URL-REGEX,^https?:\/\/(gw|heic)\.alicdn\.com\/tfs\/.*\d{4}-\d{4}\/[a-z]{3}$
 # >> 闲鱼
 URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.taobao\.idle\.home\.welcome\/
 # >> 飞猪
 URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.trip\.activity\.querytmsresources\/
+# >> 淘宝
+URL-REGEX,^https?:\/\/heic\.alicdn\.com\/tps\/i4\/.+\.jpg_1200x1200q90\.jpg_\.heic$
+URL-REGEX,^https?:\/\/gw\.alicdn\.com\/tfs\/.*\d{4}-\d{4}\/[a-z]{3}$
 # >> 淘票票
 URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.queryadvertise\/
 # >> 口碑
