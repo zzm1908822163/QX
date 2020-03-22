@@ -156,6 +156,35 @@ IP-CIDR,220.115.251.25/32,no-resolve
 IP-CIDR,222.73.156.235/32,no-resolve
 
 # Analytics 数据收集
+# > Ali
+DOMAIN,acs4baichuan.m.taobao.com
+DOMAIN,adash.m.taobao.com
+DOMAIN,adashbc.m.taobao.com
+DOMAIN,adashbc.ut.taobao.com
+DOMAIN,adashx.m.taobao.com
+DOMAIN,adashxgc.ut.taobao.com
+DOMAIN,agoodm.m.taobao.com
+DOMAIN,ai.taobao.com
+DOMAIN,ai.m.taobao.com
+DOMAIN,api.waptest.taobao.com
+DOMAIN,apoll.m.taobao.com
+DOMAIN,c-adash.m.taobao.com
+DOMAIN,h-adashx.ut.taobao.com
+DOMAIN,m-adash.m.taobao.com
+DOMAIN,nbsdk-baichuan.taobao.com
+DOMAIN,pics.taobaocdn.com
+DOMAIN,pindao.huoban.taobao.com
+DOMAIN,re.taobao.com
+DOMAIN,re.m.taobao.com
+DOMAIN,rj.m.taobao.com
+DOMAIN,sdkinit.taobao.com
+DOMAIN,show.re.taobao.com
+DOMAIN,simaba.taobao.com
+DOMAIN,strip.taobaocdn.com
+DOMAIN,temai.taobao.com
+DOMAIN,tunion-api.m.taobao.com
+DOMAIN,unitacs.m.taobao.com
+DOMAIN,w.m.taobao.com
 # >> Umeng
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
@@ -329,6 +358,8 @@ DOMAIN,adproxy.autohome.com.cn
 DOMAIN,rd.autohome.com.cn
 DOMAIN,al.autohome.com.cn
 DOMAIN,applogapi.autohome.com.cn
+IP-CIDR,103.75.152.210/32,no-resolve
+IP-CIDR,103.75.153.3/32,no-resolve
 # (B)
 # > Baidu
 DOMAIN-SUFFIX,cpro.baidu.com
@@ -460,11 +491,6 @@ DOMAIN,cdn.adapi.fotoable.com
 # > PeanutWiFiMpass
 DOMAIN,adnew.wifi8.com
 DOMAIN,adfile.wifi8.com
-# (Q)
-# > 汽车之家
-DIMAIN,adproxy.autohome.com.cn
-IP-CIDR,103.75.152.210/32,no-resolve
-IP-CIDR,103.75.153.3/32,no-resolve
 # (R)
 # > 人人影视字幕组
 DOMAIN,tu.cvnad.com

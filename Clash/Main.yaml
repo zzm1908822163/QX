@@ -286,6 +286,35 @@ Rule:
   - IP-CIDR,222.73.156.235/32,AdBlock,no-resolve
 
 # Analytics 数据收集
+# > Ali
+  - DOMAIN,acs4baichuan.m.taobao.com,AdBlock
+  - DOMAIN,adash.m.taobao.com,AdBlock
+  - DOMAIN,adashbc.m.taobao.com,AdBlock
+  - DOMAIN,adashbc.ut.taobao.com,AdBlock
+  - DOMAIN,adashx.m.taobao.com,AdBlock
+  - DOMAIN,adashxgc.ut.taobao.com,AdBlock
+  - DOMAIN,agoodm.m.taobao.com,AdBlock
+  - DOMAIN,ai.taobao.com,AdBlock
+  - DOMAIN,ai.m.taobao.com,AdBlock
+  - DOMAIN,api.waptest.taobao.com,AdBlock
+  - DOMAIN,apoll.m.taobao.com,AdBlock
+  - DOMAIN,c-adash.m.taobao.com,AdBlock
+  - DOMAIN,h-adashx.ut.taobao.com,AdBlock
+  - DOMAIN,m-adash.m.taobao.com,AdBlock
+  - DOMAIN,nbsdk-baichuan.taobao.com,AdBlock
+  - DOMAIN,pics.taobaocdn.com,AdBlock
+  - DOMAIN,pindao.huoban.taobao.com,AdBlock
+  - DOMAIN,re.taobao.com,AdBlock
+  - DOMAIN,re.m.taobao.com,AdBlock
+  - DOMAIN,rj.m.taobao.com,AdBlock
+  - DOMAIN,sdkinit.taobao.com,AdBlock
+  - DOMAIN,show.re.taobao.com,AdBlock
+  - DOMAIN,simaba.taobao.com,AdBlock
+  - DOMAIN,strip.taobaocdn.com,AdBlock
+  - DOMAIN,temai.taobao.com,AdBlock
+  - DOMAIN,tunion-api.m.taobao.com,AdBlock
+  - DOMAIN,unitacs.m.taobao.com,AdBlock
+  - DOMAIN,w.m.taobao.com,AdBlock
 # >> Umeng
   - DOMAIN-SUFFIX,umeng.com,AdBlock
   - DOMAIN-SUFFIX,umengcloud.com,AdBlock
@@ -459,6 +488,8 @@ Rule:
   - DOMAIN,rd.autohome.com.cn,AdBlock
   - DOMAIN,al.autohome.com.cn,AdBlock
   - DOMAIN,applogapi.autohome.com.cn,AdBlock
+  - IP-CIDR,103.75.152.210/32,AdBlock,no-resolve
+  - IP-CIDR,103.75.153.3/32,AdBlock,no-resolve
 # (B)
 # > Baidu
   - DOMAIN-SUFFIX,cpro.baidu.com,AdBlock
@@ -578,11 +609,6 @@ Rule:
   - DOMAIN,nex.163.com,AdBlock
   - DOMAIN,yt-adp.nosdn.127.net,AdBlock
   - DOMAIN,yt-adp.ws.126.net,AdBlock
-# (Q)
-# > 汽车之家
-  - DIMAIN,adproxy.autohome.com.cn,AdBlock
-  - IP-CIDR,103.75.152.210/32,AdBlock,no-resolve
-  - IP-CIDR,103.75.153.3/32,AdBlock,no-resolve
 # (P)
 # > PPTV
   - DOMAIN,ads.aplus.pptv.com,AdBlock
