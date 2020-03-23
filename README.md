@@ -12,7 +12,9 @@ Maintained by <b>eHpo</b>
 ## 简介
 
 为去广告而努力奋斗，简约、极致。
-主要维护 **Liby** 与 **Tide** 两个规则片段。
+
+主要维护 **Liby** 与 **Tide** 两个规则片段。包含部分运营商劫持屏蔽、部分数据收集屏蔽、大量应用内广告屏蔽。
+
 适合有一定基础的人员。
 
 * [适用](#适用)
@@ -21,9 +23,10 @@ Maintained by <b>eHpo</b>
     * QuantumultX
     * Shadowrocket
     * Surge4
-* [List说明](#List)
+* [List 顺序、说明](#List顺序、说明)
     * Liby / Tide
     * /Sub
+    * Apple_API / Apple_CDN
     * AsianMedia / GlobalMedia
     * Domestic / Global
     * Region
@@ -38,7 +41,7 @@ Maintained by <b>eHpo</b>
 
 ## 适用
 
->需要一定动手能力，如果您有不明白的地方可以详细查看工具的官方说明。
+> 需要一定动手能力，如果您有不明白的地方可以详细查看工具的官方说明。
 
 | 工具 | 配置说明文档 | 使用方法点击查看详情 |
 | :-: | :-: | :-: |
@@ -52,25 +55,41 @@ Maintained by <b>eHpo</b>
 -------
 
 
-## List
+## List 顺序、说明
 
 ### Liby.list
+
 * 通过域名 / IP去广告
 
 ### Tide.list
+
 * 通过中间人攻击使用正则表达式实现对广告的精准打击
 
 ### /Sub
+
 * 分站细化规则
 
+### Apple_API / Apple_CDN
+
+> [苹果服务的连接策略推荐](https://blog.dada.li/2019/better-proxy-rules-for-apple-services) @geekdada
+
+* API 服务类  
+  购买、发起下载、iCloud 同步（含上传和下载）、Siri
+
+* CDN 资源类  
+  App 实体文件、Apple Music 音乐文件
+
 ### AsianMedia.list / GlobalMedia.list
+
 * 亚洲媒体 / 国际媒体
 
 ### Domestic.list / Global.list
+
 * 国内 / 国际常用网页
 
 ### Region.list
-* LAN / GeoIP,CN
+
+* 用于修正规则，包含 / Apple.list / LAN / GeoIP,CN
 
 
 -------
@@ -79,14 +98,17 @@ Maintained by <b>eHpo</b>
 ## Q&A
 
 ### 怎么使用？
+
 > ……我们也不知道。
 
 ### 为什么使用了规则还是有广告？
+
 > 1. 检查证书文件有没有正确安装、信任，这个对于使用效果很关键。或者是应用在屏蔽之前就已经缓存好了广告，解决办法是清除缓存或者卸载重装应用。
 > 2. 可能去除广告会与正常功能冲突或者无法彻底屏蔽，发现有这类问题的应用我们都详细记载在了 [Notes](https://raw.githubusercontent.com/eHpo1/Rules/master/.dev/Notes.txt) 文件里，可以查阅一下。
 > 3. 规则在更新广告也在更新，精力有限，新出现的广告可能还没有来得及屏蔽，可以反馈给我们。
 
 ### 好像CA证书是很重要的东西，信任后会不会有危害？
+
 > CA证书的确不能盲目信任，但我们可以保证我们完全不会对您进行任何不利的操作，软件也是仅对 HTTPS 流量进行解密，可放心使用。如果还是不放心的话可自行生成一份证书文件信任，效果是一样的。
 
 
@@ -110,6 +132,7 @@ Maintained by <b>eHpo</b>
 * [Choler](https://github.com/Choler)
 * [***ConnersHua***](https://github.com/ConnersHua)
 * [gaoyifan](https://github.com/gaoyifan)
+* [geekdada](https://github.com/geekdada)
 * [GeQ1an](https://github.com/GeQ1an)
 * [h2y](https://github.com/h2y)
 * [Hackl0us](https://github.com/Hackl0us)

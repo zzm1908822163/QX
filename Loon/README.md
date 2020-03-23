@@ -12,6 +12,7 @@ Maintained by <b>eHpo</b>
 ## 使用方法
 
 1. 从URL下载配置文件
+
 	<https://raw.githubusercontent.com/eHpo1/Rules/master/Loon/Main.conf>
 
 2. 继续编辑，将配置文本`[Remote Proxy]`中的`https://www.example.com/example1.txt`替换为您的订阅链接
@@ -26,8 +27,6 @@ Maintained by <b>eHpo</b>
 
 更多支持请查看 [Loon官方说明](https://github.com/Loon0x00/LoonManual)
 
->还可以直接订阅相应的 [List](#List)
-
 
 -------
 
@@ -35,6 +34,7 @@ Maintained by <b>eHpo</b>
 ## List
 
 ### Liby.list
+
 * 通过域名 / IP去广告
 
 ```
@@ -42,6 +42,7 @@ https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Liby.list
 ```
 
 ### Tide.list
+
 * 通过中间人攻击使用正则表达式实现对广告的精准打击
 
 ```
@@ -49,11 +50,31 @@ https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Tide.list
 ```
 
 ### /Sub
+
 * 分站细化规则
 
 <https://github.com/eHpo1/Rules/tree/master/Surge4/Ruleset/Sub>
 
+### Apple_API.list / Apple_CDN.list
+
+> [苹果服务的连接策略推荐](https://blog.dada.li/2019/better-proxy-rules-for-apple-services) @geekdada
+
+* API 服务类  
+  购买、发起下载、iCloud 同步（含上传和下载）、Siri
+
+```
+https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Apple_API.list
+```
+
+* CDN 资源类  
+  App 实体文件、Apple Music 音乐文件
+
+```
+https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Apple_CDN.list
+```
+
 ### AsianMedia.list / GlobalMedia.list
+
 * 亚洲媒体 / 国际媒体
 
 ```
@@ -62,6 +83,7 @@ https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/GlobalMedia.
 ```
 
 ### Domestic.list / Global.list
+
 * 国内 / 国际常用网页
 
 ```
@@ -70,7 +92,8 @@ https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Global.list
 ```
 
 ### Region.list
-* LAN / GeoIP,CN
+
+* 用于修正规则，包含 / Apple.list / LAN / GeoIP,CN
 
 ```
 https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Region.list

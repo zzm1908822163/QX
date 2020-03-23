@@ -5,9 +5,11 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 
+
 experimental:
   ignore-resolve-fail: true
   interface-name: 
+
 
 dns:
   enable: true
@@ -35,6 +37,7 @@ dns:
     ipcidr:
       - 240.0.0.0/4
 
+
 Proxy:
   - name: "1"
     type: 0000
@@ -45,6 +48,8 @@ Proxy:
     udp: 0000
     obfs: 0000
     obfs-host: 0.0.0.0
+
+
 Proxy Group:
   - name: "Global"
     type: select
@@ -66,7 +71,7 @@ Proxy Group:
       - REJECT
       - Global
       - Domestic
-  - name: "Apple"
+  - name: "Apple_API"
     type: select
     proxies:
       - Domestic
@@ -76,16 +81,11 @@ Proxy Group:
       - Proxy3
       - Proxy4
       - Proxy5
-  - name: "Speedtest"
+  - name: "Apple_CDN"
     type: select
     proxies:
       - Domestic
-      - Global
-      - Proxy1
-      - Proxy2
-      - Proxy3
-      - Proxy4
-      - Proxy5
+      - Apple_API
   - name: "AsianMedia"
     type: select
     proxies:
@@ -126,6 +126,7 @@ Proxy Group:
     type: select
     proxies:
       - 1
+
 
 Rule:
 # Liby.list
@@ -714,23 +715,32 @@ Rule:
   - DOMAIN,apppv.zol.com.cn,AdBlock
   - DOMAIN,pvnapp.zol.com.cn,AdBlock
 
-# Apple.list
-  - DOMAIN-SUFFIX,aaplimg.com,Apple
-  - DOMAIN-SUFFIX,apple.co,Apple
-  - DOMAIN-SUFFIX,apple.com,Apple
-  - DOMAIN-SUFFIX,apple-cloudkit.com,Apple
-  - DOMAIN-SUFFIX,appstore.com,Apple
-  - DOMAIN-SUFFIX,cdn-apple.com,Apple
-  - DOMAIN-SUFFIX,icloud.com,Apple
-  - DOMAIN-SUFFIX,icloud-content.com,Apple
-  - DOMAIN-SUFFIX,me.com,Apple
-  - DOMAIN-SUFFIX,mzstatic.com,Apple
-  - DOMAIN,www-cdn.icloud.com.akadns.net,Apple
+# Apple_API.list
+  - DOMAIN,apps.apple.com,Apple_API
+  - DOMAIN,xp.apple.com,Apple_API
+  - DOMAIN,bag.itunes.apple.com,Apple_API
+  - DOMAIN,api-edge.apps.apple.com,Apple_API
+  - DOMAIN,api.apps.apple.com,Apple_API
+  - DOMAIN,play.itunes.apple.com,Apple_API
+  - DOMAIN,se.itunes.apple.com,Apple_API
+  - DOMAIN,se-edge.itunes.apple.com,Apple_API
+  - DOMAIN,su.itunes.apple.com,Apple_API
+  - DOMAIN,testflight.apple.com,Apple_API
+  - DOMAIN,upp.itunes.apple.com,Apple_API
+  - DOMAIN,beta.music.apple.com,Apple_API
+  - DOMAIN-KEYWORD,buy.itunes.apple.com,Apple_API
 
-# Speedtest.list
-# > Speedtest
-  - DOMAIN-KEYWORD,speedtest,Speedtest
-  - DOMAIN-SUFFIX,ooklaserver.net,Speedtest
+# Apple_CDN.list
+# > App Store
+  - DOMAIN-SUFFIX,mzstatic.com,Apple_CDN
+  - DOMAIN,iosapps.itunes.apple.com,Apple_CDN
+  - DOMAIN,osxapps.itunes.apple.com,Apple_CDN
+# > Update
+  - DOMAIN,supportdownload.apple.com,Apple_CDN
+  - DOMAIN,appldnld.apple.com,Apple_CDN
+  - DOMAIN,swcdn.apple.com,Apple_CDN
+  - DOMAIN,apptrailers.itunes.apple.com,Apple_CDN
+  - DOMAIN,updates-http.cdn-apple.com,Apple_CDN
 
 # AsianMedia.list
 # > Bilibili
@@ -1120,6 +1130,9 @@ Rule:
   - DOMAIN-SUFFIX,ipv6-test.com,Domestic
   - DOMAIN-SUFFIX,test-ipv6.com,Domestic
   - DOMAIN-SUFFIX,whatismyip.com,Domestic
+# > SpeedTest
+  - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-SUFFIX,ooklaserver.net
 # > Private Tracker
   - DOMAIN-SUFFIX,awesome-hd.me,Domestic
   - DOMAIN-SUFFIX,broadcasthe.net,Domestic
@@ -1275,6 +1288,7 @@ Rule:
   - DOMAIN-SUFFIX,mubu.com,Domestic
   - DOMAIN-SUFFIX,myzaker.com,Domestic
   - DOMAIN-SUFFIX,nim-lang-cn.org,Domestic
+  - DOMAIN-SUFFIX,novipnoad.com,Domestic
   - DOMAIN-SUFFIX,nvidia.com,Domestic
   - DOMAIN-SUFFIX,oracle.com,Domestic
   - DOMAIN-SUFFIX,qdaily.com,Domestic
@@ -1752,22 +1766,20 @@ Rule:
   - DOMAIN-SUFFIX,zattoo.com,Global
 
 # (The Most Popular Sites)
-# > Apple
-# >> TestFlight
-  - DOMAIN,testflight.apple.com,Global
-# >> Apple URL Shortener
-  - DOMAIN-SUFFIX,appsto.re,Global
+# > Apple Non-China CDN
+  - DOMAIN-SUFFIX,hls.itunes.apple.com,Global
+# >> Developer
+  - DOMAIN,devimages-cdn.apple.com,Global
+  - DOMAIN,devstreaming-cdn.apple.com,Global
+  - DOMAIN,js-cdn.music.apple.,Global
 # >> iBooks Store download
   - DOMAIN,books.itunes.apple.com,Global
-# >> iTunes Store Moveis Trailers
-  - DOMAIN,hls.itunes.apple.com,Global
-# >> App Store Preview
-  - DOMAIN,apps.apple.com,Global
-  - DOMAIN,itunes.apple.com,Global
-# >> Spotlight
-  - DOMAIN,api-glb-sea.smoot.apple.com,Global
-# >> Dictionary
-  - DOMAIN,lookup-api.apple.com,Global
+# >> iTunes Music Stream
+  - DOMAIN-SUFFIX,audio-ssl.itunes.apple.com,Global
+  - DOMAIN-SUFFIX,cdn-apple.com,Global
+  - DOMAIN,cdn.apple-cloudkit.com,Global
+# >> Movie Stream
+  - DOMAIN-SUFFIX,hls-amt.itunes.apple.com,Global
 # > Google
   - DOMAIN-SUFFIX,abc.xyz,Global
   - DOMAIN-SUFFIX,android.com,Global
@@ -1887,6 +1899,15 @@ Rule:
   - DOMAIN,store.steampowered.com,Global
   
 # Region.list
+# > Apple
+  - DOMAIN-SUFFIX,aaplimg.com,Domestic
+  - DOMAIN-SUFFIX,apple.co,Domestic
+  - DOMAIN-SUFFIX,apple.com,Domestic
+  - DOMAIN-SUFFIX,apple-cloudkit.com,Domestic
+  - DOMAIN-SUFFIX,icloud.com,Domestic
+  - DOMAIN-SUFFIX,icloud-content.com,Domestic
+  - DOMAIN-SUFFIX,itunes.com,Domestic
+  - DOMAIN-SUFFIX,me.com,Domestic
 # > LAN
   - DOMAIN,captive.apple.com,Domestic
   - DOMAIN,localhost,Domestic

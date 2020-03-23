@@ -17,22 +17,33 @@ Maintained by <b>eHpo</b>
 -------
 
 
-## 包含的List
+## 包含的 List
 
 ### Liby.list
+
 * 通过域名 / IP去广告
 
-### /Sub
-* 默认Apple.list与Speedtest.list
+### Apple_API.list / Apple_CDN.list
+
+> [苹果服务的连接策略推荐](https://blog.dada.li/2019/better-proxy-rules-for-apple-services) @geekdada
+
+* API 服务类  
+  购买、发起下载、iCloud 同步（含上传和下载）、Siri
+
+* CDN 资源类  
+  App 实体文件、Apple Music 音乐文件
 
 ### AsianMedia.list / GlobalMedia.list
+
 * 亚洲媒体 / 国际媒体
 
 ### Domestic.list / Global.list
+
 * 国内 / 国际常用网页
 
 ### Region.list
-* LAN / GeoIP,CN
+
+* 用于修正规则，包含 / Apple.list / LAN / GeoIP,CN
 
 
 -------

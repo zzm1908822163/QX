@@ -11,7 +11,8 @@ Maintained by <b>eHpo</b>
 
 ## 使用方法
 
-1. 下载配置文件  
+1. 下载配置文件
+
 	<https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Main.conf>
 
 2. 替换配置文本`[server_remote]`中的`https://www.example.com/example1`替换为您的订阅链接
@@ -22,15 +23,14 @@ Maintained by <b>eHpo</b>
 
 更多支持请查看 [QuantumultX官方说明](https://github.com/crossutility/Quantumult-X)
 
->还可以直接订阅相应的 [List](#List)
-
 
 -------
 
 
-## List
+## List 顺序、说明
 
 ### Liby.list
+
 * 通过域名 / IP去广告
 
 ```
@@ -38,11 +38,31 @@ https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Filter/Liby.txt
 ```
 
 ### /Sub
+
 * 分站细化规则
 
 <https://github.com/eHpo1/Rules/tree/master/QuantumultX/Filter/Sub>
 
+### Apple_API.list / Apple_CDN.list
+
+> [苹果服务的连接策略推荐](https://blog.dada.li/2019/better-proxy-rules-for-apple-services) @geekdada
+
+* API 服务类  
+  购买、发起下载、iCloud 同步（含上传和下载）、Siri
+
+```
+https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Filter/Apple_API.txt
+```
+
+* CDN 资源类  
+  App 实体文件、Apple Music 音乐文件
+
+```
+https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Filter/Apple_CDN.txt
+```
+
 ### AsianMedia.list / GlobalMedia.list
+
 * 亚洲媒体 / 国际媒体
 
 ```
@@ -51,6 +71,7 @@ https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Filter/GlobalMe
 ```
 
 ### Domestic.list / Global.list
+
 * 国内 / 国际常用网页
 
 ```
@@ -59,13 +80,15 @@ https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Filter/Global.t
 ```
 
 ### Region.list
-* LAN / GeoIP,CN
+
+* 用于修正规则，包含 / Apple.list / LAN / GeoIP,CN
 
 ```
 https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Filter/Region.txt
 ```
 
 ### Rewrite.txt
+
 * URL重写（包含 Tide.list）
 
 ```

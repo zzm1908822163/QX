@@ -28,19 +28,6 @@ host-suffix, ykimg.com, Domestic
 host-suffix, youku.com, Domestic
 host-suffix, xiami.com, Domestic
 host-suffix, xiami.net, Domestic
-# > Apple
-host-suffix, aaplimg.com, Domestic
-host-suffix, apple.co, Domestic
-host-suffix, apple.com, Domestic
-host-suffix, apple-cloudkit.com, Domestic
-host-suffix, appstore.com, Domestic
-host-suffix, cdn-apple.com, Domestic
-host-suffix, crashlytics.com, Domestic
-host-suffix, icloud.com, Domestic
-host-suffix, icloud-content.com, Domestic
-host-suffix, me.com, Domestic
-host-suffix, mzstatic.com, Domestic
-host, www-cdn.icloud.com.akadns.net, Domestic
 # > Baidu
 host-suffix, baidu.com, Domestic
 host-suffix, baidubcr.com, Domestic
@@ -200,10 +187,9 @@ host-suffix, ip-cdn.com, Domestic
 host-suffix, ipv6-test.com, Domestic
 host-suffix, test-ipv6.com, Domestic
 host-suffix, whatismyip.com, Domestic
-# > Speed Test
-# host-suffix, speedtest.net
-host-suffix, netspeedtestmaster.com, Domestic
-host, speedtest.macpaw.com, Domestic
+# > SpeedTest
+host-keyword, speedtest, Domestic
+host-suffix, ooklaserver.net, Domestic
 # > Private Tracker
 host-suffix, awesome-hd.me, Domestic
 host-suffix, broadcasthe.net, Domestic
@@ -359,6 +345,7 @@ host-suffix, moke.com, Domestic
 host-suffix, mubu.com, Domestic
 host-suffix, myzaker.com, Domestic
 host-suffix, nim-lang-cn.org, Domestic
+host-suffix, novipnoad.com, Domestic
 host-suffix, nvidia.com, Domestic
 host-suffix, oracle.com, Domestic
 host-suffix, qdaily.com, Domestic
