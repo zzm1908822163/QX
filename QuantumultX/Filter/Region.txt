@@ -1,13 +1,4 @@
 # Region.list
-# > Apple
-host-suffix, aaplimg.com, Domestic
-host-suffix, apple.co, Domestic
-host-suffix, apple.com, Domestic
-host-suffix, apple-cloudkit.com, Domestic
-host-suffix, icloud.com, Domestic
-host-suffix, icloud-content.com, Domestic
-host-suffix, itunes.com, Domestic
-host-suffix, me.com, Domestic
 # > LAN
 host, localhost, Domestic
 host-suffix, local, Domestic

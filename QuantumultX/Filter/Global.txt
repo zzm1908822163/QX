@@ -437,22 +437,6 @@ host-suffix, zattoo.com, Global
 user-agent, Roam*, Global
 
 # (The Most Popular Sites)
-# > Apple
-# >> TestFlight
-host, testflight.apple.com, Global
-# >> Apple URL Shortener
-host-suffix, appsto.re, Global
-# >> iBooks Store download
-host, books.itunes.apple.com, Global
-# >> iTunes Store Moveis Trailers
-host, hls.itunes.apple.com, Global
-# >> App Store Preview
-host, apps.apple.com, Global
-host, itunes.apple.com, Global
-# >> Spotlight
-host, api-glb-sea.smoot.apple.com, Global
-# >> Dictionary
-host, lookup-api.apple.com, Global
 # > Google
 host-suffix, abc.xyz, Global
 host-suffix, android.com, Global

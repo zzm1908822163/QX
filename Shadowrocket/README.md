@@ -33,15 +33,15 @@ Maintained by <b>eHpo</b>
 
 * 通过中间人攻击使用正则表达式实现对广告的精准打击
 
-### Apple_API.list / Apple_CDN.list
+### Apple_CDN.list / Apple_API.list
 
 > [苹果服务的连接策略推荐](https://blog.dada.li/2019/better-proxy-rules-for-apple-services) @geekdada
 
-* API 服务类  
-  购买、发起下载、iCloud 同步（含上传和下载）、Siri
-
-* CDN 资源类  
+* CDN 资源类  直连
   App 实体文件、Apple Music 音乐文件
+
+* API 服务类  直连
+  购买、发起下载、iCloud 同步（含上传和下载）、Siri
 
 ### AsianMedia.list / GlobalMedia.list
 
@@ -53,7 +53,7 @@ Maintained by <b>eHpo</b>
 
 ### Region.list
 
-* 用于修正规则，包含 / Apple.list / LAN / GeoIP,CN
+* 用于修正规则，包含 LAN / GeoIP,CN
 
 
 -------
