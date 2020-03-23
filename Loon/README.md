@@ -17,11 +17,11 @@ Maintained by <b>eHpo</b>
 
 2. 继续编辑，将配置文本`[Remote Proxy]`中的`https://www.example.com/example1.txt`替换为您的订阅链接
  
-	> ![Loon编辑](https://github.com/eHpo1/Rules/raw/master/.img/loonbj.JPG)
+	> ![Loon编辑](https://github.com/eHpo1/Rules/raw/master/.img/loonbj.jpg)
 
 3. 将配置文本`[Remote Filter]`中的四个`关键词`（各两处）替换为您所需的
 
-	> ![Loon筛选](https://github.com/eHpo1/Rules/raw/master/.img/loonsx.JPG)
+	> ![Loon筛选](https://github.com/eHpo1/Rules/raw/master/.img/loonsx.jpg)
 
 4. 打开Loon的MITM开关 - 证书管理 - 安装CA证书；然后到系统设置 - 已下载描述文件 - 安装；最后系统设置 - 通用 - 关于本机 - 证书信任设置，信任刚才安装的证书
 
