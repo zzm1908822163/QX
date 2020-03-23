@@ -11,8 +11,8 @@ Maintained by <b>eHpo</b>
 
 ## 简介
 
-为去广告而努力奋斗，简约、极致。
-主要维护 **Liby** 与 **Tide** 两个规则片段。包含部分运营商劫持屏蔽、部分数据收集屏蔽、大量应用内广告屏蔽。
+为去广告而努力奋斗，简约、极致。  
+主要维护 **Liby** 与 **Tide** 两个规则片段。包含部分运营商劫持屏蔽、部分数据收集屏蔽、大量应用内广告屏蔽。  
 适合有一定基础的人员。
 
 * [适用](#适用)
@@ -21,17 +21,17 @@ Maintained by <b>eHpo</b>
     * QuantumultX
     * Shadowrocket
     * Surge4
-* [List 顺序、说明](#List 顺序、说明)
+* [List 顺序、说明](#list-顺序说明)
     * Liby / Tide
     * /Sub
     * Apple_API / Apple_CDN
     * AsianMedia / GlobalMedia
     * Domestic / Global
     * Region
-* [常见问题](Q&A)
+* [常见问题](#qa)
 * [关于](#关于)
 * [鸣谢](#特别鸣谢)
-* [License](#License)
+* [License](#license)
 
 
 -------
