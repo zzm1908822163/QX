@@ -3,16 +3,19 @@
 hostname: frodo.douban.com
 regex: ^https:\/\/frodo\.douban\.com\/api\/v2\/feature_switch
 tips: 无法解析域名，首页广告无法去除
+
+# F
+# >> Fackbook
+# > Messenger
+# > Instagram
+tips:无法解析facebook系app所有域名
+
 # G
 # > Google
 # >> Youtube
 hostname: *.googlevideo.com
 regex: ^https?:\/\/.+\.googlevideo\.com\/.+(&oad|ctier)
 tips: 解析域名会导致Premium会员无法正常使用，我们选择了去除解析保留正则。
-
-# I
-# > Instagram
-tips:无法解析所有域名
 
 # Y
 # > 阅达教育

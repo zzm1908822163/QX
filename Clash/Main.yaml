@@ -524,6 +524,9 @@ Rule:
 # > 车来了
   - DOMAIN,atrace.chelaile.net.cn,AdBlock
   - DOMAIN,logs.chelaile.net.cn,AdBlock
+# (D)
+# > 懂球帝
+  - DOMAIN,ap.dongqiudi.com,AdBlock
 # (G)
 # > Google
   - DOMAIN-SUFFIX,doubleclick.net,AdBlock

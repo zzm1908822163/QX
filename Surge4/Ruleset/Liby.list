@@ -394,6 +394,9 @@ DOMAIN,adshows.21cn.com
 # > 车来了
 DOMAIN,atrace.chelaile.net.cn
 DOMAIN,logs.chelaile.net.cn
+# (D)
+# > 懂球帝
+DOMAIN,ap.dongqiudi.com
 # (G)
 # > Google
 DOMAIN-SUFFIX,doubleclick.net

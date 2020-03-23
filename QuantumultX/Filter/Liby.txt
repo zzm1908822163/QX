@@ -394,6 +394,9 @@ host, adshows.21cn.com, AdBlock
 # > 车来了
 host, atrace.chelaile.net.cn, AdBlock
 host, logs.chelaile.net.cn, AdBlock
+# (D)
+# > 懂球帝
+host, ap.dongqiudi.com, AdBlock
 # (G)
 # > Google
 host-suffix, doubleclick.net, AdBlock
