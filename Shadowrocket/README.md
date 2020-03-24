@@ -37,10 +37,10 @@ Maintained by <b>eHpo</b>
 
 > [苹果服务的连接策略推荐](https://blog.dada.li/2019/better-proxy-rules-for-apple-services) @geekdada
 
-* CDN 资源类  直连
+* CDN 资源类  直连  
   App 实体文件、Apple Music 音乐文件
 
-* API 服务类  直连
+* API 服务类  直连  
   购买、发起下载、iCloud 同步（含上传和下载）、Siri
 
 ### AsianMedia.list / GlobalMedia.list

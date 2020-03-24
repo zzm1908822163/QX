@@ -53,14 +53,14 @@ https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Tide.list
 
 > [苹果服务的连接策略推荐](https://blog.dada.li/2019/better-proxy-rules-for-apple-services) @geekdada
 
-* CDN 资源类  直连
+* CDN 资源类  直连  
   App 实体文件、Apple Music 音乐文件
 
 ```
 https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Apple_CDN.list
 ```
 
-* API 服务类  账号所在区
+* API 服务类  账号所在区  
   购买、发起下载、iCloud 同步（含上传和下载）、Siri
 
 ```
