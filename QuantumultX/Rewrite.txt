@@ -201,6 +201,7 @@ hostname = *.amemv.com, *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-off
 
 # J
 # > 京东
+^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$ url reject-200
 ^https?:\/\/b?dsp-x\.jd\.com\/adx\/ url reject-200
 ^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo url reject-200
 ^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/na\/m\/getLoadingPicture url reject-200
@@ -527,6 +528,9 @@ hostname = *.amemv.com, *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-off
 # > 中国联通
 ^https?:\/\/m\.client\.10010\.com\/mobileService\/customer\/accountListData\.htm url reject-200
 ^https?:\/\/m\.client\.10010\.com\/uniAdmsInterface\/getWelcomeAd url reject-200
+# > 中国电信
+# >> 电信营业厅
+^http:\/\/image1\.chinatelecom-ec\.com\/images\/\d{4}\/\d{1,2}\/\d{1,2}\/client\w+\.jpg$ url reject-200
 # > 掌阅
 ^https?:\/\/ih2\.ireader\.com\/zyapi\/bookstore\/ad\/ url reject-200
 ^https?:\/\/ih2\.ireader\.com\/zyapi\/self\/screen\/ad url reject-200

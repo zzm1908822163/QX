@@ -184,6 +184,7 @@ URL-REGEX,^https?:\/\/www\.bodivis\.com\.cn\/app\/splashAdvertise
 
 # J
 # > 京东
+URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$
 URL-REGEX,^https?:\/\/b?dsp-x\.jd\.com\/adx\/
 URL-REGEX,^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/base\/na\/m\/adInfo
 URL-REGEX,^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/na\/m\/getLoadingPicture
@@ -509,6 +510,9 @@ URL-REGEX,^https?:\/\/.+\/cdn-adn\/
 # > 中国联通
 URL-REGEX,^https?:\/\/m\.client\.10010\.com\/mobileService\/customer\/accountListData\.htm
 URL-REGEX,^https?:\/\/m\.client\.10010\.com\/uniAdmsInterface\/getWelcomeAd
+# > 中国电信
+# >> 电信营业厅
+URL-REGEX,^http:\/\/image1\.chinatelecom-ec\.com\/images\/\d{4}\/\d{1,2}\/\d{1,2}\/client\w+\.jpg$
 # > 掌阅
 URL-REGEX,^https?:\/\/ih2\.ireader\.com\/zyapi\/bookstore\/ad\/
 URL-REGEX,^https?:\/\/ih2\.ireader\.com\/zyapi\/self\/screen\/ad

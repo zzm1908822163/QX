@@ -715,7 +715,7 @@ Rule:
   - DOMAIN,apppv.zol.com.cn,AdBlock
   - DOMAIN,pvnapp.zol.com.cn,AdBlock
 
-  # Apple_CDN.list
+# Apple_CDN.list
 # > App Store
   - DOMAIN-SUFFIX,mzstatic.com,Apple_CDN
   - DOMAIN,iosapps.itunes.apple.com,Apple_CDN
