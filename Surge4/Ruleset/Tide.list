@@ -16,7 +16,10 @@ URL-REGEX,^https?:\/\/.+\.58cdn\.com\.cn\/brandads\/
 URL-REGEX,^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.tmall\.wireless
 # >> 1688
 URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alibaba\.advertisementservice\.getadv
+# >> 阿里妈妈
+URL-REGEX,^https:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alimama\.etao\.config\.query
 # >> 闲鱼
+URL-REGEX,^https:\/\/acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless
 URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.taobao\.idle\.home\.welcome\/
 # >> 飞猪
 URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.trip\.activity\.querytmsresources\/
