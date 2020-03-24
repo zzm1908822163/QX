@@ -1128,8 +1128,8 @@ Rule:
   - DOMAIN-SUFFIX,test-ipv6.com,Domestic
   - DOMAIN-SUFFIX,whatismyip.com,Domestic
 # > SpeedTest
-  - DOMAIN-KEYWORD,speedtest
-  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-KEYWORD,speedtest,Domestic
+  - DOMAIN-SUFFIX,ooklaserver.net,Domestic
 # > Private Tracker
   - DOMAIN-SUFFIX,awesome-hd.me,Domestic
   - DOMAIN-SUFFIX,broadcasthe.net,Domestic
