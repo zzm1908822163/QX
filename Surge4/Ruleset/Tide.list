@@ -6,7 +6,7 @@ URL-REGEX,^https?:\/\/api\.21jingji\.com\/ad\/
 # > 360doc
 URL-REGEX,^https?:\/\/mobi\.360doc\.com\/v\d{2}\/Ajax\/festival\.ashx\?op=getfestivaltheme
 # > 58同城
-URL-REGEX,^https?:\/\/app\.58\.com\/api\/home\/(advertising|appadv)\/
+URL-REGEX,^https?:\/\/app\.58\.com\/api\/home\/a(?:dvertising|ppadv)\/
 URL-REGEX,^https?:\/\/app\.58\.com\/api\/home\/invite\/popupAdv
 URL-REGEX,^https?:\/\/app\.58\.com\/api\/log\/
 URL-REGEX,^https?:\/\/.+\.58cdn\.com\.cn\/brandads\/
