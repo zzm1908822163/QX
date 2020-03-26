@@ -38,11 +38,11 @@ Maintained by <b>eHpo</b>
 
 | 工具 | 配置说明文档 | 使用方法点击查看详情 |
 | :-: | :-: | :-: |
-| Clash | [官方](https://github.com/Dreamacro/clash/blob/master/README.md) | [详请](https://github.com/eHpo1/Rules/blob/master/Clash/README.md) |
-| Loon | [官方](https://github.com/Loon0x00/LoonManual) | [详请](https://github.com/eHpo1/Rules/blob/master/Loon/README.md) |
-| QuantumultX | [官方](https://github.com/crossutility/Quantumult-X) | [详请](https://github.com/eHpo1/Rules/blob/master/QuantumultX/README.md) |
-| Shadowrocket | [官方](https://github.com/Shadowrocket) | [详请](https://github.com/eHpo1/Rules/blob/master/Shadowrocket/README.md) |
-| Surge4 | [官方](https://manual.nssurge.com) | [详请](https://github.com/eHpo1/Rules/blob/master/Surge4/README.md) |
+| Clash | [官方](https://github.com/Dreamacro/clash/blob/master/README.md) | [详请](/Clash/README.md) |
+| Loon | [官方](https://github.com/Loon0x00/LoonManual) | [详请](/Loon/README.md) |
+| QuantumultX | [官方](https://github.com/crossutility/Quantumult-X) | [详请](/QuantumultX/README.md) |
+| Shadowrocket | [官方](https://github.com/Shadowrocket) | [详请](/Shadowrocket/README.md) |
+| Surge4 | [官方](https://manual.nssurge.com) | [详请](/Surge4/README.md) |
 
 ---
 
@@ -131,7 +131,7 @@ API 服务类  推荐选择账号所在区
 
 ## License
 
-[GPL-3.0](https://github.com/eHpo1/Rules/blob/master/LICENSE)
+[![License](/.image/license.svg)](/LICENSE)
 
 1. 不得使用本项目组织、参与、进行任何形式的违法犯罪行为。
 
