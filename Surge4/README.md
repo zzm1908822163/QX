@@ -13,7 +13,7 @@ Maintained by <b>eHpo</b>
 
 2. 通过iOS [快捷指令](https://www.icloud.com/shortcuts/6130b2e96e2c4b4280f1015ca47dd724) 转换托管链接（筛选4个名称关键词），生成的六个文件全部保存在iCloud的Surge目录下。
 
-	> ![Surge快捷指令](https://github.com/eHpo1/Rules/raw/master/.img/surgekjzl.jpg)
+	> ![Surge快捷指令](https://github.com/eHpo1/Rules/raw/master/.image/surgekjzl.jpg)
 
 3. Surge首页 - 打开MitM开关 - 安装证书；然后到系统设置 - 已下载描述文件 - 安装；最后系统设置 - 通用 - 关于本机 - 证书信任设置，信任刚才安装的证书
 
