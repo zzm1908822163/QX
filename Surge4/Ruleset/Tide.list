@@ -104,6 +104,8 @@ URL-REGEX,^https?+:\/\/api\.caijingmobile\.com\/ad(?:vert)?+\/
 URL-REGEX,^https?+:\/\/.+?\/V\d\/splash\/getSplashV\d\.action
 # > 超级星饭团
 URL-REGEX,^https?+:\/\/g\.cdn\.pengpengla\.com\/starfantuan\/boot-screen-info\/
+# > 超星学习通
+URL-REGEX,^https?+:\/\/learn\.chaoxing\.com\/apis\/service\/appConfig\?
 
 # D
 # > 豆瓣
@@ -129,7 +131,9 @@ URL-REGEX,^https?+:\/\/app\.poizon\.com\/api\/v1\/app\/advertisement\/adv\/
 
 # E
 # > 艺龙
-URL-REGEX,^https?+:\/\/(?>119\.18\.193\.135|123\.59\.31\.1)\/ad(?>gateway|v)\/
+IP-CIDR,119.18.193.135/32,no-resolve
+IP-CIDR,123.59.31.1/32,no-resolve
+URL-REGEX,^https?+:\/\/mobile-api2011\.elong\.com\/ad(?>v|gateway)
 # > e代驾
 URL-REGEX,^https?+:\/\/pic\.edaijia\.cn\/adsplash\/
 
@@ -280,6 +284,8 @@ URL-REGEX,^https?+:\/\/ma\.ofo\.com\/adImage\/
 URL-REGEX,^https?+:\/\/slapi\.oray\.net\/client\/ad
 
 # P
+# > PU口袋校园
+URL-REGEX,^https?+:\/\/pocketuni\.net\/\?app=api&mod=Message&act=ad
 # > 票根
 URL-REGEX,^https?+:\/\/pss\.txffp\.com\/piaogen\/images\/launchScreen
 # > 拼多多
@@ -440,6 +446,8 @@ URL-REGEX,^https?+:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alimusic\.common\.mobilese
 URL-REGEX,^https?+:\/\/api\.psy-1\.com\/cosleep\/startup
 # > 小猿搜题
 URL-REGEX,^https?+:\/\/xyst\.yuanfudao\.com\/iphone\/splashesV\d
+# > 新片场
+URL-REGEX,^https?+:\/\/app\.xinpianchang\.com\/open_screen\?
 # > 雪球
 URL-REGEX,^https?+:\/\/101\.201\.175\.228\/ads\/display
 URL-REGEX,^https?+:\/\/(?>101\.201\.175\.228|182\.92\.251\.113)\/promotion\/(?:feed_)?+display
@@ -502,6 +510,8 @@ URL-REGEX,^https?+:\/\/.+?\.(?>amemv|musical|snssdk|tiktokv)\.(?>com|ly)\/(?>api
 URL-REGEX,^https?+:\/\/dsp\.toutiao\.com\/api\/xunfei\/ads\/
 URL-REGEX,^https?+:\/\/.+?\.snssdk\.com\/motor\/operation\/activity\/display\/config\/V2\/
 URL-REGEX,^https?+:\/\/.+?\/img\/ad\.union\.api\/
+# > 涨乐财富通
+URL-REGEX,^https?+:\/\/d\.zhangle\.com\/pic\/cft\/interaction\/\d{13}-1242-2248\.jpg
 # > 中国银行
 URL-REGEX,^https?+:\/\/mlife\.jf365\.boc\.cn\/AppPrj\/FirstPic\.do\?
 # > 中国工商银行
