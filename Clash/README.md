@@ -9,6 +9,12 @@ Maintained by <b>eHpo</b>
 
 ## 使用方法
 
+### Windows
+
+推荐使用 [Fndroid](https://github.com/Fndroid) 的 [Clash Config Builder](https://fndroid.github.io/clash-config-builder/)  
+配置文件：  
+</Clash/Sub/Windows.yaml>
+
 > 更多支持请查看 [Clash官方说明](https://github.com/Dreamacro/clash/blob/master/README.md)
 
 ---
