@@ -473,8 +473,6 @@ Rule:
   - DOMAIN,optimus-ads.amap.com.w.alikunlun.com,AdBlock
   - DOMAIN,tunion-api.m.taobao.com,AdBlock
   - IP-CIDR,112.29.211.120/32,AdBlock,no-resolve
-  - IP-CIDR,203.119.206.64/32,AdBlock,no-resolve
-  - IP-CIDR,203.119.211.219/32,AdBlock,no-resolve
 # > Apple
   - DOMAIN-SUFFIX,ads.internal.unity3d.com,AdBlock
   - DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com,AdBlock
@@ -1320,6 +1318,7 @@ Rule:
   - DOMAIN-SUFFIX,takungpao.com,Domestic
   - DOMAIN-SUFFIX,teamviewer.com,Domestic
   - DOMAIN-SUFFIX,tianyancha.com,Domestic
+  - DOMAIN-SUFFIX,tophub.today,Domestic
   - DOMAIN-SUFFIX,udacity.com,Domestic
   - DOMAIN-SUFFIX,uning.com,Domestic
   - DOMAIN-SUFFIX,vmware.com,Domestic
@@ -1898,7 +1897,6 @@ Rule:
   
 # Region.list
 # > LAN
-  - DOMAIN,captive.apple.com,Domestic
   - DOMAIN,localhost,Domestic
   - DOMAIN-SUFFIX,local,Domestic
   - IP-CIDR,0.0.0.0/8,Domestic,no-resolve
