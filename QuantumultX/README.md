@@ -35,7 +35,7 @@ Maintained by <b>eHpo</b>
 https://raw.githubusercontent.com/eHpo1/Rules/master/QuantumultX/Filter/Liby.txt
 ```
 
-### /Sub
+### Sub/
 
 分站细化规则
 

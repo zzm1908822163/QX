@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Liby.list
 https://raw.githubusercontent.com/eHpo1/Rules/master/Surge4/Ruleset/Tide.list
 ```
 
-### /Sub
+### Sub/
 
 分站细化规则
 
