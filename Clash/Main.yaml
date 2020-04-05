@@ -698,7 +698,6 @@ Rule:
 
 # Apple_CDN.list
 # Apple Music
-  - DOMAIN-SUFFIX,music.apple.com,Apple_CDN
   - DOMAIN,aod.itunes.apple.com,Apple_CDN
   - DOMAIN,api.smoot.apple.cn,Apple_CDN
   - DOMAIN,mvod.itunes.apple.com,Apple_CDN
