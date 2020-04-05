@@ -16,6 +16,11 @@ hostname = *.amemv.com, *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-off
 ^http:\/\/www\.google\.cn url 302 https://www.google.com
 
 
+# script
+# 阿里
+^https?+:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch url request-body &domain=.+?& request-body &
+
+
 # Tide.list
 # Strong Stain Removal
 # 0~9
@@ -184,7 +189,7 @@ hostname = *.amemv.com, *.iydsj.com, *.k.sohu.com, *.kakamobi.cn, *.kingsoft-off
 # > 杭州市·市民卡
 ^https?+:\/\/smkmp\.96225\.com\/smkcenter\/ad\/ url reject-200
 # > 虎扑
-^https?+:\/\/games\.mobileapi\.hupu\.com\/.+?\/interfaceAd(?:Monitor)?+\/ url reject-200
+^https?+:\/\/games\.mobileapi\.hupu\.com\/\d\/(?:\d\.){2}\d\/status\/init url reject-200
 # > 虎牙
 ^https?+:\/\/business\.msstatic\.com\/advertiser\/ url reject-200
 ^https?+:\/\/cdnfile1\.msstatic\.com\/cdnfile\/appad\/resource url reject-200
