@@ -754,8 +754,8 @@ Rule:
   - DOMAIN-KEYWORD,qiyi,AsianMedia
   - DOMAIN-SUFFIX,71.am.com,AsianMedia
   - DOMAIN-SUFFIX,qy.net,AsianMedia
-  - IP-CIDR,101.227.0.0/16,AsianMedia,no-resolve
   - IP-CIDR,101.224.0.0/13,AsianMedia,no-resolve
+  - IP-CIDR,101.227.0.0/16,AsianMedia,no-resolve
   - IP-CIDR,119.176.0.0/12,AsianMedia,no-resolve
 # > letv
   - DOMAIN-SUFFIX,api.mob.app.letv.com,AsianMedia
