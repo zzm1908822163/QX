@@ -1,6 +1,9 @@
 # Dler Cloud
 DOMAIN-SUFFIX,dler.cloud
 
+# Microsoft
+DOMAIN-SUFFIX,msftconnecttest.com
+
 # https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Download.list
 # Mac Download
 PROCESS-NAME,aria2c
