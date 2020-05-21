@@ -8801,7 +8801,7 @@ IP-CIDR,183.131.79.30/32,no-resolve
 IP-CIDR,183.59.53.187/29,no-resolve
 IP-CIDR,183.59.53.237/32,no-resolve
 IP-CIDR,183.6.188.226/29,no-resolve
-IP-CIDR,188.89.204.198/32,no-resolve# Liby.list
+IP-CIDR,188.89.204.198/32,no-resolve
 IP-CIDR,198.40.52.11/32,no-resolve
 IP-CIDR,202.104.1.27/32,no-resolve
 IP-CIDR,202.105.165.202/32,no-resolve
