@@ -131,7 +131,8 @@ script:
             return "DIRECT"
             ctx.log('[Script] not common port use direct')
 
-        for rule_name in ctx.rule_providers.keys():
+        ruleset_list = [r for r in ruleset_action]
+        for rule_name in ruleset_list:
             if ctx.rule_providers[rule_name].match(metadata):
                 return ruleset_action[rule_name]
 
