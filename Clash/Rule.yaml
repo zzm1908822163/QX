@@ -131,19 +131,22 @@ script:
             return "DIRECT"
             ctx.log('[Script] not common port use direct')
 
+        if metadata["dst_ip"] == "":
+            metadata["dst_ip"] = ctx.resolve_ip(metadata["host"])
+
         ruleset_list = [r for r in ruleset_action]
         for rule_name in ruleset_list:
             if ctx.rule_providers[rule_name].match(metadata):
                 return ruleset_action[rule_name]
 
-        ip = metadata["dst_ip"] or ctx.resolve_ip(metadata["host"])
-        if ip == "":
-          return "DIRECT"
+        if metadata["dst_ip"] == "":
+            return "DIRECT"
 
-        code = ctx.geoip(ip)
+        code = ctx.geoip(metadata["dst_ip"])
         if code == "CN":
-          return "Domestic"
-          ctx.log('[Script] Geoip CN')
+            return "Domestic"
+            ctx.log('[Script] Geoip CN')
+
         return "Others"
         ctx.log('[Script] FINAL')
 
