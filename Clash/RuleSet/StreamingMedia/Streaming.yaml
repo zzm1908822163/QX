@@ -1,9 +1,14 @@
 payload:
   # Streaming Media
-  # (Podcast)
-  # > Himalaya
-  - PROCESS-NAME,com.ximalaya.ting.himalaya
-  - DOMAIN-SUFFIX,himalaya.com
+
+  # (Live)
+  # > Twitch
+  - PROCESS-NAME,tv.twitch.android.app
+  - DOMAIN-SUFFIX,jtvnw.net
+  - DOMAIN-SUFFIX,ttvnw.net
+  - DOMAIN-SUFFIX,twitch.tv
+  - DOMAIN-SUFFIX,twitchcdn.net
+
   # (Music)
   # > Deezer
   - PROCESS-NAME,deezer.android.app
@@ -41,6 +46,12 @@ payload:
   # > YouTubeMusic
   - PROCESS-NAME,com.google.android.apps.youtube.music
   - PROCESS-NAME,com.google.android.youtube.tvmusic
+
+  # (Podcast)
+  # > Himalaya
+  - PROCESS-NAME,com.ximalaya.ting.himalaya
+  - DOMAIN-SUFFIX,himalaya.com
+
   # (Video)
   # > AbemaTV
   - PROCESS-NAME,tv.abema
@@ -289,12 +300,6 @@ payload:
   - PROCESS-NAME,jp.hamitv.hamiand1
   - DOMAIN-SUFFIX,tver.jp
   - DOMAIN,edge.api.brightcove.com
-  # > Twitch
-  - PROCESS-NAME,tv.twitch.android.app
-  - DOMAIN-SUFFIX,jtvnw.net
-  - DOMAIN-SUFFIX,ttvnw.net
-  - DOMAIN-SUFFIX,twitch.tv
-  - DOMAIN-SUFFIX,twitchcdn.net
   # > ViuTV
   - PROCESS-NAME,com.hktve.viutv
   - DOMAIN-SUFFIX,viu.com

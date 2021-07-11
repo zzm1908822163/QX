@@ -1,8 +1,12 @@
 # Streaming Media
-# (Podcast)
-# > Himalaya
-USER-AGENT,Himalaya*
-DOMAIN-SUFFIX,himalaya.com
+
+# (Live)
+# > Twitch
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
+
 # (Music)
 # > Deezer
 USER-AGENT,Deezer*
@@ -39,6 +43,12 @@ DOMAIN-SUFFIX,tidal.com
 # > YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
+
+# (Podcast)
+# > Himalaya
+USER-AGENT,Himalaya*
+DOMAIN-SUFFIX,himalaya.com
+
 # (Video)
 # > AbemaTV
 USER-AGENT,AbemaTV*
@@ -285,11 +295,6 @@ DOMAIN-KEYWORD,-tiktokcdn-com
 USER-AGENT,TVer-Release*
 DOMAIN-SUFFIX,tver.jp
 DOMAIN,edge.api.brightcove.com
-# > Twitch
-DOMAIN-SUFFIX,jtvnw.net
-DOMAIN-SUFFIX,ttvnw.net
-DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,twitchcdn.net
 # > ViuTV
 USER-AGENT,Viu*
 DOMAIN-SUFFIX,viu.com
