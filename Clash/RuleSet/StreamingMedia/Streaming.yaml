@@ -85,6 +85,10 @@ payload:
   - DOMAIN-SUFFIX,bbci.co.uk
   - DOMAIN-KEYWORD,bbcfmt
   - DOMAIN-KEYWORD,uk-live
+  # > bilibili Intl
+  - PROCESS-NAME,com.bstar.intl
+  - DOMAIN-SUFFIX,biliintl.com
+  - DOMAIN,upos-bstar-mirrorakam.akamaized.net
   # > DAZN
   - PROCESS-NAME,com.dazn
   - DOMAIN-SUFFIX,dazn.com
