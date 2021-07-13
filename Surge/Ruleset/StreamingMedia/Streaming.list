@@ -48,6 +48,9 @@ USER-AGENT,YouTubeMusic*
 # > Himalaya
 USER-AGENT,Himalaya*
 DOMAIN-SUFFIX,himalaya.com
+# > Overcast
+USER-AGENT,Overcast*
+DOMAIN-SUFFIX,overcast.fm
 
 # (Video)
 # > AbemaTV
