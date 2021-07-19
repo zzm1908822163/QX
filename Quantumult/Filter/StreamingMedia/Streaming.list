@@ -278,6 +278,9 @@ DOMAIN,link.theplatform.com,Streaming
 # > PBS
 USER-AGENT,PBS*,Streaming
 DOMAIN-SUFFIX,pbs.org,Streaming
+# > Peacock
+USER-AGENT,PeacockMobile*,Streaming
+DOMAIN-SUFFIX,peacocktv.com,Streaming
 # > Pornhub
 DOMAIN-SUFFIX,phncdn.com,Streaming
 DOMAIN-SUFFIX,phprcdn.com,Streaming
