@@ -1,7 +1,7 @@
 payload:  
   # > Youtube
-  # - User-Agent,*youtube*
-  # - User-Agent,YouTube*
+  # - USER-AGENT,*youtube*
+  # - USER-AGENT,YouTube*
   - DOMAIN-KEYWORD,youtube
   - DOMAIN,yt3.ggpht.com
   - DOMAIN-SUFFIX,googlevideo.com
