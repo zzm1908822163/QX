@@ -27,4 +27,4 @@ payload:
   - DOMAIN-SUFFIX,apple.news
 
   # > Apple Maps
-  - PROCESS-NAME,com.apple.geod
+  # - PROCESS-NAME,com.apple.geod

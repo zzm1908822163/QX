@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX,dler.cloud
 
   # > Apple CDN
-  - PROCESS-NAME,storedownloadd
+  # - PROCESS-NAME,storedownloadd
   # - User-Agent,com.apple.appstored*
   - DOMAIN,aod.itunes.apple.com
   - DOMAIN,api.smoot.apple.cn
@@ -38,8 +38,8 @@ payload:
   - DOMAIN-SUFFIX,xboxlive.com
 
   # > Proxy plugin
-  - PROCESS-NAME,v2ray
-  - PROCESS-NAME,ss-local
+  # - PROCESS-NAME,v2ray
+  # - PROCESS-NAME,ss-local
 
   # > Steam
   # - User-Agent,Steam*
@@ -51,35 +51,35 @@ payload:
   - DOMAIN-SUFFIX,tesla-cdn.thron.cn
 
   # > UUBooster
-  - PROCESS-NAME,UUBooster
+  # - PROCESS-NAME,UUBooster
 
   # > Xunlei
   # - User-Agent,%E8%BF%85%E9%9B%B7
   - DOMAIN-SUFFIX,xunlei.com
 
   # > Download
-  - PROCESS-NAME,aria2c.exe
-  - PROCESS-NAME,BitComet.exe
-  - PROCESS-NAME,fdm.exe
+  # - PROCESS-NAME,aria2c.exe
+  # - PROCESS-NAME,BitComet.exe
+  # - PROCESS-NAME,fdm.exe
   # - PROCESS-NAME,IDMan.exe
-  - PROCESS-NAME,NetTransport.exe
-  - PROCESS-NAME,qbittorrent.exe
-  - PROCESS-NAME,Thunder.exe
-  - PROCESS-NAME,ThunderVIP.exe
-  - PROCESS-NAME,transmission-daemon.exe
-  - PROCESS-NAME,transmission-qt.exe
-  - PROCESS-NAME,uTorrent.exe
-  - PROCESS-NAME,WebTorrent.exe
-  - PROCESS-NAME,aria2c
-  - PROCESS-NAME,fdm
-  - PROCESS-NAME,Folx
-  - PROCESS-NAME,NetTransport
-  - PROCESS-NAME,qbittorrent
-  - PROCESS-NAME,Thunder
-  - PROCESS-NAME,Transmission
-  - PROCESS-NAME,uTorrent
-  - PROCESS-NAME,WebTorrent
-  - PROCESS-NAME,WebTorrent Helper
+  # - PROCESS-NAME,NetTransport.exe
+  # - PROCESS-NAME,qbittorrent.exe
+  # - PROCESS-NAME,Thunder.exe
+  # - PROCESS-NAME,ThunderVIP.exe
+  # - PROCESS-NAME,transmission-daemon.exe
+  # - PROCESS-NAME,transmission-qt.exe
+  # - PROCESS-NAME,uTorrent.exe
+  # - PROCESS-NAME,WebTorrent.exe
+  # - PROCESS-NAME,aria2c
+  # - PROCESS-NAME,fdm
+  # - PROCESS-NAME,Folx
+  # - PROCESS-NAME,NetTransport
+  # - PROCESS-NAME,qbittorrent
+  # - PROCESS-NAME,Thunder
+  # - PROCESS-NAME,Transmission
+  # - PROCESS-NAME,uTorrent
+  # - PROCESS-NAME,WebTorrent
+  # - PROCESS-NAME,WebTorrent Helper
 
   # > Private Tracker
   - DOMAIN-SUFFIX,awesome-hd.me
