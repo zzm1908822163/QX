@@ -24,17 +24,9 @@ payload:
   - DOMAIN-KEYWORD,dualstack.apiproxy-
   - DOMAIN-KEYWORD,dualstack.ichnaea-web-
 
+  # > AS BGP Search
   - IP-CIDR,208.75.76.0/22,no-resolve
   - IP-CIDR,207.45.72.0/22,no-resolve
-
-  # > 实际捕捉
-  - IP-CIDR,203.75.84.0/24,no-resolve
-  - IP-CIDR,203.83.220.0/22,no-resolve
-  - IP-CIDR,203.116.0.0/16,no-resolve
-  - IP-CIDR,203.198.0.0/20,no-resolve
-  - IP-CIDR,203.198.80.0/21,no-resolve
-  # > 实际捕捉
-  
   - IP-CIDR,185.2.0.0/16,no-resolve
   - IP-CIDR,185.9.0.0/16,no-resolve
   - IP-CIDR,198.38.96.0/19,no-resolve
@@ -49,8 +41,29 @@ payload:
   - IP-CIDR,64.120.128.0/17,no-resolve
   - IP-CIDR,66.197.128.0/17,no-resolve
   - IP-CIDR,45.57.0.0/17,no-resolve
-  - IP-CIDR,37.77.184.0/21,no-resolve
-  - IP-CIDR,34.210.42.111/32,no-resolve
   - IP-CIDR,52.89.124.203/32,no-resolve
   - IP-CIDR,54.148.37.5/32,no-resolve
   - IP-CIDR,23.246.0.0/18,no-resolve
+
+
+  # > 实际捕捉
+  - IP-CIDR,203.75.84.0/24,no-resolve
+  - IP-CIDR,203.83.220.0/22,no-resolve
+  - IP-CIDR,203.116.0.0/16,no-resolve
+  - IP-CIDR,203.198.0.0/20,no-resolve
+  - IP-CIDR,203.198.80.0/21,no-resolve
+  # > 实际捕捉
+
+  # > 暂不准确
+  - IP-CIDR,218.102.32.0/19,no-resolve
+  - IP-CIDR,219.76.0.0/17,no-resolve
+  - IP-CIDR,23.78.0.0/16,no-resolve
+  - IP-CIDR,34.192.0.0/16,no-resolve
+  - IP-CIDR,34.208.0.0/12,no-resolve
+  - IP-CIDR,34.248.0.0/13,no-resolve
+  - IP-CIDR,35.160.0.0/13,no-resolve
+  - IP-CIDR,38.72.126.0/24,no-resolve
+  - IP-CIDR,37.77.184.0/21,no-resolve
+  - IP-CIDR,37.77.0.0/16,no-resolve
+
+  
