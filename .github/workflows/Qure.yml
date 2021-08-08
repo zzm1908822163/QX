@@ -18,7 +18,7 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: sync Koolson-Qure
+      - name: Koolson-Qure
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
