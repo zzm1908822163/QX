@@ -1,4 +1,4 @@
-name: zero205
+name: JD_tentcent_scf
 on:
   schedule:
     - cron: '1 */3 * * *'
@@ -18,7 +18,7 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: zero205-JD_tencent_scf
+      - name: zero205-JD_tentcent_scf
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
