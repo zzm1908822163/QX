@@ -1,4 +1,4 @@
-name: mini
+name: Orz-3
 on:
   schedule:
     - cron: '1 */3 * * *'
@@ -24,5 +24,5 @@ jobs:
         with:
           source_repo: "https://github.com/Orz-3/mini.git"
           source_branch: "master"
-          destination_branch: "mini"
+          destination_branch: "Orz-3"
           github_token: ${{ secrets.PAT }}
