@@ -22,7 +22,7 @@ jobs:
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
-          source_repo: "https://github.com/langkhach270389/https://github.com/langkhach270389/Quantumult-X-LK.git"
+          source_repo: "https://github.com/langkhach270389/Quantumult-X-LK.git"
           source_branch: "main"
           destination_branch: "langkhach270389"
           github_token: ${{ secrets.PAT }}
