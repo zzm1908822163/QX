@@ -1,0 +1,28 @@
+name: shufflewzc
+on:
+  schedule:
+    - cron: '1 */3 * * *'
+  workflow_dispatch:
+  watch:
+    types: started
+  repository_dispatch:
+    types: shufflewzc
+jobs:
+  repo-sync: shufflewzc
+    env:
+      PAT: ${{ secrets.PAT }} 
+    runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: shufflewzc
+        uses: repo-sync/github-sync@v2
+        if: env.PAT
+        with:
+          source_repo: "https://github.com/shufflewzc/faker2.git"
+          source_branch: "main"
+          destination_branch: "master"
+          github_token: ${{ secrets.PAT }}
