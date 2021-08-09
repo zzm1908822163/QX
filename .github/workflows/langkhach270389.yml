@@ -23,6 +23,6 @@ jobs:
         if: env.PAT
         with:
           source_repo: "https://github.com/langkhach270389/Quantumult-X-LK.git"
-          source_branch: "rm"
+          source_branch: "master"
           destination_branch: "langkhach270389"
           github_token: ${{ secrets.PAT }}
