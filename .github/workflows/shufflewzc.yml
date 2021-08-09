@@ -8,8 +8,8 @@ on:
   repository_dispatch:
     types: shufflewzc
 jobs:
-  repo-sync: shufflewzc
-   env:
+  repo-sync:
+    env:
       PAT: ${{ secrets.PAT }} 
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id
@@ -22,7 +22,7 @@ jobs:
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
-          source_repo: "https://github.com/shufflewzc/faker2.git"
+          source_repo: "https://github.com/shufflewzc/Faker2.git"
           source_branch: "main"
-          destination_branch: "master"
+          destination_branch: "shufflewzc"
           github_token: ${{ secrets.PAT }}
