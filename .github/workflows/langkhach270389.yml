@@ -8,7 +8,7 @@ on:
   repository_dispatch:
     types: langkhach270389
 jobs:
-  repo-sync:
+  repo-sync: langkhach270389
     env:
       PAT: ${{ secrets.PAT }} 
     runs-on: ubuntu-latest
