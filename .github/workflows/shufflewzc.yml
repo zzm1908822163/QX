@@ -9,7 +9,7 @@ on:
     types: shufflewzc
 jobs:
   repo-sync: shufflewzc
-    env:
+   env:
       PAT: ${{ secrets.PAT }} 
     runs-on: ubuntu-latest
     if: github.event.repository.owner.id == github.event.sender.id
