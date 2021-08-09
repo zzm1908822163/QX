@@ -8,7 +8,7 @@ on:
   repository_dispatch:
     types: langkhach270389
 jobs:
-  repo-sync: langkhach270389
+  repo-sync: 
     env:
       PAT: ${{ secrets.PAT }} 
     runs-on: ubuntu-latest
@@ -23,6 +23,6 @@ jobs:
         if: env.PAT
         with:
           source_repo: "https://github.com/langkhach270389/Quantumult-X-LK.git"
-          source_branch: "main"
+          source_branch: "ry"
           destination_branch: "langkhach270389"
           github_token: ${{ secrets.PAT }}
