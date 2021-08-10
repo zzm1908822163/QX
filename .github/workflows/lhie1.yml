@@ -1,7 +1,7 @@
 name: lhie1
 on:
   schedule:
-    - cron: '1 */3 * * *'
+    - cron: '1 19 * * *'
   workflow_dispatch:
   watch:
     types: started
