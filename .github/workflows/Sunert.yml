@@ -1,7 +1,7 @@
 name: Sunert
 on:
   schedule:
-    - cron: '1 */3 * * *'
+    - cron: '1 11 * * *'
   workflow_dispatch:
   watch:
     types: started
