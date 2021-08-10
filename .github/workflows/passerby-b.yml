@@ -1,7 +1,7 @@
 name: passerby-b
 on:
   schedule:
-    - cron: '12 */3 * * *'
+    - cron: '1 23 * * *'
   workflow_dispatch:
   watch:
     types: started
