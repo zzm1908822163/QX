@@ -1,7 +1,7 @@
 name: ios_rule_script
 on:
   schedule:
-    - cron: '1 */3 * * *'
+    - cron: '1 17 * * *'
   workflow_dispatch:
   watch:
     types: started
