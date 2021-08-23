@@ -86,6 +86,7 @@ tun-excluded-routes = %APPEND% 239.255.255.250/32
 ^https?:\/\/(www.)?xshellcn\.com\/ https://www.netsarang.com/zh/xshell/ 302
 ^https?:\/\/(www.)?yuanchengxiezuo\.com\/ https://www.teamviewer.com/ 302
 ^https?:\/\/(www.)?zbrushcn.com/ https://pixologic.com/ 302
+^https?:\/\/(www.)?anydeskchina.cn/ https://anydesk.com/zhs 302
 
 # AbeamTV - api.abema.io
 ^https?:\/\/api\.abema\.io\/v\d\/ip\/check - reject
