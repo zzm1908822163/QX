@@ -43,7 +43,8 @@ tun-excluded-routes = %APPEND% 239.255.255.250/32
 ^https?:\/\/(www.)?ign\.xn--fiqs8s\/ http://cn.ign.com/ccpref/us 302
 # > Fake Website Made By C&J Marketing
 ^https?:\/\/(www.)?abbyychina\.com\/ https://www.abbyy.cn/ 302
-^https?:\/\/(www.)?anydeskchina.cn/ https://anydesk.com/zhs 302
+^https?:\/\/(www.)?alienskins\.cn\/ https://exposure.software/ 302
+^https?:\/\/(www.)?anydeskchina\.cn\/ https://anydesk.com/zhs 302
 ^https?:\/\/(www.)?bartender\.cc\/ https://www.macbartender.com/ 302
 ^https?:\/\/(www.)?(betterzipcn|betterzip)\.(com|net)\/ https://macitbetter.com/ 302
 ^https?:\/\/(www.)?beyondcompare\.cc\/ https://www.scootersoftware.com/ 302
@@ -57,9 +58,11 @@ tun-excluded-routes = %APPEND% 239.255.255.250/32
 ^https?:\/\/(www.)?easyrecoverychina\.com\/ https://www.ontrack.com/ 302
 ^https?:\/\/(www.)?ediuschina\.com\/ https://www.grassvalley.com/ 302
 ^https?:\/\/(www.)?flstudiochina\.com\/ https://www.image-line.com/ 302
+^https?:\/\/(www.)?folxchina\.cn\/ https://mac.eltima.com/cn/download-manager.html 302
 ^https?:\/\/(www.)?formysql\.com\/ https://www.navicat.com.cn/ 302
 ^https?:\/\/(www.)?guitarpro\.cc\/ https://www.guitar-pro.com/ 302
 ^https?:\/\/(www.)?huishenghuiying\.com\.cn\/ https://www.coreldraw.com/cn/ 302
+^https?:\/\/(www.)?hypeapp\.cn\/ https://tumult.com/hype/ 302
 ^https?:\/\/hypersnap\.mairuan\.com\/ https://www.hyperionics.com/ 302
 ^https?:\/\/(www.)?iconworkshop\.cn\/ https://www.axialis.com/ 302
 ^https?:\/\/(www.)?idmchina\.net\/ https://www.internetdownloadmanager.com/ 302
