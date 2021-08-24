@@ -495,7 +495,6 @@ payload:
   - DOMAIN-SUFFIX,gmail.com
   - DOMAIN-SUFFIX,gmodules.com
   - DOMAIN-SUFFIX,godoc.org
-  - DOMAIN-SUFFIX,golang.org
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,gv.com
   - DOMAIN-SUFFIX,gwtproject.org
@@ -552,6 +551,9 @@ payload:
   # > Apple Music Web
   - DOMAIN,beta.music.apple.com
   # ------
+  # Google
+  - DOMAIN-SUFFIX,go.dev
+  - DOMAIN-SUFFIX,golang.org
   # > Others
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,cccat.io
