@@ -39,8 +39,8 @@ tun-excluded-routes = %APPEND% 239.255.255.250/32
 ^https?:\/\/(www.)?yhd\.com\/ https://yhd.com/ 302
 
 # Redirect False to True
-# > Firefox
-^https?:\/\/(www.)?firefox.com.cn/ https://www.mozilla.org/zh-CN/firefox/new/ 302
+# > Firefox - www.firefox.com.cn
+^https?:\/\/(www.)?firefox\.com\.cn\/(download\/)?$ https://www.mozilla.org/zh-CN/firefox/new/ 302
 # > IGN China to IGN Global
 ^https?:\/\/(www.)?ign\.xn--fiqs8s\/ http://cn.ign.com/ccpref/us 302
 # > Fake Website Made By C&J Marketing
@@ -108,4 +108,4 @@ bstar_login = type=http-request,pattern=^https?:\/\/passport\.biliintl\.com\/x\/
 bstar_play = type=http-request,pattern=^https?:\/\/app\.biliintl\.com\/(intl\/gateway\/v\d\/app\/data\/report\/heartbeat\/mobile|x\/(history|reply)/v\d/add),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Rewrite/bstar.js,script-update-interval=0
 
 [MITM]
-hostname = %INSERT% www.google.cn,api.abema.io,app.biliintl.com,passport.biliintl.com
+hostname = %APPEND% www.google.cn,www.firefox.com.cn,api.abema.io,app.biliintl.com,passport.biliintl.com
