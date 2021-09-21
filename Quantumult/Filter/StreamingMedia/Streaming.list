@@ -188,7 +188,7 @@ DOMAIN-SUFFIX,iq.com,Streaming
 DOMAIN,intl.iqiyi.com,Streaming
 DOMAIN,intl-rcd.iqiyi.com,Streaming
 DOMAIN,intl-subscription.iqiyi.com,Streaming
-IP-CIDR,23.53.32.88,Streaming
+IP-CIDR,23.53.32.88/32,Streaming
 IP-CIDR,23.211.15.99/32,Streaming
 IP-CIDR,103.5.34.153/32,Streaming
 IP-CIDR,104.109.129.153/32,Streaming
