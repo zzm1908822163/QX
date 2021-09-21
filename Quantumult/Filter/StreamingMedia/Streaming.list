@@ -188,6 +188,7 @@ DOMAIN-SUFFIX,iq.com,Streaming
 DOMAIN,intl.iqiyi.com,Streaming
 DOMAIN,intl-rcd.iqiyi.com,Streaming
 DOMAIN,intl-subscription.iqiyi.com,Streaming
+IP-CIDR,23.53.32.88,Streaming
 IP-CIDR,23.211.15.99/32,Streaming
 IP-CIDR,103.5.34.153/32,Streaming
 IP-CIDR,104.109.129.153/32,Streaming
@@ -195,8 +196,10 @@ IP-CIDR,110.238.107.47/32,Streaming
 IP-CIDR,118.26.32.178/32,Streaming
 IP-CIDR,203.74.95.131/32,Streaming
 IP-CIDR,203.74.95.139/32,Streaming
+IP-CIDR,203.74.95.153/32,Streaming
 IP-CIDR,203.211.4.169/32,Streaming
 IP-CIDR,203.211.4.193/32,Streaming
+IP-CIDR,210.71.227.202/32,Streaming
 IP-CIDR,210.201.32.8/32,Streaming
 IP-CIDR,210.201.32.11/32,Streaming
 # > KKTV
