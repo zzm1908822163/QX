@@ -555,6 +555,7 @@ payload:
   - DOMAIN-SUFFIX,go.dev
   - DOMAIN-SUFFIX,golang.org
   # > Others
+  - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,cccat.io
   - DOMAIN-SUFFIX,dubox.com
