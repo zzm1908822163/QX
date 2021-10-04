@@ -536,20 +536,16 @@ payload:
 
   # (Region-Restricted Access Denied)
   # ---(Apple)---
-  # > Apple URL Shortener
   - DOMAIN-SUFFIX,appsto.re
-  # > iBooks Store download
   - DOMAIN,books.itunes.apple.com
-  # > App Store Preview
+  - DOMAIN,api-glb-sea.smoot.apple.com
+  - DOMAIN,beta.music.apple.com
+  - DOMAIN,tv.apple.com
+  - DOMAIN,uts-api.itunes.apple.com
   - DOMAIN,apps.apple.com
   - DOMAIN,itunes.apple.com
-  # > Spotlight
-  - DOMAIN,api-glb-sea.smoot.apple.com
-  # > Look Up
   - DOMAIN-SUFFIX,smoot.apple.com
   - DOMAIN,lookup-api.apple.com
-  # > Apple Music Web
-  - DOMAIN,beta.music.apple.com
   # ------
   # Google
   - DOMAIN-SUFFIX,go.dev

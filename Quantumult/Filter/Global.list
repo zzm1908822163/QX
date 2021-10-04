@@ -538,6 +538,7 @@ DOMAIN,books.itunes.apple.com,PROXY
 DOMAIN,api-glb-sea.smoot.apple.com,PROXY
 DOMAIN,beta.music.apple.com,PROXY
 DOMAIN,tv.apple.com,PROXY
+DOMAIN,uts-api.itunes.apple.com,PROXY
 # > App Store Web Preview
 DOMAIN,apps.apple.com,PROXY
 DOMAIN,itunes.apple.com,PROXY
