@@ -1,8 +1,11 @@
+# Forum
+DOMAIN-SUFFIX,bitcointalk.org
+
+# Exchange
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,bibox.com
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,ftx.com
@@ -11,5 +14,8 @@ DOMAIN-SUFFIX,huobi.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,sushi.com
 DOMAIN-SUFFIX,uniswap.org
-DOMAIN-SUFFIX,sushi.com
 DOMAIN-SUFFIX,zb.com
+
+# Analysis
+DOMAIN-SUFFIX,aicoin.com
+DOMAIN-SUFFIX,aimoon.com

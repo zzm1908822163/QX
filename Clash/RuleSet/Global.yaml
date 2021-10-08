@@ -416,6 +416,7 @@ payload:
   - DOMAIN-SUFFIX,tiny.cc
   - DOMAIN-SUFFIX,tinyurl.com
   - DOMAIN-SUFFIX,torproject.org
+  - DOMAIN-SUFFIX,tradingview.com
   - DOMAIN-SUFFIX,tumblr.com
   - DOMAIN-SUFFIX,turbobit.net
   - DOMAIN-SUFFIX,tutanota.com
@@ -467,6 +468,7 @@ payload:
   - DOMAIN-SUFFIX,zoom.us
 
   - DOMAIN,cc.tvbs.com.tw
+  - DOMAIN,clubhouse.pubnubapi.com
   - DOMAIN,ocsp.int-x3.letsencrypt.org
   - DOMAIN,us.weibo.com
 
@@ -555,6 +557,7 @@ payload:
   - DOMAIN-SUFFIX,golang.org
   # > Others
   - DOMAIN-SUFFIX,aicoin.com
+  - DOMAIN-SUFFIX,aimoon.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,cccat.io
   - DOMAIN-SUFFIX,dubox.com
