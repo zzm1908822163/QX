@@ -23,8 +23,13 @@ URL-REGEX,^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=start,REJECT-TI
 
 # A
 # --- (Alibaba) ---
-# > Fliggy - gw.alicdn.com,heic.alicdn.com
-^https?:\/\/gw\.alicdn\.com\/imgextra\/\w+\/\w+_!!\d+-\d-tps-\d{3}-\d{4}\.jpg - reject
+# > Taobao - gw.alicdn.com,heic.alicdn.com
+^https?:\/\/gw\.alicdn\.com\/imgextra\/\w{2}\/[\w!]+-\d-tps-\d{3,4}-\d{4}\.(jpg|png)_\d{4}x\d{4}q90 - reject
+# > Fliggy - gw.alicdn.com
+^https?:\/\/gw\.alicdn\.com\/imgextra\/\w{2}\/[\w!]+-\d-tps-\d{3}-\d{4}\.(jpg|png)$ - reject
+# > eTao - acs.m.taobao.com
+^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.etao\.noah\.query\/.+tao_splash - reject
+^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alimama\.etao\.config\.query\/.+?etao_advertise - reject
 # > Taopiaopiao - acs.m.taobao.com
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.queryadvertise\/ - reject
 # > AMap - m*.amap.com
@@ -346,7 +351,6 @@ URL-REGEX,^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=start,REJECT-TI
 ^https?:\/\/4gimg\.map\.qq\.com\/mwaSplash\/ - reject
 # > Tencent Video
 ^https?:\/\/.+?\.tc\.qq\.com\/.+?p20\d\.1\.mp4\? - reject
-^https?:\/\/.+?\.tc\.qq\.com\/.+?=v3004 - reject
 ^https?:\/\/.+?\.tc\.qq\.com\/.+?_p20\d_ - reject
 # > Tencent News - r.inews.qq.com
 ^https?:\/\/r\.inews\.qq\.com\/(adsBlacklist|getFullScreenPic|getQQNewsRemoteConfig) - reject
