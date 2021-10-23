@@ -15,7 +15,7 @@
 # A
 # --- (Alibaba) ---
 # > Taobao - gw.alicdn.com,heic.alicdn.com
-^https?:\/\/gw\.alicdn\.com\/imgextra\/\w{2}\/[\w!]+-\d-tps-\d{3,4}-\d{4}\.(jpg|png)_\d{4}x\d{4}q90 - reject
+^https?:\/\/(gw|heic)\.alicdn\.com\/imgextra\/\w{2}\/[\w!]+-\d-tps-\d{3,4}-\d{4}\.jpg_(1\d{3}|9\d{2})x(1\d{3}|9\d{2})q\d0\.jpg_\.(heic|webp)$ - reject
 # > Fliggy - gw.alicdn.com
 ^https?:\/\/gw\.alicdn\.com\/imgextra\/\w{2}\/[\w!]+-\d-tps-\d{3}-\d{4}\.(jpg|png)$ - reject
 # > eTao - acs.m.taobao.com
@@ -230,12 +230,12 @@
 ^https?:\/\/api\.mgzf\.com\/renter-operation\/home\/startHomePage - reject
 # > ManHuaRen
 ^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/public\/getStartPageAds - reject
-# > Meituan-Dianping - img.meituan.net,p*.meituan.net,s3plus.meituan.net,flowplus.meituan.net
-^https?:\/\/img\.meituan\.net\/(adunion|display|dpmobile|midas)\/\w+\.(gif|jpg|jpg\.webp)$ - reject
-^https?:\/\/(s3plus|flowplus)\.meituan\.net\/v\d\/\w+\/linglong\/\w+\.(gif|jpg|mp4) - reject
-^https?:\/\/p\d\.meituan\.net\/(bizad|wmbanner)\/\w+\.jpg - reject
-^https?:\/\/p\d\.meituan\.net\/movie\/\w+\.jpg\?may_covertWebp - reject
+# > Meituan-Dianping - flowplus.meituan.net
+#^https?:\/\/img\.meituan\.net\/(adunion|display|dpmobile|midas)\/\w+\.(gif|jpg|jpg\.webp)$ - reject
+#^https?:\/\/p\d\.meituan\.net\/(bizad|wmbanner)\/\w+\.jpg - reject
+#^https?:\/\/p\d\.meituan\.net\/movie\/\w+\.jpg\?may_covertWebp - reject
 ^https?:\/\/wmapi\.meituan\.com\/api\/v\d\/startpicture - reject
+^https?:\/\/flowplus\.meituan\.net\/v\d\/\w+\/linglong\/\d+\.(gif|jpg|mp4) - reject
 # > mwee - capi.mwee.cn
 ^https?:\/\/capi\.mwee\.cn\/app-api\/V\d+\/app\/(ad|getstartad) - reject
 # > MiaoPai - v?-api.miaopai.com
@@ -425,7 +425,7 @@
 ^https?:\/\/api\.zhuishushenqi\.com\/user\/bookshelf-updated - reject
 ^https?:\/\/itunes\.apple\.com\/lookup\?id=575826903 - reject
 # > Zuoyebang - syh.zybang.com
-^https?:\/\/syh\.zybang\.com\/adx\/ - reject
+^https?:\/\/syh\.zybang\.com\/com\/adx\/ - reject
 # > ZUIYOU - api.izuiyou.com
 ^https?:\/\/api\.izuiyou\.com\/ad\/ - reject
 # > Zhan - tiku.zhan.com
