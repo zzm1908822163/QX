@@ -544,14 +544,12 @@ payload:
   # ---(Apple)---
   - DOMAIN-SUFFIX,appsto.re
   - DOMAIN,books.itunes.apple.com
-  - DOMAIN,api-glb-sea.smoot.apple.com
+  - DOMAIN-SUFFIX,smoot.apple.com
   - DOMAIN,beta.music.apple.com
-  - DOMAIN,tv.apple.com
-  - DOMAIN,uts-api.itunes.apple.com
+  - DOMAIN,lookup-api.apple.com
   - DOMAIN,apps.apple.com
   - DOMAIN,itunes.apple.com
-  - DOMAIN-SUFFIX,smoot.apple.com
-  - DOMAIN,lookup-api.apple.com
+  - DOMAIN,tv.apple.com
   # ------
   # Google
   - DOMAIN-SUFFIX,go.dev
@@ -574,7 +572,6 @@ payload:
   - DOMAIN,developer.apple.com
   - DOMAIN,www.icloud.com
   - DOMAIN,ocsp.apple.com
-  - DOMAIN,xp.apple.com
   # > DigiCert
   - DOMAIN,cacerts.digicert.com
   - DOMAIN,crl3.digicert.com
