@@ -566,8 +566,8 @@ DOMAIN,apps.apple.com,PROXY
 DOMAIN,itunes.apple.com,PROXY
 DOMAIN,tv.apple.com,PROXY
 # > Podcasts
+DOMAIN,amp-api.podcasts.apple.com,PROXY
 DOMAIN,bookkeeper.itunes.apple.com,PROXY
-DOMAIN,news-client-search.apple.com,PROXY
 # ------
 # Google
 DOMAIN-SUFFIX,go.dev,PROXY
