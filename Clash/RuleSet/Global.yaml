@@ -573,6 +573,9 @@ payload:
   - DOMAIN,apps.apple.com
   - DOMAIN,itunes.apple.com
   - DOMAIN,tv.apple.com
+  # > Podcasts
+  - DOMAIN,bookkeeper.itunes.apple.com
+  - DOMAIN,news-client-search.apple.com
   # ------
   # Google
   - DOMAIN-SUFFIX,go.dev
