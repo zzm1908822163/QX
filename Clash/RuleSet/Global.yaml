@@ -576,6 +576,15 @@ payload:
   # > Podcasts
   - DOMAIN,amp-api.podcasts.apple.com
   - DOMAIN,bookkeeper.itunes.apple.com
+  # > News
+  - DOMAIN,gateway.icloud.com
+  - DOMAIN-SUFFIX,apple.news
+  - DOMAIN,news-assets.apple.com
+  - DOMAIN,news-client.apple.com
+  - DOMAIN,news-client-search.apple.com
+  - DOMAIN,news-edge.apple.com
+  - DOMAIN,news-events.apple.com
+  - DOMAIN,apple.comscoreresearch.com
   # ------
   # Google
   - DOMAIN-SUFFIX,go.dev
