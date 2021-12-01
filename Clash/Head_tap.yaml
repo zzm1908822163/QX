@@ -18,6 +18,13 @@ dns:
     - 223.6.6.6
   # experimental:
   # interface-name: WLAN
+tun:
+  enable: true
+  stack: system
+  # dns-hijack:
+  #   - 8.8.8.8:53
+  #   - tcp://8.8.8.8:53
+  auto-route: true
 clash-for-android: 
   # append-system-dns: true # 追加系统 DNS 到 nameserver 
   ui-subtitle-pattern: "[\u4e00-\u9fa5]{2,4}"
