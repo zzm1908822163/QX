@@ -571,6 +571,7 @@ payload:
   - DOMAIN,lookup-api.apple.com
   # > Web Preview
   - DOMAIN,apps.apple.com
+  - DOMAIN,books.apple.com
   - DOMAIN,itunes.apple.com
   - DOMAIN,tv.apple.com
   # > Podcasts

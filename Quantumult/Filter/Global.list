@@ -563,6 +563,7 @@ DOMAIN,beta.music.apple.com,PROXY
 DOMAIN,lookup-api.apple.com,PROXY
 # > Web Preview
 DOMAIN,apps.apple.com,PROXY
+DOMAIN,books.apple.com,PROXY
 DOMAIN,itunes.apple.com,PROXY
 DOMAIN,tv.apple.com,PROXY
 # > Podcasts
